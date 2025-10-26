@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>German Vocabulary Learner</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="test-container"></div>
+
+  <button id="wordbank-btn">WORDBANK</button>
+  <button id="testbank-btn">TESTBANK</button>
+
+  <!-- Wordbank Modal -->
+  <div id="wordbank-modal" class="modal">
+    <div class="modal-content">
+      <span id="close-wordbank" class="close" aria-label="Close Wordbank Modal">&times;</span>
+      <h2>Wordbank: Select Themes</h2>
+      <div id="theme-buttons"></div>
+      <button id="show-words-btn" style="display: none;" class="theme-btn" aria-label="Show selected themes">Show Selected Themes</button>
+      <div id="word-table-container" style="display: none;">
+        <h3 id="theme-title"></h3>
+        <div class="controls">
+          <button class="play-all-btn" onclick="playAllAudio()" aria-label="Play all German words in selected themes">▶️ Play All</button>
+          <button class="stop-btn" onclick="stopAudio()" style="display: none;" aria-label="Stop audio playback">⏹️ Stop</button>
+          <button class="settings-btn" onclick="openSettingsModal()" aria-label="Open playback settings">⚙️ Settings</button>
+        </div>
+        <table id="word-table">
+          <thead>
+            <tr>
+              <th scope="col">German</th>
+              <th scope="col">English</th>
+              <th scope="col">Audio</th>
+              <th scope="col">Audio</th>
+            </tr>
+          </thead>
+          <tbody id="word-table-body"></tbody>
+        </table>
+        <button onclick="backToThemes('wordbank')" class="back-btn" aria-label="Back to theme selection">Back to Themes</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Settings Modal -->
+  <div id="settings-modal" class="modal" style="display: none;">
+    <div class="modal-content">
+      <span id="close-settings" class="close" aria-label="Close Settings Modal">&times;</span>
+      <h2>Playback Settings</h2>
+      <label for="speech-rate">Speech Speed:</label>
+      <select id="speech-rate" aria-label="Select speech speed">
+        <option value="0.5">0.5x (Slow)</option>
+        <option value="0.8" selected>0.8x (Normal)</option>
+        <option value="1.0">1.0x (Default)</option>
+        <option value="1.2">1.2x (Fast)</option>
+        <option value="1.5">1.5x (Faster)</option>
+      </select>
+      <button onclick="saveSettings()" class="theme-btn" aria-label="Save settings">Save</button>
+    </div>
+  </div>
+
+  <!-- Testbank Modal -->
+  <div id="testbank-modal" class="modal">
+    <div class="modal-content">
+      <span id="close-testbank" class="close" aria-label="Close Testbank Modal">&times;</span>
+      <h2>Testbank: Select a Theme</h2>
+      <div id="test-theme-buttons"></div>
+      <div id="test-options-container" style="display: none;">
+        <h3 id="test-theme-title"></h3>
+        <div id="test-type-buttons">
+          <button onclick="startMeaningsTest()" aria-label="Meanings Test">🎵 Meanings Test</button>
+          <button onclick="startSpellingTest(false)" aria-label="Spelling Test German">✏️ Spelling Test (German)</button>
+          <button onclick="startSpellingTest(true)" aria-label="English to German Spelling Test">🌍 English to German</button>
+          <button onclick="startMatchingTest()" aria-label="Matching Test">🔗 Matching Test</button>
+        </div>
+        <div id="test-content"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
+
