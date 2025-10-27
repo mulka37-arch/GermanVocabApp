@@ -5,10 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>German Vocabulary Learner</title>
   <link rel="stylesheet" href="style.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 </head>
 <body>
   <div id="test-container"></div>
-
   <button id="wordbank-btn">WORDBANK</button>
   <button id="testbank-btn">TESTBANK</button>
 
@@ -25,14 +25,16 @@
           <button class="play-all-btn" onclick="playAllAudio()" aria-label="Play all German words in selected themes">▶️ Play All</button>
           <button class="stop-btn" onclick="stopAudio()" style="display: none;" aria-label="Stop audio playback">⏹️ Stop</button>
           <button class="settings-btn" onclick="openSettingsModal()" aria-label="Open playback settings">⚙️ Settings</button>
+          <button class="download-btn" id="download-pdf-btn" aria-label="Download word list as PDF">📥 Download PDF</button>
         </div>
         <table id="word-table">
           <thead>
             <tr>
+              <th scope="col">Article</th>
               <th scope="col">German</th>
               <th scope="col">English</th>
-              <th scope="col">Audio</th>
-              <th scope="col">Audio</th>
+              <th scope="col">Audio (DE)</th>
+              <th scope="col">Audio (EN)</th>
             </tr>
           </thead>
           <tbody id="word-table-body"></tbody>
@@ -40,6 +42,23 @@
         <button onclick="backToThemes('wordbank')" class="back-btn" aria-label="Back to theme selection">Back to Themes</button>
       </div>
     </div>
+  </div>
+
+  <!-- Hidden div for PDF generation -->
+  <div id="pdf-content" style="display: none;">
+    <h2>German Vocabulary List</h2>
+    <h3 id="pdf-theme-title"></h3>
+    <table id="pdf-word-table">
+      <thead>
+        <tr>
+          <th>Article</th>
+          <th>German</th>
+          <th>English</th>
+          <th>Theme</th>
+        </tr>
+      </thead>
+      <tbody id="pdf-word-table-body"></tbody>
+    </table>
   </div>
 
   <!-- Settings Modal -->
@@ -69,16 +88,14 @@
         <h3 id="test-theme-title"></h3>
         <div id="test-type-buttons">
           <button onclick="startMeaningsTest()" aria-label="Meanings Test">🎵 Meanings Test</button>
-          <button onclick="startSpellingTest(false)" aria-label="Spelling Test German">✏️ Spelling Test (German)</button>
-          <button onclick="startSpellingTest(true)" aria-label="English to German Spelling Test">🌍 English to German</button>
+          <button onclick="startDictationTest()" aria-label="Dictation Test">🎤 Dictation Test</button>
+          <button onclick="startArticleTest()" aria-label="Article Test">📝 Article Test</button>
           <button onclick="startMatchingTest()" aria-label="Matching Test">🔗 Matching Test</button>
         </div>
         <div id="test-content"></div>
       </div>
     </div>
   </div>
-
-  <script src="script.js" defer></script>
+  <script src="script.js"></script>
 </body>
 </html>
-
