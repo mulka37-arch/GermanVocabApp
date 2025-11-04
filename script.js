@@ -44616,7 +44616,4933 @@ const wordbankData = [
         "German": "zweihundert",
         "English": "two hundred",
         "theme": "Numbers"
-    }
+    },
+   {
+    "Article": null,
+    "German": "Herzlich Willkommen",
+    "English": "hearty welcome",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Guten Morgen!",
+    "English": "Good Morning!",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "nicht wahr?",
+    "English": "isn’t it?",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "kommen",
+    "English": "to come",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Kommen Sie herein!",
+    "English": "come in",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "nehmen",
+    "English": "to take",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Platz",
+    "English": "seat",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Danke schön",
+    "English": "Thank you very much",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "möchten",
+    "English": "would like",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "etwas",
+    "English": "something",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "trinken",
+    "English": "to drink",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Ja",
+    "English": "yes",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "bitte",
+    "English": "please, excuse",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "vielleicht",
+    "English": "perhaps",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Tee",
+    "English": "tea",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Kaffee",
+    "English": "coffee",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "mit",
+    "English": "with",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "oder",
+    "English": "or",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "ohne",
+    "English": "without",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Zucker",
+    "English": "sugar",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Milch",
+    "English": "milk",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "immer",
+    "English": "always",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Indien",
+    "English": "India",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "zuerst",
+    "English": "firstly, at first",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Zimmer",
+    "English": "room",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "sehr",
+    "English": "too, very",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "schön",
+    "English": "beautiful",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Arbeitstisch",
+    "English": "work-table",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Bett",
+    "English": "bed",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Stuhl",
+    "English": "chair",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Kleiderschrank",
+    "English": "wardrobe",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Bücherregal",
+    "English": "book shelf",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "da",
+    "English": "there",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "auch",
+    "English": "also",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Fernseher",
+    "English": "television",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Gepäck",
+    "English": "luggage",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "nein",
+    "English": "no",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "nur",
+    "English": "only",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Koffer",
+    "English": "suitcase",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Sohn",
+    "English": "son",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "heißen",
+    "English": "to be called",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "woher",
+    "English": "from where?",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "machen",
+    "English": "to do",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Deutschland",
+    "English": "Germany",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "ein bisschen",
+    "English": "a bit",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "kalt",
+    "English": "cold",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "alt",
+    "English": "old",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "groß",
+    "English": "big",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Erdgeschoss",
+    "English": "ground floor",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Stock",
+    "English": "floor",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Wohnzimmer",
+    "English": "living room",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Toilette",
+    "English": "toilet",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Küche",
+    "English": "kitchen",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Schlafzimmer",
+    "English": "bedroom",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "erst",
+    "English": "only",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Kinderzimmer",
+    "English": "children's room",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Keller",
+    "English": "cellar",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Dachstube",
+    "English": "attic",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Garage",
+    "English": "garage",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "sogar",
+    "English": "even",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Balkon",
+    "English": "balcony",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "wie",
+    "English": "how",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "wie lange",
+    "English": "how long?",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "wohnen",
+    "English": "to stay",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "schon",
+    "English": "already",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Garten",
+    "English": "garden",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "und",
+    "English": "and",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "zwar",
+    "English": "indeed",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Mutter",
+    "English": "mother",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "heute",
+    "English": "today",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Sprachschule",
+    "English": "language school",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Unterricht",
+    "English": "class",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "beginnen",
+    "English": "to begin",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "wo",
+    "English": "where",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "liegen",
+    "English": "to be located, lie",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Schule",
+    "English": "school",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "wissen",
+    "English": "to know",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Richtung",
+    "English": "direction",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "mitkommen",
+    "English": "come along",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank",
+    "English": "many thanks",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "nett",
+    "English": "nice",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "gern geschehen",
+    "English": "you are welcome",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "wann",
+    "English": "when",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "sofort",
+    "English": "at once",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Wie geht es Ihnen?",
+    "English": "How are you?",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "scheußlich",
+    "English": "awful",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Schnupfen",
+    "English": "cold",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Entschuldigung",
+    "English": "excuse me",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "doch",
+    "English": "indeed",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Prüfung",
+    "English": "examination",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Brief",
+    "English": "letter",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Reise",
+    "English": "journey",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Fortbildungskurs",
+    "English": "advanced course",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Hauptstadt",
+    "English": "capital",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "unterrichten",
+    "English": "teach",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Arzt",
+    "English": "doctor",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Tierärztin",
+    "English": "veterinarian",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "leben",
+    "English": "to live",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "besuchen",
+    "English": "to visit",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "oft",
+    "English": "often",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Journalist",
+    "English": "journalist",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Zeitung",
+    "English": "newspaper",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "verheiratet",
+    "English": "married",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Hunger",
+    "English": "hunger",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Hausaufgaben",
+    "English": "home-work",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Tag",
+    "English": "day",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "bestellen",
+    "English": "to order",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Mittagessen",
+    "English": "lunch",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Mensa",
+    "English": "canteen",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Restaurant",
+    "English": "restaurant",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Hotel",
+    "English": "hotel",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Speisekarte",
+    "English": "menu",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Tablett",
+    "English": "tray",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Selbstbedienung",
+    "English": "self service",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "zeigen",
+    "English": "to show",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Studentenausweis",
+    "English": "student ID",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "bekommen",
+    "English": "to get",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Rechnung",
+    "English": "receipt",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "bezahlen",
+    "English": "to pay",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "dort",
+    "English": "there",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "drüben",
+    "English": "over there",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Kasse",
+    "English": "cash counter",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Ende",
+    "English": "end",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "kriegen",
+    "English": "to get",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Quittung",
+    "English": "bill",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "klar",
+    "English": "clear",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "teuer",
+    "English": "expensive",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "überhaupt",
+    "English": "at all",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Essen",
+    "English": "meal",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "kosten",
+    "English": "to cost",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Stück",
+    "English": "piece",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Fleisch",
+    "English": "meat",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Fisch",
+    "English": "fish",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "fast",
+    "English": "almost",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "vegetarisch",
+    "English": "vegetarian",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Salat",
+    "English": "salad",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Kartoffel",
+    "English": "potato",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Brot",
+    "English": "bread",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Käse",
+    "English": "cheese",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Nachtisch",
+    "English": "dessert",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Eis",
+    "English": "ice cream",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Torte",
+    "English": "pastry",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Kuchen",
+    "English": "cake",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Sahne",
+    "English": "cream",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "mögen",
+    "English": "to like",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Besteck",
+    "English": "cutlery",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Serviette",
+    "English": "napkin",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Ecke",
+    "English": "corner",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "schmecken",
+    "English": "taste",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "ganz",
+    "English": "quite",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Gewürz",
+    "English": "spice",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "scharf",
+    "English": "spicy",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Tischsitten",
+    "English": "table etiquette",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Löffel",
+    "English": "spoon",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Gabel",
+    "English": "fork",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Messer",
+    "English": "knife",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "recht",
+    "English": "right",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Hand",
+    "English": "hand",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "praktisch",
+    "English": "practical",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Monat",
+    "English": "month",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Spaβ",
+    "English": "fun",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Familie",
+    "English": "family",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "freundlich",
+    "English": "friendly",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "klein",
+    "English": "small",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Essen",
+    "English": "food, meal",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "gesund",
+    "English": "healthy",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "fremd",
+    "English": "unfamiliar",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Universität",
+    "English": "university",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Woche",
+    "English": "week",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Ausflug",
+    "English": "picnic",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "herzlich",
+    "English": "hearty",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Gruβ",
+    "English": "greeting",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "unser",
+    "English": "our",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Fest",
+    "English": "festival",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "ganz",
+    "English": "whole",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Volk",
+    "English": "people",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "feiern",
+    "English": "celebrate",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "dauern",
+    "English": "to last",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Jahreszeit",
+    "English": "seasons",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Frühling",
+    "English": "spring",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "verschieden",
+    "English": "different",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Blume",
+    "English": "flower",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Rückkehr",
+    "English": "return",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "König",
+    "English": "king",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "lieben",
+    "English": "to love",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "einmal",
+    "English": "once",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "zurückkommen",
+    "English": "to return",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Land",
+    "English": "country",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Leute",
+    "English": "people",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "sehen",
+    "English": "to see",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "tragen",
+    "English": "to wear",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Kleid",
+    "English": "dress",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Stadt",
+    "English": "city",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "überall",
+    "English": "everywhere",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Beleuchtung",
+    "English": "illumination",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "toll",
+    "English": "wonderful",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "kochen",
+    "English": "to cook",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Gericht",
+    "English": "dish, curry",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "genießen",
+    "English": "to enjoy",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Feiertag",
+    "English": "holiday",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "scheinen",
+    "English": "to shine",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Mond",
+    "English": "moon",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "hell",
+    "English": "bright",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Ernte",
+    "English": "harvest",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Junge",
+    "English": "boy",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Zahnpasta",
+    "English": "toothpaste",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Verfall",
+    "English": "decay",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "eigentlich",
+    "English": "actually",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Waschmittel",
+    "English": "detergent",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "porentief",
+    "English": "thoroughly",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "später",
+    "English": "later",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Schokolade",
+    "English": "chocolate",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "verbrauchen",
+    "English": "to consume",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "packen",
+    "English": "to pack",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "geschehen",
+    "English": "to happen",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Hammer",
+    "English": "hammer",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "entzweischlagen",
+    "English": "to break into pieces",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Wirtshaus",
+    "English": "inn",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Adler",
+    "English": "eagle",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Ente",
+    "English": "duck",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Eisvogel",
+    "English": "kingfisher",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Gans",
+    "English": "goose",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Hahn",
+    "English": "cock",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Henne",
+    "English": "hen",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Papagei",
+    "English": "parrot",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Pfau",
+    "English": "peacock",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Specht",
+    "English": "woodpecker",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Sperling",
+    "English": "sparrow",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Taube",
+    "English": "pigeon",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Truthahn",
+    "English": "turkey",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Hund",
+    "English": "dog",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Kaninchen",
+    "English": "rabbit",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Katze",
+    "English": "cat",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Kater",
+    "English": "tom cat",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Kuh",
+    "English": "cow",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Ochse",
+    "English": "ox",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Pferd",
+    "English": "horse",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Ratte",
+    "English": "rat",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Schaf",
+    "English": "sheep",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Schwein",
+    "English": "pig",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Ziege",
+    "English": "goat",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Ziegenbock",
+    "English": "he-goat",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Affe",
+    "English": "monkey",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Fuchs",
+    "English": "fox",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Hirsch",
+    "English": "deer",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Löwe",
+    "English": "lion",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Tiger",
+    "English": "tiger",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Wolf",
+    "English": "wolf",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Beruf",
+    "English": "profession",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Lexikon",
+    "English": "lexicon; dictionary",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Kinderarzt",
+    "English": "paediatrician",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Frauenarzt",
+    "English": "gynaecologist",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Astronaut",
+    "English": "astronaut",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Buchhalter",
+    "English": "accountant",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Bankangestellter",
+    "English": "bank employee",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Bauarbeiter",
+    "English": "construction worker",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Bäcker",
+    "English": "baker",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Bergkletter",
+    "English": "mountaineer",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Chemiker",
+    "English": "chemist",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Chirurg",
+    "English": "surgeon",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Dolmetscher",
+    "English": "interpreter",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Diamantschleifer",
+    "English": "diamond-cutter",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Chef",
+    "English": "chef; boss",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Empfangsdame",
+    "English": "receptionist",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Fahrer",
+    "English": "driver",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Friseur",
+    "English": "hair-dresser",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Fotograf",
+    "English": "photographer",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Fischer",
+    "English": "fisherman",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Geologe",
+    "English": "geologist",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Goldschmied",
+    "English": "goldsmith",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Hirt",
+    "English": "shepherd",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Herausgeber",
+    "English": "publisher",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Informatiker",
+    "English": "computer scientist",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Ingenieur",
+    "English": "engineer",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Jäger",
+    "English": "hunter",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Kaufmann",
+    "English": "businessman",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Kindergärtnerin",
+    "English": "nursery teacher",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Kellner",
+    "English": "waiter",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Koch",
+    "English": "cook",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Komponist",
+    "English": "composer",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Künstler",
+    "English": "artist",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Klempner",
+    "English": "plumber",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Kapitän",
+    "English": "captain",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Landwirt",
+    "English": "landlord",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Lehrer",
+    "English": "male teacher",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Metzger",
+    "English": "butcher",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Mechaniker",
+    "English": "mechanic; machinist",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Maler",
+    "English": "painter",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Naturwissenschaftler",
+    "English": "nature scientist",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "ONH",
+    "English": "ENT",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Ophthalmologe",
+    "English": "ophthalmologist",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Ober",
+    "English": "waiter",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Pfarrer",
+    "English": "priest",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Passagier",
+    "English": "passenger",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Physiker",
+    "English": "physicist",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Putzfrau",
+    "English": "cleaning maid",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Psychologe",
+    "English": "psychologist",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Politiker",
+    "English": "politician",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Philosoph",
+    "English": "philosopher",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Pianist",
+    "English": "pianist",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Pilot",
+    "English": "pilot",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Rechtsanwalt",
+    "English": "lawyer; advocate",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Richter",
+    "English": "judge",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Rennfahrer",
+    "English": "racer",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Reparierer",
+    "English": "repairer",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Reporter",
+    "English": "reporter",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Redakteur",
+    "English": "editor",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Reiniger",
+    "English": "cleaner",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Regisseur",
+    "English": "director",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Soldat",
+    "English": "soldier",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Schaffner",
+    "English": "conductor (bus, train etc.)",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Schriftsteller",
+    "English": "writer",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Schauspieler",
+    "English": "film artist",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Schlosser",
+    "English": "blacksmith",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Soziologe",
+    "English": "sociologist",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Sportler",
+    "English": "sportsman",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Schneider",
+    "English": "tailor",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Taucher",
+    "English": "diver",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Tierarzt",
+    "English": "veterinary doctor",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Schuster",
+    "English": "cobbler",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Tischler",
+    "English": "joiner; carpenter",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Trainer",
+    "English": "trainer",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Tänzer",
+    "English": "dancer",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Übersetzer",
+    "English": "translator",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Vermieter",
+    "English": "lessor",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Verkäufer",
+    "English": "seller",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Wirt",
+    "English": "landlord",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Wissenschaftler",
+    "English": "scientist",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Zahnarzt",
+    "English": "dentist",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Zauberer",
+    "English": "magician",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Übung",
+    "English": "exercise",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "ergänzen",
+    "English": "complete",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "passend",
+    "English": "suitable",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Form",
+    "English": "form",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "männlich",
+    "English": "masculine",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "weiblich",
+    "English": "feminine",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Beamter",
+    "English": "officer",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Kassierer",
+    "English": "cashier",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Krankenhaus",
+    "English": "hospital",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Bank",
+    "English": "bank",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Büro",
+    "English": "office",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "untersuchen",
+    "English": "to examine",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Geld",
+    "English": "money",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "einnehmen",
+    "English": "(here) to withdraw",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Institut",
+    "English": "institute",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Fremdsprache",
+    "English": "foreign language",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Student",
+    "English": "student",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Französisch",
+    "English": "French",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Japanisch",
+    "English": "Japanese",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Russisch",
+    "English": "Russian",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Spanisch",
+    "English": "Spanish",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Italienisch",
+    "English": "Italian",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Nordindien",
+    "English": "North India",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Südindien",
+    "English": "South India",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Ost",
+    "English": "east",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "West",
+    "English": "west",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "sehr",
+    "English": "too; very",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Unterricht",
+    "English": "class; lesson",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Mittagspause",
+    "English": "lunch break",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "essen",
+    "English": "to eat",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Mensa",
+    "English": "student’s canteen",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "schmecken",
+    "English": "to taste",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Montag",
+    "English": "Monday",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Freitag",
+    "English": "Friday",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "alle",
+    "English": "all",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "pünktlich",
+    "English": "on time",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Uhrzeit",
+    "English": "clock time",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "erklären",
+    "English": "explain",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "verstehen",
+    "English": "understand",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Wort",
+    "English": "word",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "entschuldigen",
+    "English": "to excuse",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Pause",
+    "English": "pause",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "wieder",
+    "English": "again",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "jetzt",
+    "English": "now",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "schreiben",
+    "English": "to write",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Diktat",
+    "English": "dictation",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Text",
+    "English": "text",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "laut",
+    "English": "loudly",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "deutlich",
+    "English": "clearly",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Auf Wiedersehen",
+    "English": "goodbye",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Mittwoch",
+    "English": "Wednesday",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Buch",
+    "English": "book",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Haus",
+    "English": "house",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "schriftlich",
+    "English": "written",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "krank",
+    "English": "ill",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "gestern",
+    "English": "yesterday",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Grippe",
+    "English": "flu",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Gesicht",
+    "English": "face",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "rot",
+    "English": "red",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "heiß",
+    "English": "hot",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Fieber",
+    "English": "fever",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Husten",
+    "English": "cough",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Erkältung",
+    "English": "cold",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Schmerz",
+    "English": "pain",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Halsschmerzen",
+    "English": "throat pain",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "manchmal",
+    "English": "sometimes",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Rückenschmerzen",
+    "English": "back pain",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Bauch",
+    "English": "stomach",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Bauchschmerzen",
+    "English": "stomach pain",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Saft",
+    "English": "juice",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Hustensaft",
+    "English": "cough syrup",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Tablette",
+    "English": "tablet",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Medizin",
+    "English": "medicine",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "nun",
+    "English": "now",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "besser",
+    "English": "better",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "arbeitsfähig",
+    "English": "capable of work",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Prüfung",
+    "English": "test; exam",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Kleingeld",
+    "English": "change",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Fahrkarte",
+    "English": "ticket",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Spielkarte",
+    "English": "playing card",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "spielen",
+    "English": "to play",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "eilen",
+    "English": "to hurry",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Eilzug",
+    "English": "express train",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Saal",
+    "English": "hall",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Hörsaal",
+    "English": "auditorium",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Fragewort",
+    "English": "question word",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Nummer",
+    "English": "number",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Adresse",
+    "English": "address",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "es gibt",
+    "English": "there is; there are",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Klasse",
+    "English": "class",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Wie bitte?",
+    "English": "Pardon; excuse",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Bahnhof",
+    "English": "railway station",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "dauern",
+    "English": "last",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "warum?",
+    "English": "why?",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Wie lange?",
+    "English": "How long?",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Welche(r,s)",
+    "English": "which",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Wagen",
+    "English": "car",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Firma",
+    "English": "firm",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "suchen",
+    "English": "to look for; search",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "wozu?",
+    "English": "what for?",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "wessen?",
+    "English": "whose?",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "weiß",
+    "English": "white",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "schwarz",
+    "English": "black",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "blau",
+    "English": "blue",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "grün",
+    "English": "green",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "gelb",
+    "English": "yellow",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "neu",
+    "English": "new",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "lang",
+    "English": "long",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "kurz",
+    "English": "short",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "richtig",
+    "English": "right",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "falsch",
+    "English": "FALSE",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "fleißig",
+    "English": "industrious",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "faul",
+    "English": "lazy",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "warm",
+    "English": "warm",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "frisch",
+    "English": "fresh",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "leer",
+    "English": "empty",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "voll",
+    "English": "full",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "stark",
+    "English": "strong",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "schwach",
+    "English": "weak",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "leicht",
+    "English": "easy",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "billig",
+    "English": "cheap",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "krank",
+    "English": "sick",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "reich",
+    "English": "rich",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "arm",
+    "English": "poor",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "hübsch",
+    "English": "pretty",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "schick",
+    "English": "handsome",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "interessant",
+    "English": "interesting",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "nass",
+    "English": "wet",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "langweilig",
+    "English": "boring",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "vorbei",
+    "English": "over",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Wochenende",
+    "English": "weekend",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "in",
+    "English": "in; into",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Chemie",
+    "English": "chemistry",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "einsteigen",
+    "English": "to board",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Bus",
+    "English": "bus",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "halb",
+    "English": "half",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Stunde",
+    "English": "hour",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "beide",
+    "English": "both",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "sich treffen",
+    "English": "to meet",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Buchhandlung",
+    "English": "book shop",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Roman",
+    "English": "novel",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "lange",
+    "English": "long",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "finden",
+    "English": "to find",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "sich verabschieden",
+    "English": "to say goodbye; to bid farewell",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "zurückkommen",
+    "English": "to return; to come back",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "surfen",
+    "English": "to surf",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Kreditkarte",
+    "English": "credit card",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "hoffentlich",
+    "English": "hopefully",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Kätzchen",
+    "English": "kitten",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "hungrig",
+    "English": "hungry",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "werden",
+    "English": "to become",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Spritze",
+    "English": "injection",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Mahlzeit",
+    "English": "mealtime",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Frühstück",
+    "English": "breakfast",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Abendessen",
+    "English": "dinner; supper",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Butter",
+    "English": "butter",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Marmelade",
+    "English": "jam",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Wurst",
+    "English": "sausage",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Brötchen",
+    "English": "bread roll",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Honig",
+    "English": "honey",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Reis",
+    "English": "rice",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "zuerst",
+    "English": "at first",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Teller",
+    "English": "plate",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Suppe",
+    "English": "soup",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Hähnchen",
+    "English": "chicken",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Bier",
+    "English": "beer",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Wein",
+    "English": "wine",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Obstkuchen",
+    "English": "fruit-cake",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Schweinbraten",
+    "English": "roast pork",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Rindersteak",
+    "English": "beef steak",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Platz",
+    "English": "place",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Welt",
+    "English": "world",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Nahrung",
+    "English": "nourishment",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Nahrungsmittel",
+    "English": "provisions",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Gemüse",
+    "English": "vegetables",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Apfel",
+    "English": "apple",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Erdbeere",
+    "English": "strawberry",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Kirsche",
+    "English": "cherry",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Tomate",
+    "English": "tomato",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Orange",
+    "English": "orange",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Zwiebel",
+    "English": "onion",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Banane",
+    "English": "banana",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Spinat",
+    "English": "spinach",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Birne",
+    "English": "pear",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Ananas",
+    "English": "pine-apple",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "gemütlich",
+    "English": "comfortable",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "günstig",
+    "English": "nice",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "besetzt",
+    "English": "occupied",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "satt",
+    "English": "satisfied",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "getrennt",
+    "English": "separate",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "stimmen",
+    "English": "to be right",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "natürlich",
+    "English": "of course",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Appetit",
+    "English": "appetite",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Danke, gleichfalls",
+    "English": "thank you, same to you",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Durst",
+    "English": "thirst",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Limonade",
+    "English": "lemonade",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "holen",
+    "English": "to bring",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "wenig",
+    "English": "little",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Wörterbuch",
+    "English": "dictionary",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "benutzen",
+    "English": "to use",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "schade!",
+    "English": "it’s a pity!",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Bibliothek",
+    "English": "library",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "üben",
+    "English": "to practice",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Sprichwörter",
+    "English": "proverbs",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "sich fühlen",
+    "English": "to feel",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "gar",
+    "English": "cooked",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "verschieben",
+    "English": "to postpone",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Flasche",
+    "English": "bottle",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Kiste",
+    "English": "box",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Packung",
+    "English": "packet",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Pfund",
+    "English": "pound",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Kilo",
+    "English": "kilo",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Gramm",
+    "English": "gram",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "der/das Liter",
+    "English": "litre",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Glas",
+    "English": "glass",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Beutel",
+    "English": "bag",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Tafel",
+    "English": "bar (of chocolate)",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Dose",
+    "English": "can",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Faulenzer",
+    "English": "lazy bones",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Spaziergang",
+    "English": "walk; stroll",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "der/die Verwandte",
+    "English": "relative",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "komisch",
+    "English": "funny",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Kunde",
+    "English": "customer",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Supermarkt",
+    "English": "supermarket",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Apfelsaft",
+    "English": "apple-juice",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Rotkohl",
+    "English": "red cabbage",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Tut mir leid",
+    "English": "I’m sorry",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Vorspeise",
+    "English": "starter",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Zwiebelsuppe",
+    "English": "onion soup",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Tomatensuppe",
+    "English": "tomato soup",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Hühnersuppe",
+    "English": "chicken soup",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Nudelsuppe",
+    "English": "noodle soup",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Eiersalat",
+    "English": "egg salad",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Käsesalat",
+    "English": "cheese salad",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Gemüsesalat",
+    "English": "vegetable salad",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Hauptgericht",
+    "English": "main course",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Wienerschnitzel",
+    "English": "Schnitzel popular in Vienna",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Nachspeise",
+    "English": "dessert",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Süßigkeiten",
+    "English": "sweets",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Schokoladeneis",
+    "English": "chocolate ice-cream",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Apfeltorte",
+    "English": "apple cake",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Kirschtorte",
+    "English": "cherry cake",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Obsttorte",
+    "English": "fruit cake",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Käsekuchen",
+    "English": "cheese cake",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Aprikosentorte",
+    "English": "apricot cake",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Getränk",
+    "English": "drink",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Zitronentee",
+    "English": "lemon-tea",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Eiskaffee",
+    "English": "ice-coffee",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Traubensaft",
+    "English": "grape juice",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "süß",
+    "English": "sweet",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "zu süß",
+    "English": "too sweet",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "bitter",
+    "English": "bitter",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "sauer",
+    "English": "sour",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "hart",
+    "English": "hard",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "weich",
+    "English": "soft",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "salzig",
+    "English": "salty",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "trocken",
+    "English": "dry",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "scharf",
+    "English": "hot / spicy",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Zahl",
+    "English": "number",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Kardinalzahlen",
+    "English": "cardinal number",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "plus",
+    "English": "plus",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "gleich",
+    "English": "equal",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "minus",
+    "English": "minus",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "mal",
+    "English": "times (multiplication)",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "durch",
+    "English": "divided by (maths)",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Einkaufen",
+    "English": "shopping",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "einkaufengehen",
+    "English": "go for shopping",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Kaufhaus",
+    "English": "department store",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Etage",
+    "English": "floor",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Spielzeug",
+    "English": "toy",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "zahlen",
+    "English": "pay",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Kollege",
+    "English": "colleague",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Ordinalzahlen",
+    "English": "ordinal numbers",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "wievielte?",
+    "English": "what date?",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Uhrzeiten",
+    "English": "clock times",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "Wie spät ist es? / Wieviel Uhr ist es?",
+    "English": "What is the time?",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Viertel",
+    "English": "quarter",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "nach",
+    "English": "past (clock time)",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "vor",
+    "English": "to (clock time)",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "um",
+    "English": "at",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "gegen",
+    "English": "around (time)",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "von",
+    "English": "from",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "bis",
+    "English": "until",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "in",
+    "English": "in; within; into",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "normalerweise",
+    "English": "usually",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "genau",
+    "English": "sharp; exactly",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Konferenz",
+    "English": "meeting",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Arbeit",
+    "English": "work",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Feierabend",
+    "English": "time after work",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Formular",
+    "English": "form",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "ausfüllen",
+    "English": "to fill in",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Name",
+    "English": "name",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Vorname",
+    "English": "first name; forename",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Familienname",
+    "English": "surname; family name",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Alter",
+    "English": "age",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Geburtsdatum",
+    "English": "date of birth",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Staatsangehörigkeit",
+    "English": "nationality",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Familienstand",
+    "English": "family status",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "ledig",
+    "English": "single",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "verwitwet",
+    "English": "widowed",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Hobby",
+    "English": "hobby",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Ausbildung",
+    "English": "education",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Erfahrung",
+    "English": "experience",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Fahrzeuge",
+    "English": "means of transport",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Fahrrad",
+    "English": "bicycle",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Auto",
+    "English": "car",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Zug",
+    "English": "train",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Schiff",
+    "English": "ship",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Flugzeug",
+    "English": "aeroplane",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Lastkraftwagen",
+    "English": "lorry",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Omnibus",
+    "English": "public bus",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Pritsche",
+    "English": "mini lorry",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Boot",
+    "English": "boat",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "segeln",
+    "English": "to sail",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "fliegen",
+    "English": "to fly",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Fahrt",
+    "English": "journey",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Reise",
+    "English": "trip",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Flug",
+    "English": "flight",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Urlaub",
+    "English": "vacation",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Spaß",
+    "English": "fun",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Vergnügen",
+    "English": "pleasures",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "froh",
+    "English": "happy",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Ostern",
+    "English": "Easter",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Weihnachten",
+    "English": "Christmas",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Jahr",
+    "English": "year",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Pfingsten",
+    "English": "Whitsun",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Wechsel",
+    "English": "change; turn",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Besserung",
+    "English": "recovery; improvement",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "niesen",
+    "English": "to sneeze",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Gesundheit",
+    "English": "health",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "gratulieren",
+    "English": "to wish",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Glückwunsch",
+    "English": "congrats",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "heiraten",
+    "English": "to marry",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Hochzeit",
+    "English": "marriage",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Glück",
+    "English": "luck",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Daumen",
+    "English": "thumb",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Panne",
+    "English": "break-down",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "verzeihen",
+    "English": "pardon",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "sich verspäten",
+    "English": "to be late",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Wecker",
+    "English": "alarm",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "stehenbleiben",
+    "English": "to stop",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "anrufen",
+    "English": "to ring up",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "einladen",
+    "English": "to invite",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "abfahren",
+    "English": "to depart; to leave",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "mitbringen",
+    "English": "to bring along",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "vorschlagen",
+    "English": "to suggest",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Problem",
+    "English": "problem",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Fahrgast",
+    "English": "passenger",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "aussteigen",
+    "English": "to alight",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "ausgehen",
+    "English": "to go out",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "mitfahren",
+    "English": "to travel along",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "fehlen",
+    "English": "to be wrong",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "fertig",
+    "English": "ready",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Film",
+    "English": "film",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "verstehen",
+    "English": "to understand",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "brauchen",
+    "English": "to need",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Kopfschmerzen",
+    "English": "head-ache",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "dunkel",
+    "English": "dark",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "warten",
+    "English": "to wait",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Studentenheim",
+    "English": "students’ hostel",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Motorrad",
+    "English": "motor-cycle",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "sprechen",
+    "English": "to speak",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "langsam",
+    "English": "slowly",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Präteritum",
+    "English": "simple past (tense)",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "zeichnen",
+    "English": "to draw",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "rechnen",
+    "English": "to calculate",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "bitten",
+    "English": "to request",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "früher",
+    "English": "earlier",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Opa",
+    "English": "Grandpa",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Oma",
+    "English": "Grandma",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Wohnung",
+    "English": "apartment",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "bügeln",
+    "English": "to iron",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "nähen",
+    "English": "to stitch",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Waschmaschine",
+    "English": "washing machine",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "besorgen",
+    "English": "to take care of",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Fabrik",
+    "English": "factory",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Laden",
+    "English": "shop",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "reden",
+    "English": "to talk",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Lied",
+    "English": "song",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Weihnachtszeit",
+    "English": "Christmas time",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Baum",
+    "English": "tree",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Tannenbaum",
+    "English": "pine tree",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Blatt",
+    "English": "leaf",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "grünen",
+    "English": "to turn green",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Sommer",
+    "English": "summer",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Winter",
+    "English": "winter",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "wenn",
+    "English": "when / if",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "mein",
+    "English": "my",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "liegen",
+    "English": "to be situated",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "sondern",
+    "English": "but",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "modern",
+    "English": "modern",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "schön",
+    "English": "beautiful; nice",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Arbeitszimmer",
+    "English": "work-room",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Schlafzimmer",
+    "English": "sleeping room",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Kinderzimmer",
+    "English": "children’s room",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Gastzimmer",
+    "English": "guest room",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Bad",
+    "English": "bathroom",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Person",
+    "English": "person",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Eltern",
+    "English": "parents",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "oben",
+    "English": "above",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "stehen",
+    "English": "to stand",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Sessel",
+    "English": "arm chair",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Stehlampe",
+    "English": "floor-lamp",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Couch",
+    "English": "couch",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Kühlschrank",
+    "English": "refrigerator",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Herd",
+    "English": "stove; cooker",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Küchenlampe",
+    "English": "kitchen lamp",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "rechts",
+    "English": "to the right",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "links",
+    "English": "to the left",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "rauchen",
+    "English": "to smoke",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Zigarette",
+    "English": "cigarette",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Getränke",
+    "English": "drinks",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "schaden",
+    "English": "to damage",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Geburt",
+    "English": "birth",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Geburtstag",
+    "English": "birthday",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Party",
+    "English": "party",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "übermorgen",
+    "English": "day-after-tomorrow",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "feiern",
+    "English": "to celebrate",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Karte",
+    "English": "card; ticket",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Einladung",
+    "English": "invitation",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "liebe(r)",
+    "English": "dear",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "sich freuen",
+    "English": "to look forward to",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Besuch",
+    "English": "visit",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Herz",
+    "English": "heart",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "herzlichst",
+    "English": "heartiest; heartily",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Uhr",
+    "English": "clock, watch",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "sich unterhalten",
+    "English": "to converse",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "auf dem Tisch",
+    "English": "on the table",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "um den Tisch",
+    "English": "around the table",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Kerze",
+    "English": "candle",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "brennen",
+    "English": "to burn",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "lächelnd",
+    "English": "smiling",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "wie",
+    "English": "like",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "schnell",
+    "English": "at once",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "sich bedienen",
+    "English": "to serve oneself",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "bekannt",
+    "English": "famous",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Hauptwerk",
+    "English": "major work / book",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Relativität",
+    "English": "relativity",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Theorie",
+    "English": "theory",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "weltberühmt",
+    "English": "world famous",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "geboren",
+    "English": "born",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Jude",
+    "English": "Jew",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Nobelpreis",
+    "English": "Nobel prize",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Tradition",
+    "English": "tradition",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Silvester",
+    "English": "New Year's Eve",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Neujahr",
+    "English": "New Year",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Vereinigung",
+    "English": "union, unification",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Glocken",
+    "English": "bells",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Körper",
+    "English": "body",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Teil",
+    "English": "part",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Kopf",
+    "English": "head",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Auge",
+    "English": "eye",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Augenbraue",
+    "English": "eyebrow",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Ohr",
+    "English": "ear",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Kinn",
+    "English": "chin",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Wange",
+    "English": "cheek",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Arm",
+    "English": "arm",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Finger",
+    "English": "finger",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Bein",
+    "English": "leg",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Fuß",
+    "English": "foot",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Hals",
+    "English": "throat",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Zeigefinger",
+    "English": "index finger",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Mittelfinger",
+    "English": "middle finger",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Ringfinger",
+    "English": "ring finger",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Kleinfinger",
+    "English": "little finger",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Brust",
+    "English": "chest",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Lippe",
+    "English": "lip",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Gesäß",
+    "English": "buttocks",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Papier",
+    "English": "paper",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Motorrad",
+    "English": "motor cycle",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Wald",
+    "English": "forest",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Hose",
+    "English": "trousers",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Brille",
+    "English": "spectacles",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Zeitschrift",
+    "English": "magazine",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Hemd",
+    "English": "shirt",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "abhängen von",
+    "English": "to depend on",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Bad",
+    "English": "bath",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "toll",
+    "English": "super",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Apotheke",
+    "English": "pharmacy",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "etwas Schlimmes",
+    "English": "something bad",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "die",
+    "German": "Grippe",
+    "English": "cold; influenza",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Handy",
+    "English": "mobile phone",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "backen",
+    "English": "to bake",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "rufen",
+    "English": "to call; shout",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Schmalz",
+    "English": "lard",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "der",
+    "German": "Safran",
+    "English": "saffron",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "schieben",
+    "English": "to push; to shove",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "einsteigen",
+    "English": "to get in",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "ankommen",
+    "English": "to arrive",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Gebäude",
+    "English": "building",
+    "theme": "kerala-vocabs"
+  },
+  {
+    "Article": "das",
+    "German": "Hochhaus",
+    "English": "high-rise building",
+    "theme": "kerala-vocabs"
+  }
 ];
 
 // Group words by theme
