@@ -49542,7 +49542,2402 @@ const wordbankData = [
     "German": "Hochhaus",
     "English": "high-rise building",
     "theme": "kerala-vocabs"
+  },
+  {
+    "Article": null,
+    "German": "achten",
+    "English": "to pay attention; respect; heed",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "ächzen",
+    "English": "to groan, creak",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "ändern",
+    "English": "to change, alter",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "anfangen",
+    "English": "to begin, start",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "ankommen",
+    "English": "to arrive; succeed; matter",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "arbeiten",
+    "English": "to work",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "atmen",
+    "English": "to breathe",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "aufhalten",
+    "English": "to stop, delay, arrest",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "aufmachen",
+    "English": "to open; present, feature",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "ausgeben",
+    "English": "to spend; deal (cards); treat",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "auskommen",
+    "English": "to get along; manage",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "ausstellen",
+    "English": "to exhibit, expose; write out",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "backen",
+    "English": "to bake",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "baden",
+    "English": "to bathe",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "bauen",
+    "English": "to build, construct",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "beben",
+    "English": "to tremble, quake",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "bedeuten",
+    "English": "to mean, signify",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "beeindrucken",
+    "English": "to impress",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "beeinflussen",
+    "English": "to influence",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "befreien",
+    "English": "to liberate, set free; exempt",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "begegnen",
+    "English": "to meet",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "beginnen",
+    "English": "to begin",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "begleiten",
+    "English": "to accompany",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "beißen",
+    "English": "to bite",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "bejahen",
+    "English": "to assent",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "bekommen",
+    "English": "to receive, get",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "beleben",
+    "English": "to enliven, animate; cheer",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "beleidigen",
+    "English": "to insult",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "bergen",
+    "English": "to salvage; conceal",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "berichten",
+    "English": "to report",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "bersten",
+    "English": "to burst",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "beschäftigen",
+    "English": "to occupy; preoccupy",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "besitzen",
+    "English": "to own, possess",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "bestehen",
+    "English": "to pass; insist; consist",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "bestellen",
+    "English": "to order; deliver",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "beten",
+    "English": "to pray",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "betrügen",
+    "English": "to cheat, deceive",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "bewegen",
+    "English": "to move, induce",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "beweisen",
+    "English": "to prove",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "bezeichnen",
+    "English": "to designate, indicate",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "biegen",
+    "English": "to bend; turn",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "bieten",
+    "English": "to offer",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "bitten",
+    "English": "to ask for, request",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "bleiben",
+    "English": "to remain, stay",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "blühen",
+    "English": "to bloom, flourish",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "bluten",
+    "English": "to bleed",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "braten",
+    "English": "to roast, fry",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "brauchen",
+    "English": "to need",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "brauen",
+    "English": "to brew",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "brausen",
+    "English": "to storm, roar; take a shower",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "brechen",
+    "English": "to break",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "brennen",
+    "English": "to burn",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "bringen",
+    "English": "to bring",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "brüllen",
+    "English": "to roar, shout",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "buchen",
+    "English": "to book",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "bürsten",
+    "English": "to brush",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "dämpfen",
+    "English": "to muffle, damp, quench",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "danken",
+    "English": "to thank",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "denken",
+    "English": "to think",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "dichten",
+    "English": "to write poetry; seal",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "dienen",
+    "English": "to serve",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "donnern",
+    "English": "to thunder",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "dringen",
+    "English": "to penetrate; insist",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "drucken",
+    "English": "to print",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "drücken",
+    "English": "to squeeze, push, press",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "dürfen",
+    "English": "to be permitted, allowed, may",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "ehren",
+    "English": "to honor",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "einkaufen",
+    "English": "to shop, buy",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "empfangen",
+    "English": "to receive",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "empfehlen",
+    "English": "to recommend",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "entbehren",
+    "English": "to do without; lack, miss",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "entfernen",
+    "English": "to remove, make distant",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "entführen",
+    "English": "to carry off, abduct, kidnap",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "enthalten",
+    "English": "to contain",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "entkommen",
+    "English": "to escape, get away",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "entscheiden",
+    "English": "to decide",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "entschuldigen",
+    "English": "to excuse; apologize",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "entstellen",
+    "English": "to disfigure, deform",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "erfahren",
+    "English": "to learn; experience",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "erhalten",
+    "English": "to receive; maintain",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "erinnern",
+    "English": "to remind",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "erklären",
+    "English": "to explain",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "erlauben",
+    "English": "to permit",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "erlöschen",
+    "English": "to be extinguished",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "erreichen",
+    "English": "to reach; attain",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "errichten",
+    "English": "to erect, establish",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "erschöpfen",
+    "English": "to exhaust",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "erschrecken",
+    "English": "to be startled/frightened",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "erwägen",
+    "English": "to consider",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "erwähnen",
+    "English": "to mention",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "erzählen",
+    "English": "to tell, relate",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "essen",
+    "English": "to eat",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "fahren",
+    "English": "to travel; drive; ride; go",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "fallen",
+    "English": "to fall",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "fangen",
+    "English": "to catch",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "fassen",
+    "English": "to grasp, seize",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "fechten",
+    "English": "to fence, fight",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "finden",
+    "English": "to find",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "fliegen",
+    "English": "to fly",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "fliehen",
+    "English": "to flee",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "fließen",
+    "English": "to flow",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "fluchen",
+    "English": "to curse, swear",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "folgen",
+    "English": "to follow",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "fragen",
+    "English": "to ask (a question)",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "fressen",
+    "English": "to eat, feed, devour",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "frieren",
+    "English": "to freeze",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "frühstücken",
+    "English": "to eat breakfast",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "fühlen",
+    "English": "to feel; perceive",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "führen",
+    "English": "to lead; keep; carry",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "fürchten",
+    "English": "to fear",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "gähnen",
+    "English": "to yawn",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "gebären",
+    "English": "to give birth to",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "geben",
+    "English": "to give",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "gebrauchen",
+    "English": "to use",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "gehen",
+    "English": "to go, walk",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "gehören",
+    "English": "to belong, own",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "gelingen",
+    "English": "to succeed",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "gelten",
+    "English": "to be valid, be worth",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "genesen",
+    "English": "to recover, convalesce",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "geraten",
+    "English": "to fall into; turn out",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "geschehen",
+    "English": "to happen",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "gewinnen",
+    "English": "to win, gain",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "gießen",
+    "English": "to pour; cast (metal)",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "glänzen",
+    "English": "to glitter, shine; be brilliant",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "glauben",
+    "English": "to believe",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "gleichen",
+    "English": "to be like, resemble, equal",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "gleiten",
+    "English": "to slide, glide",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "glimmen",
+    "English": "to glow, smolder",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "glotzen",
+    "English": "to gawk, gape",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "glühen",
+    "English": "to glow",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "graben",
+    "English": "to dig",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "greifen",
+    "English": "to seize, grasp, grab",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "grollen",
+    "English": "to be angry",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "grüßen",
+    "English": "to greet",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "gucken",
+    "English": "to look, peek",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "haben",
+    "English": "to have",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "halten",
+    "English": "to hold; stop; keep; consider",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "handeln",
+    "English": "to act; trade, deal",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "hängen",
+    "English": "to hang",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "hassen",
+    "English": "to hate",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "heiraten",
+    "English": "to marry",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "heißen",
+    "English": "to be named",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "heizen",
+    "English": "to heat",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "helfen",
+    "English": "to help, aid, assist",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "hetzen",
+    "English": "to hunt; rush about; incite",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "hoffen",
+    "English": "to hope; expect",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "hören",
+    "English": "to hear, listen",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "hüpfen",
+    "English": "to hop, jump",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "interpretieren",
+    "English": "to interpret",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "kämpfen",
+    "English": "to struggle, fight",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "kennen",
+    "English": "to know (a person), be familiar with",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "kennenlernen",
+    "English": "to get to know; meet",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "klatschen",
+    "English": "to clap; gossip",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "kleben",
+    "English": "to paste, stick",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "klingen",
+    "English": "to ring, sound",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "klopfen",
+    "English": "to knock, beat",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "kneifen",
+    "English": "to pinch; shirk",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "knüpfen",
+    "English": "to tie; knot; fasten together",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "kochen",
+    "English": "to cook; boil; seethe",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "kommen",
+    "English": "to come",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "können",
+    "English": "to be able (can); to know",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "kosten",
+    "English": "to cost; taste, try",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "kotzen",
+    "English": "to vomit, puke",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "kratzen",
+    "English": "to scratch",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "kriechen",
+    "English": "to creep, crawl",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "kriegen",
+    "English": "to get; receive",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "kühlen",
+    "English": "to cool",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "kürzen",
+    "English": "to shorten",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "küssen",
+    "English": "to kiss",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "lachen",
+    "English": "to laugh",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "laden",
+    "English": "to load; invite",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "landen",
+    "English": "to land; end up; succeed",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "lassen",
+    "English": "to let; leave; allow; have done",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "laufen",
+    "English": "to run, walk",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "lauschen",
+    "English": "to eavesdrop; listen",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "leben",
+    "English": "to live",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "lecken",
+    "English": "to lick; leak",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "legen",
+    "English": "to lay, put, place",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "lehren",
+    "English": "to teach",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "leiden",
+    "English": "to suffer",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "leihen",
+    "English": "to lend; borrow from",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "lernen",
+    "English": "to learn, study",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "lesen",
+    "English": "to read; gather",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "leuchten",
+    "English": "to shine, gleam",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "lichten",
+    "English": "to thin out, lighten",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "lieben",
+    "English": "to love",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "liefern",
+    "English": "to deliver; supply",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "liegen",
+    "English": "to lie, be situated",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "loben",
+    "English": "to praise",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "locken",
+    "English": "to entice, allure",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "lohnen",
+    "English": "to be worthwhile; reward",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "lösen",
+    "English": "to solve, loosen, cash",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "lügen",
+    "English": "to tell a lie",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "lutschen",
+    "English": "to suck",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "machen",
+    "English": "to make, do",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "mahlen",
+    "English": "to mill, grind",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "malen",
+    "English": "to paint, portray",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "meiden",
+    "English": "to avoid, shun",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "meinen",
+    "English": "to mean, think, be of the opinion",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "merken",
+    "English": "to notice; note",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "messen",
+    "English": "to measure",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "mögen",
+    "English": "to like",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "müssen",
+    "English": "to have to, must",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "naschen",
+    "English": "to nibble, snack",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "öffnen",
+    "English": "to open",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "pachten",
+    "English": "to lease, rent; farm",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "packen",
+    "English": "to pack; seize, grab",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "passen",
+    "English": "to fit, suit",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "passieren",
+    "English": "to happen; pass",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "pfeifen",
+    "English": "to whistle",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "pflanzen",
+    "English": "to plant",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "plagen",
+    "English": "to torment, bother",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "preisen",
+    "English": "to praise",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "putzen",
+    "English": "to clean, groom",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "quälen",
+    "English": "to torture, torment",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "quellen",
+    "English": "to gush, spring from",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "rächen",
+    "English": "to avenge",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "räumen",
+    "English": "to clear, evacuate",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "rechnen",
+    "English": "to calculate, reckon",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "regnen",
+    "English": "to rain",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "reiben",
+    "English": "to rub",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "reichen",
+    "English": "to pass, hand; be enough",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "reinigen",
+    "English": "to clean",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "reißen",
+    "English": "to tear, rip",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "reiten",
+    "English": "to ride (a horse)",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "rennen",
+    "English": "to run",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "retten",
+    "English": "to save, rescue",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "richten",
+    "English": "to direct; adjust",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "rinnen",
+    "English": "to run, leak",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "rollen",
+    "English": "to roll",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "rösten",
+    "English": "to roast, toast",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "rücken",
+    "English": "to move",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "rufen",
+    "English": "to call",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "ruhen",
+    "English": "to rest",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "rühmen",
+    "English": "to praise",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "rühren",
+    "English": "to stir, move",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "rüsten",
+    "English": "to arm; prepare",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sagen",
+    "English": "to say; tell; speak",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "saufen",
+    "English": "to drink (of animals); drink to excess",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "saugen",
+    "English": "to suck; vacuum",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schaffen",
+    "English": "to create",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schalten",
+    "English": "to switch; shift gears",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schätzen",
+    "English": "to value; estimate; respect",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schauen",
+    "English": "to see, look, gaze",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schäumen",
+    "English": "to foam, froth",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "scheiden",
+    "English": "to separate",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "scheinen",
+    "English": "to shine; seem, appear",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schelten",
+    "English": "to scold, reproach",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schenken",
+    "English": "to give (as a present)",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schichten",
+    "English": "to heap, pile up, stack",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schicken",
+    "English": "to send",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schieben",
+    "English": "to push; shove; move",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schießen",
+    "English": "to shoot",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schlachten",
+    "English": "to slaughter, butcher",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schlafen",
+    "English": "to sleep",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schlagen",
+    "English": "to beat, hit",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schleichen",
+    "English": "to sneak, creep",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schleifen",
+    "English": "to grind; polish; slide",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schlichten",
+    "English": "to settle, arbitrate",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schließen",
+    "English": "to close; conclude; shut",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schlingen",
+    "English": "to gulp; tie",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schlucken",
+    "English": "to swallow, guzzle",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schlüpfen",
+    "English": "to slip",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schmecken",
+    "English": "to taste; taste good",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schmeißen",
+    "English": "to fling, hurl, throw",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schmelzen",
+    "English": "to melt",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schmieren",
+    "English": "to smear; bribe",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schmollen",
+    "English": "to sulk; pout",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schneiden",
+    "English": "to cut",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schneien",
+    "English": "to snow",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schnüren",
+    "English": "to tie, tighten",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schöpfen",
+    "English": "to scoop; obtain, conceive",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schreiben",
+    "English": "to write",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schreien",
+    "English": "to shout, scream, cry",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schreiten",
+    "English": "to stride",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schwänzen",
+    "English": "to cut classes",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schwärzen",
+    "English": "to blacken, slander",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schwatzen",
+    "English": "to chatter, prattle",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schweben",
+    "English": "to hover, float",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schweigen",
+    "English": "to be silent",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schwellen",
+    "English": "to swell; rise",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schwimmen",
+    "English": "to swim",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schwinden",
+    "English": "to fade; wane; dwindle",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "schwören",
+    "English": "to swear",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "segnen",
+    "English": "to bless",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sehen",
+    "English": "to see; realize",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sein",
+    "English": "to be",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "senden",
+    "English": "to send",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sanziehen",
+    "English": "to dress",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sausziehen",
+    "English": "to undress; move out",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sbedienen",
+    "English": "to help oneself; wait on",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sbeeilen",
+    "English": "to hurry",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sbefinden",
+    "English": "to be, feel",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "serkälten",
+    "English": "to catch a cold",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sfreuen",
+    "English": "to be glad; look forward to",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sgewöhnen",
+    "English": "to get used to",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sinteressieren",
+    "English": "to be interested in",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sunterhalten",
+    "English": "to converse; amuse oneself",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sverhalten",
+    "English": "to behave; be",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sverlieben",
+    "English": "to fall in love",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "siegen",
+    "English": "to conquer, be victorious",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "singen",
+    "English": "to sing",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sinnen",
+    "English": "to think, reflect, meditate",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sitzen",
+    "English": "to sit",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sollen",
+    "English": "to be supposed to, shall",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "spalten",
+    "English": "to split, cleave",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sparen",
+    "English": "to save",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "spazieren",
+    "English": "to stroll, walk",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "spielen",
+    "English": "to play",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sprechen",
+    "English": "to speak",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sprießen",
+    "English": "to sprout",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "springen",
+    "English": "to jump",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "spritzen",
+    "English": "to squirt, gush",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "spülen",
+    "English": "to rinse, wash",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "staunen",
+    "English": "to be astonished",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "stechen",
+    "English": "to prick, sting",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "stecken",
+    "English": "to set, plant; remain",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "stehen",
+    "English": "to stand",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "steigen",
+    "English": "to climb",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "stellen",
+    "English": "to place, put, set",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "sterben",
+    "English": "to die",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "stinken",
+    "English": "to stink",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "stöhnen",
+    "English": "to groan",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "stoßen",
+    "English": "to push, bump",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "streben",
+    "English": "to strive",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "strecken",
+    "English": "to stretch; extend",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "stricken",
+    "English": "to knit",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "suchen",
+    "English": "to seek, look for",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "tanzen",
+    "English": "to dance",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "taugen",
+    "English": "to be of use, be fit for",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "toben",
+    "English": "to storm; rage; rave",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "töten",
+    "English": "to kill",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "tragen",
+    "English": "to carry; wear",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "trauen",
+    "English": "to trust; marry",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "träumen",
+    "English": "to dream",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "treffen",
+    "English": "to meet; hit",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "treiben",
+    "English": "to drive; push; pursue",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "treten",
+    "English": "to step; go; kick",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "trinken",
+    "English": "to drink",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "trocknen",
+    "English": "to dry",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "tropfen",
+    "English": "to drip, drop",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "trotzen",
+    "English": "to defy",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "tun",
+    "English": "to do; make; put; act",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "üben",
+    "English": "to practice",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "überraschen",
+    "English": "to surprise",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "unterbrechen",
+    "English": "to interrupt",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verachten",
+    "English": "to despise, scorn",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verdienen",
+    "English": "to earn; deserve",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verdrießen",
+    "English": "to annoy; displease; grieve",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "vergewaltigen",
+    "English": "to rape",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verhandeln",
+    "English": "to negotiate",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verhehlen",
+    "English": "to hide, conceal",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verkaufen",
+    "English": "to sell",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verkehren",
+    "English": "to frequent; associate with",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verklagen",
+    "English": "to accuse; sue",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verklären",
+    "English": "to transfigure, glorify",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verkommen",
+    "English": "to degenerate",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verlieren",
+    "English": "to lose",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "vermehren",
+    "English": "to increase",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verrichten",
+    "English": "to do, perform",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "versagen",
+    "English": "to refuse; fail",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "versehren",
+    "English": "to wound, hurt, damage",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "versprechen",
+    "English": "to promise",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verstehen",
+    "English": "to understand",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verwalten",
+    "English": "to administer",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verwechseln",
+    "English": "to confuse; change by mistake",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verweilen",
+    "English": "to stay, stop, linger",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verzehren",
+    "English": "to consume; pine away",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "verzeihen",
+    "English": "to pardon, forgive, excuse",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "vorkommen",
+    "English": "to occur; seem; come forth",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "wachsen",
+    "English": "to grow",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "wagen",
+    "English": "to dare",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "wählen",
+    "English": "to choose, elect",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "walten",
+    "English": "to rule, govern",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "wälzen",
+    "English": "to roll, turn about",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "warten",
+    "English": "to wait",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "waschen",
+    "English": "to wash",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "wechseln",
+    "English": "to change, exchange",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "wecken",
+    "English": "to wake, rouse",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "wehren",
+    "English": "to prevent",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "weichen",
+    "English": "to yield, give way",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "weihen",
+    "English": "to consecrate",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "weinen",
+    "English": "to weep, cry",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "weisen",
+    "English": "to point out, show",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "wenden",
+    "English": "to turn",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "werben",
+    "English": "to recruit; woo; court",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "werden",
+    "English": "to become; shall, will",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "werfen",
+    "English": "to throw",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "widmen",
+    "English": "to dedicate",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "wissen",
+    "English": "to know (a fact)",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "wohnen",
+    "English": "to live, reside",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "wollen",
+    "English": "to want; intend",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "wühlen",
+    "English": "to dig; burrow; rummage",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "wünschen",
+    "English": "to wish; desire",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "zeichnen",
+    "English": "to draw; sign",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "zeigen",
+    "English": "to show",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "zerstören",
+    "English": "to destroy",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "ziehen",
+    "English": "to pull, draw",
+    "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "zwingen",
+    "English": "to force, compel",
+    "theme": "verbs"
   }
+
 ];
 
 // Group words by theme
