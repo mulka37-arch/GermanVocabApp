@@ -51936,6 +51936,2076 @@ const wordbankData = [
     "German": "zwingen",
     "English": "to force, compel",
     "theme": "verbs"
+  },
+  {
+    "Article": null,
+    "German": "Hallo!",
+    "English": "Hello!",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Wie geht es Ihnen?",
+    "English": "How are you? (formal)",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Schön, von dir zu hören.",
+    "English": "Nice to hear from you.",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Entschuldigung für die Verspätung.",
+    "English": "Sorry for the delay.",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Entschuldigung, dass ich spät schreibe.",
+    "English": "Sorry that I write late.",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für alles.",
+    "English": "Thanks for everything.",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Zum Hiertrinken oder Mitnehmen?",
+    "English": "For here or takeaway?",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe eine Allergie.",
+    "English": "I have an allergy.",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank und schönen Tag!",
+    "English": "Thank you and have a nice day!",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte einen Termin.",
+    "English": "I want an appointment.",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte dir etwas sagen.",
+    "English": "I want to tell you something.",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Ich melde mich wegen…",
+    "English": "I am writing regarding…",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe eine Frage.",
+    "English": "I have a question.",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Hallo Maria,",
+    "English": "Hello Maria,",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Wo ist die Kasse?",
+    "English": "Where is the checkout?",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Kann ich mit Karte zahlen?",
+    "English": "Can I pay by card?",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte etwas kaufen.",
+    "English": "I want to buy something.",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Das ist zu teuer.",
+    "English": "That is too expensive.",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche ein Wasser.",
+    "English": "I need a water.",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Was kostet das?",
+    "English": "How much does that cost?",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte dich einladen.",
+    "English": "I want to invite you.",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie das in einer anderen Farbe?",
+    "English": "Do you have this in another color?",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Guten Morgen,",
+    "English": "Good morning,",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Guten Tag,",
+    "English": "Good day,",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Ich suche eine Jacke.",
+    "English": "I am looking for a jacket.",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Ich nehme das.",
+    "English": "I’ll take it.",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Ich schreibe dir, weil…",
+    "English": "I am writing to you because…",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Das ist sehr nett von dir.",
+    "English": "That is very nice of you.",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, es geht dir gut.",
+    "English": "I hope you are well.",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf deine Antwort.",
+    "English": "I look forward to your reply.",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Danke für deine Nachricht.",
+    "English": "Thank you for your message.",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Danke für deine E-Mail.",
+    "English": "Thanks for your email.",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Ich war sehr beschäftigt.",
+    "English": "I was very busy.",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Liebe Anna,",
+    "English": "Dear Anna, (informal)",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte ohne Zucker.",
+    "English": "I want without sugar.",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie Angebote?",
+    "English": "Do you have discounts?",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie eine Tüte?",
+    "English": "Do you have a bag?",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie das in Größe M?",
+    "English": "Do you have this in size M?",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Die Qualität ist gut.",
+    "English": "The quality is good.",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Sehr geehrte Frau Müller,",
+    "English": "Dear Mrs. Müller, (formal)",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Wo ist die Apotheke?",
+    "English": "Where is the pharmacy?",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte einen Kaffee.",
+    "English": "I want a coffee.",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Kann ich das zurückgeben?",
+    "English": "Can I return this?",
+    "theme": "A1-Shopping & Ordering"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche Hilfe.",
+    "English": "I need help.",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Wie geht es dir?",
+    "English": "How are you? (informal)",
+    "theme": "A1-Greetings & Openings"
+  },
+  {
+    "Article": null,
+    "German": "Können wir einen neuen Termin machen?",
+    "English": "Can we make a new appointment?",
+    "theme": "A1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin beim Arzt.",
+    "English": "I am at the doctor.",
+    "theme": "A1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Ich komme später.",
+    "English": "I am coming later.",
+    "theme": "A1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin krank.",
+    "English": "I am sick.",
+    "theme": "A1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Es tut mir leid.",
+    "English": "I am sorry.",
+    "theme": "A1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann morgen nicht kommen.",
+    "English": "I can’t come tomorrow.",
+    "theme": "A1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe das vergessen.",
+    "English": "I forgot that.",
+    "theme": "A1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe Kopfschmerzen.",
+    "English": "I have a headache.",
+    "theme": "A1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe einen Termin.",
+    "English": "I have an appointment.",
+    "theme": "A1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe keine Zeit.",
+    "English": "I have no time.",
+    "theme": "A1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Ich muss arbeiten.",
+    "English": "I have to work.",
+    "theme": "A1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Ich war sehr müde.",
+    "English": "I was very tired.",
+    "theme": "A1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Wir sehen uns nächste Woche.",
+    "English": "See you next week.",
+    "theme": "A1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Danke für dein Verständnis.",
+    "English": "Thanks for your understanding.",
+    "theme": "A1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Die Verbindung war schlecht.",
+    "English": "The connection was bad.",
+    "theme": "A1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Können wir einen neuen Termin machen?",
+    "English": "Can we arrange a new appointment?",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Können wir den Termin ändern?",
+    "English": "Can we change the appointment?",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie am Nachmittag Zeit?",
+    "English": "Do you have time in the afternoon?",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Freitag passt gut.",
+    "English": "Friday fits well.",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin krank.",
+    "English": "I am sick.",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann vormittags.",
+    "English": "I can in the morning.",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann am Montag.",
+    "English": "I can on Monday.",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann nicht kommen.",
+    "English": "I cannot come.",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe einen Arzttermin.",
+    "English": "I have a doctor’s appointment.",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe eine Frage zum Termin.",
+    "English": "I have a question about the appointment.",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe Fieber.",
+    "English": "I have fever.",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf den Termin.",
+    "English": "I look forward to the appointment.",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich muss absagen.",
+    "English": "I must cancel.",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte einen Termin machen.",
+    "English": "I want to make an appointment.",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich komme zu spät.",
+    "English": "I will be late.",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Bis Montag!",
+    "English": "See you Monday!",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für den Termin.",
+    "English": "Thank you for the appointment.",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Dienstag geht auch.",
+    "English": "Tuesday works too.",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Wann haben Sie Zeit?",
+    "English": "When do you have time?",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Wann ist der nächste freie Termin?",
+    "English": "When is the next available appointment?",
+    "theme": "A1-Appointment Writing"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es Parkplätze?",
+    "English": "Are there parking spaces?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Kann ich bar bezahlen?",
+    "English": "Can I pay in cash?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Kann ich online lernen?",
+    "English": "Can I study online?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie mir bitte helfen?",
+    "English": "Can you help me please?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie das wiederholen?",
+    "English": "Can you repeat that?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie langsamer sprechen?",
+    "English": "Can you speak slowly?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie eine Telefonnummer?",
+    "English": "Do you have a phone number?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie Zeit für ein Gespräch?",
+    "English": "Do you have time for a talk?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Wie komme ich dahin?",
+    "English": "How do I get there?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Wie lange dauert der Termin?",
+    "English": "How long is the appointment?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Wie viel kostet das?",
+    "English": "How much does it cost?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin neu hier.",
+    "English": "I am new here.",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe eine Frage.",
+    "English": "I have a question.",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe kein Internet.",
+    "English": "I have no internet.",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche mehr Informationen.",
+    "English": "I need more information.",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte mich registrieren.",
+    "English": "I want to register.",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ist der Termin frei?",
+    "English": "Is the appointment available?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ist die Anmeldung wichtig?",
+    "English": "Is the registration important?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Bitte antworten Sie mir.",
+    "English": "Please reply to me.",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Danke im Voraus.",
+    "English": "Thanks in advance.",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Wann beginnt der Deutschkurs?",
+    "English": "When does German class start?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Wo kann ich bezahlen?",
+    "English": "Where can I pay?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Wo ist der Kurs?",
+    "English": "Where is the course?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Wo ist das Büro?",
+    "English": "Where is the office?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Welche Dokumente brauche ich?",
+    "English": "Which documents do I need?",
+    "theme": "A1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Alles Gute",
+    "English": "All the best",
+    "theme": "A1-Closing Sentences"
+  },
+  {
+    "Article": null,
+    "German": "Viele Grüße",
+    "English": "Best regards",
+    "theme": "A1-Closing Sentences"
+  },
+  {
+    "Article": null,
+    "German": "Tschüss!",
+    "English": "Bye!",
+    "theme": "A1-Closing Sentences"
+  },
+  {
+    "Article": null,
+    "German": "Schönen Tag!",
+    "English": "Have a nice day!",
+    "theme": "A1-Closing Sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf deine Antwort.",
+    "English": "I look forward to your reply.",
+    "theme": "A1-Closing Sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte schreib mir zurück.",
+    "English": "Please write back to me.",
+    "theme": "A1-Closing Sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bis später!",
+    "English": "See you later!",
+    "theme": "A1-Closing Sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bis bald!",
+    "English": "See you soon!",
+    "theme": "A1-Closing Sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bis morgen!",
+    "English": "See you tomorrow!",
+    "theme": "A1-Closing Sentences"
+  },
+  {
+    "Article": null,
+    "German": "Pass gut auf dich auf.",
+    "English": "Take care.",
+    "theme": "A1-Closing Sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank.",
+    "English": "Thank you.",
+    "theme": "A1-Closing Sentences"
+  },
+  {
+    "Article": null,
+    "German": "Danke für deine Hilfe.",
+    "English": "Thanks for your help.",
+    "theme": "A1-Closing Sentences"
+  },
+  {
+    "Article": null,
+    "German": "Schöne Grüße",
+    "English": "Warm regards",
+    "theme": "A1-Closing Sentences"
+  },
+  {
+    "Article": null,
+    "German": "Liebe Grüße",
+    "English": "With love",
+    "theme": "A1-Closing Sentences"
+  },
+  {
+    "Article": null,
+    "German": "Mit freundlichen Grüßen",
+    "English": "Yours sincerely (formal)",
+    "theme": "A1-Closing Sentences"
+  },
+  {
+    "Article": null,
+    "German": "Kann ich mit dem Manager sprechen?",
+    "English": "Can I speak with the manager?",
+    "theme": "A1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin nicht zufrieden.",
+    "English": "I am not satisfied.",
+    "theme": "A1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe ein Problem.",
+    "English": "I have a problem.",
+    "theme": "A1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche eine neue Lösung.",
+    "English": "I need a new solution.",
+    "theme": "A1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich warte auf Ihre Antwort.",
+    "English": "I wait for your reply.",
+    "theme": "A1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte eine Rückerstattung.",
+    "English": "I want a refund.",
+    "theme": "A1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte das umtauschen.",
+    "English": "I want to exchange it.",
+    "theme": "A1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Bitte lösen Sie das Problem.",
+    "English": "Please solve the problem.",
+    "theme": "A1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Danke für Ihre Hilfe.",
+    "English": "Thank you for your help.",
+    "theme": "A1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Das funktioniert nicht.",
+    "English": "That doesn’t work.",
+    "theme": "A1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Die Rechnung stimmt nicht.",
+    "English": "The bill is incorrect.",
+    "theme": "A1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Die Lieferung ist falsch.",
+    "English": "The delivery is wrong.",
+    "theme": "A1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Das Essen ist kalt.",
+    "English": "The food is cold.",
+    "theme": "A1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Das Produkt ist kaputt.",
+    "English": "The product is broken.",
+    "theme": "A1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Das ist nicht, was ich bestellt habe.",
+    "English": "This is not what I ordered.",
+    "theme": "A1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin 40 Jahre alt.",
+    "English": "I am 40 years old.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin Pharmazeut.",
+    "English": "I am a pharmacist.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich komme aus Indien.",
+    "English": "I am from India.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich lerne Deutsch.",
+    "English": "I am learning German.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich suche Arbeit.",
+    "English": "I am looking for work.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin verheiratet.",
+    "English": "I am married.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin neu in Deutschland.",
+    "English": "I am new in Germany.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe keine Arbeit.",
+    "English": "I do not have work.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe drei Kinder.",
+    "English": "I have three children.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich koche gerne.",
+    "English": "I like cooking.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich fahre gern Fahrrad.",
+    "English": "I like cycling.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich wohne in Hamburg.",
+    "English": "I live in Hamburg.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich spreche Englisch und ein wenig Deutsch.",
+    "English": "I speak English and a little German.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich arbeite in einer Apotheke.",
+    "English": "I work in a pharmacy.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Meine Adresse ist…",
+    "English": "My address is…",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Mein Geburtstag ist am 17. November.",
+    "English": "My birthday is on November 17.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Meine Familie wohnt in Indien.",
+    "English": "My family lives in India.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Mein Hobby ist Lesen.",
+    "English": "My hobby is reading.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich heiße Arjun.",
+    "English": "My name is Arjun.",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Meine Telefonnummer ist…",
+    "English": "My phone number is…",
+    "theme": "A1-Giving Personal Information"
+  },
+  {
+    "Article": null,
+    "German": "Viele Grüße aus Berlin!",
+    "English": "Greetings from Berlin!",
+    "theme": "A1-Holiday/Postcard"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin im Urlaub.",
+    "English": "I am on vacation.",
+    "theme": "A1-Holiday/Postcard"
+  },
+  {
+    "Article": null,
+    "German": "Ich vermisse euch.",
+    "English": "I miss you all.",
+    "theme": "A1-Holiday/Postcard"
+  },
+  {
+    "Article": null,
+    "German": "Ich entspanne mich gut.",
+    "English": "I relax well.",
+    "theme": "A1-Holiday/Postcard"
+  },
+  {
+    "Article": null,
+    "German": "Ich mache viele Fotos.",
+    "English": "I take many pictures.",
+    "theme": "A1-Holiday/Postcard"
+  },
+  {
+    "Article": null,
+    "German": "Ich besuche Museen und Parks.",
+    "English": "I visit museums and parks.",
+    "theme": "A1-Holiday/Postcard"
+  },
+  {
+    "Article": null,
+    "German": "Es ist warm und sonnig.",
+    "English": "It is warm and sunny.",
+    "theme": "A1-Holiday/Postcard"
+  },
+  {
+    "Article": null,
+    "German": "Bis bald!",
+    "English": "See you soon!",
+    "theme": "A1-Holiday/Postcard"
+  },
+  {
+    "Article": null,
+    "German": "Ich sende dir liebe Grüße.",
+    "English": "Sending warm greetings.",
+    "theme": "A1-Holiday/Postcard"
+  },
+  {
+    "Article": null,
+    "German": "Die Stadt ist sehr schön.",
+    "English": "The city is very beautiful.",
+    "theme": "A1-Holiday/Postcard"
+  },
+  {
+    "Article": null,
+    "German": "Das Essen schmeckt gut.",
+    "English": "The food tastes good.",
+    "theme": "A1-Holiday/Postcard"
+  },
+  {
+    "Article": null,
+    "German": "Die Sonne scheint.",
+    "English": "The sun is shining.",
+    "theme": "A1-Holiday/Postcard"
+  },
+  {
+    "Article": null,
+    "German": "Das Wetter ist schön.",
+    "English": "The weather is nice.",
+    "theme": "A1-Holiday/Postcard"
+  },
+  {
+    "Article": null,
+    "German": "Wir gehen jeden Tag spazieren.",
+    "English": "We go walking every day.",
+    "theme": "A1-Holiday/Postcard"
+  },
+  {
+    "Article": null,
+    "German": "Wir kommen nächste Woche zurück.",
+    "English": "We return next week.",
+    "theme": "A1-Holiday/Postcard"
+  },
+  {
+    "Article": null,
+    "German": "Können wir ein Bewerbungsgespräch machen?",
+    "English": "Can we have an interview?",
+    "theme": "A1-Job/Office"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie eine offene Stelle?",
+    "English": "Do you have a job vacancy?",
+    "theme": "A1-Job/Office"
+  },
+  {
+    "Article": null,
+    "German": "Ich suche eine Arbeit.",
+    "English": "I am looking for a job.",
+    "theme": "A1-Job/Office"
+  },
+  {
+    "Article": null,
+    "German": "Ich sende Ihnen meinen Lebenslauf.",
+    "English": "I am sending you my CV.",
+    "theme": "A1-Job/Office"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe Erfahrung als Apotheker.",
+    "English": "I have experience as a pharmacist.",
+    "theme": "A1-Job/Office"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf die Zusammenarbeit.",
+    "English": "I look forward to working together.",
+    "theme": "A1-Job/Office"
+  },
+  {
+    "Article": null,
+    "German": "Ich warte auf Ihre Rückmeldung.",
+    "English": "I wait for your response.",
+    "theme": "A1-Job/Office"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte in Deutschland arbeiten.",
+    "English": "I want to work in Germany.",
+    "theme": "A1-Job/Office"
+  },
+  {
+    "Article": null,
+    "German": "Mit freundlichen Grüßen.",
+    "English": "Kind regards.",
+    "theme": "A1-Job/Office"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Zeit.",
+    "English": "Thank you for your time.",
+    "theme": "A1-Job/Office"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie das erklären?",
+    "English": "Can you explain that?",
+    "theme": "A1-School/Course Writing"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie das wiederholen?",
+    "English": "Can you repeat that?",
+    "theme": "A1-School/Course Writing"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie langsamer sprechen?",
+    "English": "Can you speak slower?",
+    "theme": "A1-School/Course Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin im A1-Kurs.",
+    "English": "I am in the A1 course.",
+    "theme": "A1-School/Course Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich lerne Deutsch.",
+    "English": "I am learning German.",
+    "theme": "A1-School/Course Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin nervös.",
+    "English": "I am nervous.",
+    "theme": "A1-School/Course Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe meine Hausaufgaben gemacht.",
+    "English": "I did my homework.",
+    "theme": "A1-School/Course Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich verstehe das nicht.",
+    "English": "I don’t understand that.",
+    "theme": "A1-School/Course Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe die Hausaufgaben vergessen.",
+    "English": "I forgot the homework.",
+    "theme": "A1-School/Course Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche mehr Übungen.",
+    "English": "I need more exercises.",
+    "theme": "A1-School/Course Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte eine Prüfung machen.",
+    "English": "I want to take an exam.",
+    "theme": "A1-School/Course Writing"
+  },
+  {
+    "Article": null,
+    "German": "Bis zur nächsten Stunde.",
+    "English": "See you next class.",
+    "theme": "A1-School/Course Writing"
+  },
+  {
+    "Article": null,
+    "German": "Danke für den Unterricht.",
+    "English": "Thank you for the class.",
+    "theme": "A1-School/Course Writing"
+  },
+  {
+    "Article": null,
+    "German": "Der Kurs beginnt um 9 Uhr.",
+    "English": "The course starts at 9.",
+    "theme": "A1-School/Course Writing"
+  },
+  {
+    "Article": null,
+    "German": "Wann ist die Prüfung?",
+    "English": "When is the exam?",
+    "theme": "A1-School/Course Writing"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie mir den Weg zeigen?",
+    "English": "Can you show me the way?",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Entschuldigung, ich muss aussteigen.",
+    "English": "Excuse me, I need to get out.",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Gute Reise!",
+    "English": "Have a good trip!",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Wie lange dauert die Fahrt?",
+    "English": "How long is the trip?",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe mich verlaufen.",
+    "English": "I am lost.",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin neu hier.",
+    "English": "I am new here.",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Ich warte am Bahnsteig 3.",
+    "English": "I am waiting at platform 3.",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Ich muss umsteigen.",
+    "English": "I have to change trains.",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche ein Ticket.",
+    "English": "I need a ticket.",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte eine Fahrkarte kaufen.",
+    "English": "I want to buy a travel ticket.",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es einen Fahrplan?",
+    "English": "Is there a timetable?",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Einmal nach Berlin, bitte.",
+    "English": "One ticket to Berlin, please.",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Hin und zurück oder einfach?",
+    "English": "Return or one-way?",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Hilfe.",
+    "English": "Thank you for your help.",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Der Bus ist verspätet.",
+    "English": "The bus is delayed.",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Das ist meine Haltestelle.",
+    "English": "This is my stop.",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Wann kommt der Zug an?",
+    "English": "When does the train arrive?",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Wo fährt der Bus ab?",
+    "English": "Where does the bus depart?",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Wo ist die U-Bahn-Station?",
+    "English": "Where is the metro station?",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Wo ist der Bahnhof?",
+    "English": "Where is the train station?",
+    "theme": "A1-Travel / Transport"
+  },
+  {
+    "Article": null,
+    "German": "Hallo Anna,",
+    "English": "Hello Anna,",
+    "theme": "A2-GREETINGS & OPENINGS"
+  },
+  {
+    "Article": null,
+    "German": "Liebe Maria,",
+    "English": "Dear Maria, (informal)",
+    "theme": "A2-GREETINGS & OPENINGS"
+  },
+  {
+    "Article": null,
+    "German": "Sehr geehrte Frau Müller,",
+    "English": "Dear Mrs. Müller,",
+    "theme": "A2-GREETINGS & OPENINGS"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, es geht dir gut.",
+    "English": "I hope you’re well.",
+    "theme": "A2-GREETINGS & OPENINGS"
+  },
+  {
+    "Article": null,
+    "German": "Danke für deine Nachricht.",
+    "English": "Thanks for your message.",
+    "theme": "A2-GREETINGS & OPENINGS"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre E-Mail.",
+    "English": "Thank you for your email.",
+    "theme": "A2-GREETINGS & OPENINGS"
+  },
+  {
+    "Article": null,
+    "German": "Ich schreibe dir, weil…",
+    "English": "I am writing to you because…",
+    "theme": "A2-GREETINGS & OPENINGS"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe Ihre Anzeige gelesen.",
+    "English": "I read your advertisement.",
+    "theme": "A2-GREETINGS & OPENINGS"
+  },
+  {
+    "Article": null,
+    "German": "Ich interessiere mich für…",
+    "English": "I am interested in…",
+    "theme": "A2-GREETINGS & OPENINGS"
+  },
+  {
+    "Article": null,
+    "German": "Entschuldigung, dass ich spät antworte.",
+    "English": "Sorry for replying late.",
+    "theme": "A2-GREETINGS & OPENINGS"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann nicht kommen, weil ich arbeiten muss.",
+    "English": "I cannot come because I must work.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin krank, deshalb bleibe ich zu Hause.",
+    "English": "I’m sick, therefore I stay at home.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich komme später, weil der Bus Verspätung hat.",
+    "English": "I’ll come later because the bus is delayed.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte mehr lernen, damit ich besser Deutsch sprechen kann.",
+    "English": "I want to learn so I can speak German better.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich konnte nicht schreiben, weil ich unterwegs war.",
+    "English": "I couldn’t write because I was traveling.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe keine Zeit, weil ich einen Termin habe.",
+    "English": "I have no time because I have an appointment.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich muss absagen, weil ich Migräne habe.",
+    "English": "I must cancel because I have migraines.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich komme am Montag, wenn ich gesund bin.",
+    "English": "I'll come on Monday if I'm healthy.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe Interesse, weil das Thema wichtig ist.",
+    "English": "I'm interested because the topic is important.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich suche eine neue Wohnung, weil meine Wohnung zu klein ist.",
+    "English": "I’m looking for a new apartment because mine is too small.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich lerne Deutsch, weil ich hier arbeiten möchte.",
+    "English": "I'm learning German because I want to work here.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte teilnehmen, weil ich Spaß daran habe.",
+    "English": "I want to participate because I enjoy it.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin umgezogen, deshalb habe ich eine neue Adresse.",
+    "English": "I moved, therefore I have a new address.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich komme später, weil ich einen Arzttermin habe.",
+    "English": "I'm coming later because I have a doctor appointment.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann morgen, wenn du Zeit hast.",
+    "English": "I can tomorrow if you have time.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich suche Arbeit, weil ich Erfahrung habe.",
+    "English": "I’m looking for a job because I have experience.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe nicht geantwortet, weil mein Handy kaputt war.",
+    "English": "I didn’t answer because my phone was broken.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte wechseln, weil ich unzufrieden bin.",
+    "English": "I want to change because I am dissatisfied.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich mache eine Pause, weil ich müde bin.",
+    "English": "I’m taking a break because I’m tired.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Ich fahre nicht, weil das Wetter schlecht ist.",
+    "English": "I'm not going because the weather is bad.",
+    "theme": "A2-Giving Reasons"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte helfen?",
+    "English": "Could you please help me?",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie das bitte erklären?",
+    "English": "Could you please explain that?",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie mir bitte die Adresse schicken?",
+    "English": "Can you send me the address?",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie noch Plätze frei?",
+    "English": "Do you still have available seats?",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte einen Termin vereinbaren.",
+    "English": "I want to schedule an appointment.",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Können wir einen anderen Termin finden?",
+    "English": "Can we find another appointment?",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Ist es möglich, später zu kommen?",
+    "English": "Is it possible to come later?",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche mehr Informationen.",
+    "English": "I need more information.",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es einen freien Platz im Kurs?",
+    "English": "Is there a free spot in the course?",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie mir bitte zurückschreiben?",
+    "English": "Can you reply to me please?",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Ich würde gerne teilnehmen.",
+    "English": "I would like to participate.",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Ich hätte gern eine Rückmeldung.",
+    "English": "I would like feedback.",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie mir bitte ein Angebot schicken?",
+    "English": "Can you send me an offer?",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Ist ein Rabatt möglich?",
+    "English": "Is a discount possible?",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Kann ich bar oder mit Karte zahlen?",
+    "English": "Can I pay cash or card?",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Kann ich die Aufgaben später abgeben?",
+    "English": "Can I submit the tasks later?",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Dürfte ich kurz mit Ihnen sprechen?",
+    "English": "May I speak with you briefly?",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte sagen, wie spät es ist?",
+    "English": "Could you tell me the time?",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mich bitte anrufen?",
+    "English": "Could you please call me?",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche Ihre Unterstützung.",
+    "English": "I need your support.",
+    "theme": "A2-Making Requests & Asking Politely"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte dich zu meiner Party einladen.",
+    "English": "I want to invite you to my party.",
+    "theme": "A2-Invitations (Formal and Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Ich feiere meinen Geburtstag am Samstag.",
+    "English": "I'm celebrating my birthday on Saturday.",
+    "theme": "A2-Invitations (Formal and Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Die Feier beginnt um 18 Uhr.",
+    "English": "The celebration starts at 6 PM.",
+    "theme": "A2-Invitations (Formal and Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Es wäre schön, wenn du kommen könntest.",
+    "English": "It would be nice if you could come.",
+    "theme": "A2-Invitations (Formal and Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Kannst du bitte Bescheid sagen?",
+    "English": "Can you please inform me?",
+    "theme": "A2-Invitations (Formal and Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Du kannst gerne jemanden mitbringen.",
+    "English": "You may bring someone.",
+    "theme": "A2-Invitations (Formal and Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Wir grillen und essen zusammen.",
+    "English": "We will barbecue and eat together.",
+    "theme": "A2-Invitations (Formal and Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich, dich zu sehen.",
+    "English": "I look forward to seeing you.",
+    "theme": "A2-Invitations (Formal and Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Bitte sag mir, ob du Zeit hast.",
+    "English": "Please tell me if you have time.",
+    "theme": "A2-Invitations (Formal and Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann dich vom Bahnhof abholen.",
+    "English": "I can pick you up from station.",
+    "theme": "A2-Invitations (Formal and Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Kinder sind auch willkommen.",
+    "English": "Children are also welcome.",
+    "theme": "A2-Invitations (Formal and Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Bring bitte etwas zu essen mit.",
+    "English": "Please bring something to eat.",
+    "theme": "A2-Invitations (Formal and Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Die Adresse schicke ich später.",
+    "English": "I will send the address later.",
+    "theme": "A2-Invitations (Formal and Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Wenn du möchtest, können wir vorher telefonieren.",
+    "English": "If you want, we can call before.",
+    "theme": "A2-Invitations (Formal and Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Bis bald, ich freue mich!",
+    "English": "See you soon, I’m happy!",
+    "theme": "A2-Invitations (Formal and Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe ein Problem mit Ihrer Lieferung.",
+    "English": "I have a problem with your delivery.",
+    "theme": "A2-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Die Ware ist beschädigt.",
+    "English": "The product is damaged.",
+    "theme": "A2-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Das Gerät funktioniert nicht.",
+    "English": "The device does not work.",
+    "theme": "A2-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin nicht zufrieden mit dem Service.",
+    "English": "I'm not satisfied with the service.",
+    "theme": "A2-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe etwas anderes bestellt.",
+    "English": "I ordered something different.",
+    "theme": "A2-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Die Rechnung ist falsch.",
+    "English": "The invoice is incorrect.",
+    "theme": "A2-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte eine Rückerstattung.",
+    "English": "I would like a refund.",
+    "theme": "A2-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie das bitte reparieren?",
+    "English": "Can you repair it please?",
+    "theme": "A2-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe lange gewartet, aber niemand kam.",
+    "English": "I waited long, but no one came.",
+    "theme": "A2-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie mir bitte ein neues Produkt schicken?",
+    "English": "Can you send a new product?",
+    "theme": "A2-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Das Essen war kalt und schlecht.",
+    "English": "The food was cold and bad.",
+    "theme": "A2-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich finde das nicht akzeptabel.",
+    "English": "I find this unacceptable.",
+    "theme": "A2-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Bitte kontaktieren Sie mich so schnell wie möglich.",
+    "English": "Please contact me as soon as possible.",
+    "theme": "A2-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe auf eine schnelle Lösung.",
+    "English": "I hope for a fast solution.",
+    "theme": "A2-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank im Voraus.",
+    "English": "Thanks in advance.",
+    "theme": "A2-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich interessiere mich für die Stelle.",
+    "English": "I am interested in the position.",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe Erfahrung als Apotheker.",
+    "English": "I have experience as a pharmacist.",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Ich sende Ihnen meinen Lebenslauf.",
+    "English": "I send you my CV.",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Können wir ein Vorstellungsgespräch vereinbaren?",
+    "English": "Can we arrange a job interview?",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann ab nächster Woche arbeiten.",
+    "English": "I can start working next week.",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Ich suche eine Teilzeitstelle.",
+    "English": "I am looking for part-time work.",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe Ihre Anzeige online gesehen.",
+    "English": "I saw your ad online.",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie mir mehr Informationen senden?",
+    "English": "Can you send me more information?",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich über eine Rückmeldung.",
+    "English": "I look forward to feedback.",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin flexibel und motiviert.",
+    "English": "I am flexible and motivated.",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe gute Computerkenntnisse.",
+    "English": "I have good computer skills.",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Ich arbeite gern im Team.",
+    "English": "I enjoy working in a team.",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin zuverlässig und freundlich.",
+    "English": "I am reliable and friendly.",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann auch am Wochenende arbeiten.",
+    "English": "I can also work weekends.",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Ich würde gern mehr über die Aufgaben wissen.",
+    "English": "I'd like to know more about the tasks.",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Wann ist der Arbeitsbeginn?",
+    "English": "When does the job start?",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Zeit.",
+    "English": "Thank you for your time.",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf Ihre Antwort.",
+    "English": "Looking forward to your answer.",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Mit freundlichen Grüßen",
+    "English": "Yours sincerely",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank.",
+    "English": "Thank you.",
+    "theme": "A2-Work & Job Emails"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin heute nicht zu Hause.",
+    "English": "I'm not home today.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Das Treffen ist um 15 Uhr.",
+    "English": "The meeting is at 3 PM.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Ich war im Supermarkt und komme gleich zurück.",
+    "English": "I was at the supermarket and will return soon.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Das Essen ist im Kühlschrank.",
+    "English": "The food is in the fridge.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Bitte ruf mich später an.",
+    "English": "Please call me later.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Ich komme etwa in 20 Minuten.",
+    "English": "I will come in about 20 min.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe die Schlüssel vergessen.",
+    "English": "I forgot the keys.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin bei der Arbeit.",
+    "English": "I am at work.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Kannst du bitte Milch kaufen?",
+    "English": "Can you please buy milk?",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe Besuch.",
+    "English": "I have visitors.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Das passt gut für mich.",
+    "English": "That works well for me.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Ich würde lieber morgen kommen.",
+    "English": "I'd rather come tomorrow.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Das finde ich eine gute Idee.",
+    "English": "I think that's a good idea.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Das gefällt mir nicht.",
+    "English": "I don't like it.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin damit einverstanden.",
+    "English": "I agree.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche noch Zeit.",
+    "English": "I need more time.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin unterwegs.",
+    "English": "I am on the way.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Melde dich bitte.",
+    "English": "Please contact me.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Kein Problem.",
+    "English": "No problem.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Danke für alles.",
+    "English": "Thanks for everything.",
+    "theme": "A2-Daily Life / Emails / Notes"
+  },
+  {
+    "Article": null,
+    "German": "Viele Grüße",
+    "English": "Best regards",
+    "theme": "A2-Ending (Formal & Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Liebe Grüße",
+    "English": "Warm regards",
+    "theme": "A2-Ending (Formal & Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Bis bald!",
+    "English": "See you soon!",
+    "theme": "A2-Ending (Formal & Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Bis morgen!",
+    "English": "See you tomorrow!",
+    "theme": "A2-Ending (Formal & Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf deine Antwort.",
+    "English": "Looking forward to your reply.",
+    "theme": "A2-Ending (Formal & Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Mit freundlichen Grüßen",
+    "English": "Yours sincerely",
+    "theme": "A2-Ending (Formal & Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Alles Gute",
+    "English": "All the best",
+    "theme": "A2-Ending (Formal & Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Einen schönen Tag noch!",
+    "English": "Have a nice day!",
+    "theme": "A2-Ending (Formal & Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Danke und bis später.",
+    "English": "Thanks and see you later.",
+    "theme": "A2-Ending (Formal & Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Tschüss!",
+    "English": "Bye",
+    "theme": "A2-Ending (Formal & Informal)"
   }
 ];
 
