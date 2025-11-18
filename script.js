@@ -54006,6 +54006,2796 @@ const wordbankData = [
     "German": "Tschüss!",
     "English": "Bye",
     "theme": "A2-Ending (Formal & Informal)"
+  },
+  {
+    "Article": null,
+    "German": "Es tut mir leid, dass ich spät antworte.",
+    "English": "I am sorry that I am replying late.",
+    "theme": "B1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Es tut mir leid, ich habe Ihre Nachricht zu spät gesehen.",
+    "English": "I am sorry, I saw your message too late.",
+    "theme": "B1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Geduld.",
+    "English": "Thank you for your patience.",
+    "theme": "B1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Ich war beschäftigt.",
+    "English": "I was busy.",
+    "theme": "B1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Ich konnte früher nicht schreiben.",
+    "English": "I could not write earlier.",
+    "theme": "B1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Ich hatte keine Möglichkeit zu antworten.",
+    "English": "I had no opportunity to reply.",
+    "theme": "B1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Es tut mir leid für die Unannehmlichkeiten.",
+    "English": "I am sorry for the inconvenience.",
+    "theme": "B1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, dass das kein großes Problem ist.",
+    "English": "I hope this is not a big problem.",
+    "theme": "B1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Bitte entschuldigen Sie die Umstände.",
+    "English": "Please excuse the circumstances.",
+    "theme": "B1-Apologies"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte einen Termin vereinbaren.",
+    "English": "I would like to schedule an appointment.",
+    "theme": "B1-Appointments"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte einen neuen Termin machen.",
+    "English": "I would like to make a new appointment.",
+    "theme": "B1-Appointments"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte den Termin verschieben.",
+    "English": "I would like to reschedule the appointment.",
+    "theme": "B1-Appointments"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte den Termin absagen.",
+    "English": "I would like to cancel the appointment.",
+    "theme": "B1-Appointments"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie einen freien Termin nächste Woche?",
+    "English": "Do you have an available appointment next week?",
+    "theme": "B1-Appointments"
+  },
+  {
+    "Article": null,
+    "German": "Wann haben Sie Zeit?",
+    "English": "When do you have time?",
+    "theme": "B1-Appointments"
+  },
+  {
+    "Article": null,
+    "German": "Wann kann ich kommen?",
+    "English": "When can I come?",
+    "theme": "B1-Appointments"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann am Montag kommen.",
+    "English": "I can come on Monday.",
+    "theme": "B1-Appointments"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann am Nachmittag kommen.",
+    "English": "I can come in the afternoon.",
+    "theme": "B1-Appointments"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann leider nicht kommen.",
+    "English": "Unfortunately, I cannot come.",
+    "theme": "B1-Appointments"
+  },
+  {
+    "Article": null,
+    "German": "Leider habe ich keine Zeit.",
+    "English": "Unfortunately, I have no time.",
+    "theme": "B1-Appointments"
+  },
+  {
+    "Article": null,
+    "German": "Leider bin ich an diesem Tag nicht verfügbar.",
+    "English": "Unfortunately, I am not available on that day.",
+    "theme": "B1-Appointments"
+  },
+  {
+    "Article": null,
+    "German": "Der Termin passt für mich.",
+    "English": "The appointment works for me.",
+    "theme": "B1-Appointments"
+  },
+  {
+    "Article": null,
+    "German": "Der Termin passt leider nicht.",
+    "English": "The appointment unfortunately does not work.",
+    "theme": "B1-Appointments"
+  },
+  {
+    "Article": null,
+    "German": "Können wir einen späteren Termin finden?",
+    "English": "Can we find a later appointment?",
+    "theme": "B1-Appointments"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe noch eine Frage.",
+    "English": "I still have a question.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte etwas nachfragen.",
+    "English": "I would like to ask something.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte mich erkundigen.",
+    "English": "I would like to inquire.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche weitere Informationen.",
+    "English": "I need further information.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte wissen, wann der Kurs beginnt.",
+    "English": "I would like to know when the course starts.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte wissen, wie viel der Kurs kostet.",
+    "English": "I would like to know how much the course costs.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie mir bitte sagen, wo der Kurs stattfindet?",
+    "English": "Could you please tell me where the course takes place?",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie mir bitte die Adresse schicken?",
+    "English": "Could you please send me the address?",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte mehr Details geben?",
+    "English": "Could you please give me more details?",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte die Unterlagen zusenden?",
+    "English": "Could you please send me the documents?",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte bestätigen, ob der Termin stattfindet?",
+    "English": "Could you please confirm whether the appointment will take place?",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Wie lange dauert der Kurs?",
+    "English": "How long does the course last?",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Wann endet der Kurs?",
+    "English": "When does the course end?",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Wann findet die Prüfung statt?",
+    "English": "When does the exam take place?",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Bitte informieren Sie mich über den Ablauf.",
+    "English": "Please inform me about the process.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Bitte teilen Sie mir das Datum mit.",
+    "English": "Please inform me of the date.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Bitte senden Sie mir die fehlenden Informationen.",
+    "English": "Please send me the missing information.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Es wäre hilfreich, wenn Sie mir mehr Informationen senden.",
+    "English": "It would be helpful if you send me more information.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Bitte teilen Sie mir mit, welche Schritte notwendig sind.",
+    "English": "Please tell me which steps are necessary.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Bitte senden Sie mir die fehlenden Dateien.",
+    "English": "Please send me the missing files.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe noch eine kurze Frage.",
+    "English": "I still have a short question.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Bitte senden Sie mir die aktuellen Informationen.",
+    "English": "Please send me the current information.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte wissen, ob es Änderungen gibt.",
+    "English": "I would like to know if there are any changes.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte den Link schicken?",
+    "English": "Could you please send me the link?",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie mir die Datei in einem anderen Format senden?",
+    "English": "Can you send me the file in another format?",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe alles geprüft und ich habe noch Fragen.",
+    "English": "I checked everything and I still have questions.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte höflich nachfragen.",
+    "English": "I would like to ask politely.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Bitte senden Sie mir die fehlenden Informationen so bald wie möglich.",
+    "English": "Please send me the missing information as soon as possible.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte höflich um eine Erklärung bitten.",
+    "English": "I would like to politely request an explanation.",
+    "theme": "B1-Asking for Information"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe Rechnung und Bestellnummer beigefügt.",
+    "English": "I have attached the invoice and order number.",
+    "theme": "B1-Attachments & Proof"
+  },
+  {
+    "Article": null,
+    "German": "Ich schicke Ihnen Fotos als Beweis.",
+    "English": "I am sending you photos as proof.",
+    "theme": "B1-Attachments & Proof"
+  },
+  {
+    "Article": null,
+    "German": "Bitte überprüfen Sie den Anhang.",
+    "English": "Please check the attachment.",
+    "theme": "B1-Attachments & Proof"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe die Dokumente beigefügt.",
+    "English": "I have attached the documents.",
+    "theme": "B1-Attachments & Proof"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe die Datei geöffnet.",
+    "English": "I opened the file.",
+    "theme": "B1-Attachments & Proof"
+  },
+  {
+    "Article": null,
+    "German": "Ich warte auf Ihre Rückmeldung.",
+    "English": "I am waiting for your response.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Bitte antworten Sie mir so schnell wie möglich.",
+    "English": "Please reply to me as soon as possible.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf Ihre Antwort.",
+    "English": "I look forward to your reply.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Es wäre sehr freundlich von Ihnen.",
+    "English": "That would be very kind of you.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für Ihre Zeit.",
+    "English": "Thank you for your time.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für Ihre Unterstützung.",
+    "English": "Thank you for your support.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für Ihre Rückmeldung.",
+    "English": "Thank you for your response.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für Ihre Bemühungen.",
+    "English": "Thank you for your efforts.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Bitte informieren Sie mich, wenn Sie eine Antwort haben.",
+    "English": "Please inform me when you have an answer.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Bitte geben Sie mir Rückmeldung.",
+    "English": "Please give me feedback.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich warte auf Ihre Entscheidung.",
+    "English": "I am waiting for your decision.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe auf eine positive Rückmeldung.",
+    "English": "I hope for a positive response.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Unterstützung.",
+    "English": "Thank you for your support.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Mühe.",
+    "English": "Thank you for your effort.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Bearbeitung.",
+    "English": "Thank you for processing this.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, dass sich die Situation bessert.",
+    "English": "I hope that the situation improves.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Wann kann ich mit einer Antwort rechnen?",
+    "English": "When can I expect an answer?",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche eine klare Antwort.",
+    "English": "I need a clear answer.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für Ihre Aufmerksamkeit.",
+    "English": "Thank you for your attention.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Bitte sagen Sie mir Bescheid, sobald Sie eine Lösung haben.",
+    "English": "Please inform me when you have a solution.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin für Rückfragen erreichbar.",
+    "English": "I am available for questions.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Sie können mich telefonisch erreichen.",
+    "English": "You can reach me by phone.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Sie können mir eine E-Mail senden.",
+    "English": "You can send me an email.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Bitte teilen Sie mir den nächsten Schritt mit.",
+    "English": "Please tell me the next step.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde warten, bis Sie sich melden.",
+    "English": "I will wait until you contact me.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für eine schnelle Rückmeldung.",
+    "English": "Thank you for a quick reply.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche eine kurze Rückmeldung.",
+    "English": "I need a short response.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf eine Rückmeldung.",
+    "English": "I look forward to a response.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für Ihre Zeit und Mühe.",
+    "English": "Thank you for your time and effort.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für Ihre Meinung.",
+    "English": "Thank you for your opinion.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für Ihre Offenheit.",
+    "English": "Thank you for your openness.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich über jede Rückmeldung.",
+    "English": "I am happy about any feedback.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Bitte lassen Sie mich wissen, wenn Sie Änderungen haben.",
+    "English": "Please let me know if you have changes.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Bitte teilen Sie mir Ihre Entscheidung mit.",
+    "English": "Please inform me of your decision.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde Sie informieren, sobald ich Neuigkeiten habe.",
+    "English": "I will inform you as soon as I have news.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde mich melden, wenn ich mehr Informationen habe.",
+    "English": "I will contact you when I have more information.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde versuchen, alles rechtzeitig zu erledigen.",
+    "English": "I will try to complete everything on time.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde morgen mit Ihnen Kontakt aufnehmen.",
+    "English": "I will contact you tomorrow.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde nächste Woche anrufen.",
+    "English": "I will call next week.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde nächste Woche wieder schreiben.",
+    "English": "I will write again next week.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde die Unterlagen morgen schicken.",
+    "English": "I will send the documents tomorrow.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde die Unterlagen so schnell wie möglich senden.",
+    "English": "I will send the documents as soon as possible.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde später noch einmal fragen.",
+    "English": "I will ask again later.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, dass ich den Kurs erfolgreich abschließen kann.",
+    "English": "I hope that I can successfully complete the course.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, dass ich die Prüfung bestehen werde.",
+    "English": "I hope that I will pass the exam.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, dass alles gut läuft.",
+    "English": "I hope everything goes well.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, dass wir weiter in Kontakt bleiben.",
+    "English": "I hope that we stay in contact.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin gespannt auf die nächsten Schritte.",
+    "English": "I am curious about the next steps.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf weitere Informationen.",
+    "English": "I look forward to further information.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Bitte sagen Sie mir Bescheid, wenn etwas ändert.",
+    "English": "Please let me know if something changes.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin dankbar für jede Information.",
+    "English": "I am grateful for any information.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für die Zusammenarbeit.",
+    "English": "Thank you for the cooperation.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für Ihre Geduld.",
+    "English": "Thank you for your patience.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre schnelle Antwort.",
+    "English": "Thank you for your quick reply.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Zeit.",
+    "English": "Thank you for your time.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Mühe.",
+    "English": "Thank you for your effort.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe auf eine schnelle Antwort.",
+    "English": "I hope for a quick reply.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Bitte schreiben Sie mir zurück.",
+    "English": "Please write back to me.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Bitte halten Sie mich auf dem Laufenden.",
+    "English": "Please keep me updated.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Bitte informieren Sie mich, sobald möglich.",
+    "English": "Please inform me as soon as possible.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Bitte geben Sie mir Bescheid.",
+    "English": "Please let me know.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich wäre dankbar für eine Rückmeldung.",
+    "English": "I would be grateful for feedback.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich bedanke mich im Voraus.",
+    "English": "I thank you in advance.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich darauf, von Ihnen zu hören.",
+    "English": "I look forward to hearing from you.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Bitte zögern Sie nicht, mich zu kontaktieren.",
+    "English": "Please do not hesitate to contact me.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Sie können mich jederzeit kontaktieren.",
+    "English": "You can contact me anytime.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Sie können mir jederzeit schreiben.",
+    "English": "You can write to me anytime.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich stehe zur Verfügung.",
+    "English": "I am available.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin erreichbar unter dieser Nummer.",
+    "English": "I can be reached under this number.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin erreichbar per E-Mail.",
+    "English": "I am reachable by email.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde auf Ihre Nachricht warten.",
+    "English": "I will wait for your message.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, dass wir bald miteinander sprechen können.",
+    "English": "I hope we can speak soon.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, dass wir bald eine Lösung finden.",
+    "English": "I hope that we find a solution soon.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde alle Unterlagen vorbereiten.",
+    "English": "I will prepare all documents.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde alles rechtzeitig erledigen.",
+    "English": "I will complete everything on time.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde verfügbar sein.",
+    "English": "I will be available.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde zur angegebenen Zeit da sein.",
+    "English": "I will be there at the given time.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin dankbar für Ihre Zeit und Hilfe.",
+    "English": "I am grateful for your time and help.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich schätze Ihre Hilfe sehr.",
+    "English": "I appreciate your help very much.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, dass alles bald geklärt ist.",
+    "English": "I hope everything is clarified soon.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, dass der Prozess reibungslos verläuft.",
+    "English": "I hope the process goes smoothly.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde Ihnen die Dokumente senden.",
+    "English": "I will send you the documents.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde alle Informationen prüfen.",
+    "English": "I will check all information.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe auf eine klare Antwort.",
+    "English": "I hope for a clear answer.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich über jede Unterstützung.",
+    "English": "I am glad about any support.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Noch einmal vielen Dank.",
+    "English": "Once again, thank you.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte eine Rückmeldung geben?",
+    "English": "Could you please give me feedback?",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin dankbar für jede Rückmeldung.",
+    "English": "I am grateful for any response.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde die Änderungen überprüfen.",
+    "English": "I will review the changes.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte mich bedanken.",
+    "English": "I would like to express my thanks.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin Ihnen sehr dankbar.",
+    "English": "I am very grateful to you.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich schätze Ihre schnelle Antwort.",
+    "English": "I appreciate your quick reply.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich schätze Ihre Unterstützung.",
+    "English": "I appreciate your support.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, dass alles geklappt hat.",
+    "English": "I hope everything worked out.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, dass Sie verstehen.",
+    "English": "I hope that you understand.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Bitte rufen Sie mich zurück.",
+    "English": "Please call me back.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie mich morgen kontaktieren?",
+    "English": "Can you contact me tomorrow?",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde mich an die Regeln halten.",
+    "English": "I will follow the rules.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde die Unterlagen rechtzeitig senden.",
+    "English": "I will send the documents on time.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde alle Bedingungen akzeptieren.",
+    "English": "I will accept all conditions.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte mich bedanken für Ihre schnelle Hilfe.",
+    "English": "I would like to thank you for your quick help.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ihre Unterstützung bedeutet mir viel.",
+    "English": "Your support means a lot to me.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin froh, dass wir eine Lösung gefunden haben.",
+    "English": "I am glad that we found a solution.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre professionelle Hilfe.",
+    "English": "Thank you for your professional help.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, dass wir weiterhin gut zusammenarbeiten.",
+    "English": "I hope that we continue to work well together.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich warte auf Ihre weitere Anweisung.",
+    "English": "I am waiting for your further instructions.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde die Änderungen sofort durchführen.",
+    "English": "I will make the changes immediately.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde versuchen, alles rechtzeitig zu erledigen.",
+    "English": "I will try to complete everything on time.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihr Verständnis.",
+    "English": "Thank you for your understanding.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Bitte lassen Sie mich wissen, wenn Sie Fragen haben.",
+    "English": "Please let me know if you have questions.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin jederzeit erreichbar.",
+    "English": "I am reachable at any time.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Sie können mich per Telefon erreichen.",
+    "English": "You can reach me by phone.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Sie können mich per E-Mail erreichen.",
+    "English": "You can reach me by email.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Noch einmal vielen Dank für Ihre Hilfe.",
+    "English": "Once again, many thanks for your help.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich, bald von Ihnen zu hören.",
+    "English": "I look forward to hearing from you soon.",
+    "theme": "B1-Closing & Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich wünsche Ihnen einen angenehmen Tag.",
+    "English": "I wish you a pleasant day.",
+    "theme": "B1-Closing & Sign-off"
+  },
+  {
+    "Article": null,
+    "German": "Ich wünsche Ihnen einen schönen Tag.",
+    "English": "I wish you a nice day.",
+    "theme": "B1-Closing & Sign-off"
+  },
+  {
+    "Article": null,
+    "German": "Ich wünsche Ihnen ein schönes Wochenende.",
+    "English": "I wish you a nice weekend.",
+    "theme": "B1-Closing & Sign-off"
+  },
+  {
+    "Article": null,
+    "German": "Ich wünsche Ihnen eine gute Woche.",
+    "English": "I wish you a good week.",
+    "theme": "B1-Closing & Sign-off"
+  },
+  {
+    "Article": null,
+    "German": "Ich wünsche Ihnen viel Erfolg.",
+    "English": "I wish you much success.",
+    "theme": "B1-Closing & Sign-off"
+  },
+  {
+    "Article": null,
+    "German": "Ich wünsche Ihnen alles Gute.",
+    "English": "I wish you all the best.",
+    "theme": "B1-Closing & Sign-off"
+  },
+  {
+    "Article": null,
+    "German": "Mit freundlichen Grüßen",
+    "English": "Kind regards",
+    "theme": "B1-Closing & Sign-off"
+  },
+  {
+    "Article": null,
+    "German": "Freundliche Grüße",
+    "English": "Best regards",
+    "theme": "B1-Closing & Sign-off"
+  },
+  {
+    "Article": null,
+    "German": "Hochachtungsvoll",
+    "English": "Respectfully (very formal)",
+    "theme": "B1-Closing & Sign-off"
+  },
+  {
+    "Article": null,
+    "German": "Herzlichen Dank",
+    "English": "Many thanks",
+    "theme": "B1-Closing & Sign-off"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe meine Bestätigung nicht bekommen.",
+    "English": "I did not receive my confirmation.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Leider bin ich mit dem Service nicht zufrieden.",
+    "English": "Unfortunately, I am not satisfied with the service.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe eine Bestellung aufgegeben.",
+    "English": "I placed an order.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe meine Bestellung noch nicht erhalten.",
+    "English": "I have not received my order yet.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Die Lieferung ist verspätet.",
+    "English": "The delivery is delayed.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Die Lieferung war unvollständig.",
+    "English": "The delivery was incomplete.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe ein falsches Produkt erhalten.",
+    "English": "I received the wrong product.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Das Produkt funktioniert nicht.",
+    "English": "The product does not work.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Das Produkt ist beschädigt angekommen.",
+    "English": "The product arrived damaged.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Die Qualität ist nicht gut.",
+    "English": "The quality is not good.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe bereits bezahlt.",
+    "English": "I have already paid.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe keine Bestätigung erhalten.",
+    "English": "I did not receive a confirmation.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin sehr enttäuscht.",
+    "English": "I am very disappointed.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich hatte eine bessere Qualität erwartet.",
+    "English": "I expected better quality.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin unzufrieden mit dem Ergebnis.",
+    "English": "I am unhappy with the result.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Das ist nicht, was ich bestellt habe.",
+    "English": "This is not what I ordered.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Das ist ein Fehler.",
+    "English": "That is a mistake.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Es gibt ein Missverständnis.",
+    "English": "There is a misunderstanding.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Leider habe ich keine Antwort erhalten.",
+    "English": "Unfortunately, I did not receive an answer.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Der Fehler liegt nicht bei mir.",
+    "English": "The mistake is not mine.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Leider ist es ein großes Problem für mich.",
+    "English": "Unfortunately, this is a big problem for me.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich wurde falsch informiert.",
+    "English": "I was given incorrect information.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich hatte andere Erwartungen.",
+    "English": "I had different expectations.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Das Ergebnis entspricht nicht den Angaben.",
+    "English": "The result does not match the description.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich sehe keine Verbesserung.",
+    "English": "I see no improvement.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich konnte die Datei nicht öffnen.",
+    "English": "I could not open the file.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe einen Fehler bemerkt.",
+    "English": "I noticed an error.",
+    "theme": "B1-Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte sicherstellen, dass alles korrekt ist.",
+    "English": "I want to make sure everything is correct.",
+    "theme": "B1-Confirmation"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte eine schriftliche Bestätigung.",
+    "English": "I would like a written confirmation.",
+    "theme": "B1-Confirmation"
+  },
+  {
+    "Article": null,
+    "German": "Bitte bestätigen Sie mir den Termin.",
+    "English": "Please confirm the appointment for me.",
+    "theme": "B1-Confirmation"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte eine Bestätigung senden?",
+    "English": "Could you please send me a confirmation?",
+    "theme": "B1-Confirmation"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche eine schriftliche Bestätigung.",
+    "English": "I need a written confirmation.",
+    "theme": "B1-Confirmation"
+  },
+  {
+    "Article": null,
+    "German": "Ich warte auf eine Bestätigung.",
+    "English": "I am waiting for a confirmation.",
+    "theme": "B1-Confirmation"
+  },
+  {
+    "Article": null,
+    "German": "Bitte bestätigen Sie den Erhalt dieser Nachricht.",
+    "English": "Please confirm receipt of this message.",
+    "theme": "B1-Confirmation"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe alles geprüft und es ist in Ordnung.",
+    "English": "I checked everything and it is fine.",
+    "theme": "B1-Confirmation"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte sicherstellen, dass alles richtig ist.",
+    "English": "I want to make sure everything is correct.",
+    "theme": "B1-Confirmation"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte bestätigen, dass ich alles verstanden habe.",
+    "English": "I would like to confirm that I understood everything.",
+    "theme": "B1-Confirmation"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte eine kurze Bestätigung erhalten.",
+    "English": "I would like to receive a short confirmation.",
+    "theme": "B1-Confirmation"
+  },
+  {
+    "Article": null,
+    "German": "Bitte bestätigen Sie mir den Erhalt dieser E-Mail.",
+    "English": "Please confirm receipt of this email.",
+    "theme": "B1-Confirmation"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte Sie zu einem Treffen einladen.",
+    "English": "I would like to invite you to a meeting.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte Sie zu einer Veranstaltung einladen.",
+    "English": "I would like to invite you to an event.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich, wenn Sie kommen können.",
+    "English": "I am happy if you can come.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, Sie haben Zeit.",
+    "English": "I hope you have time.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Bitte sagen Sie mir Bescheid, ob Sie teilnehmen können.",
+    "English": "Please let me know if you can attend.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich würde mich freuen, Sie zu sehen.",
+    "English": "I would be happy to see you.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie Zeit am Freitag?",
+    "English": "Do you have time on Friday?",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie Zeit nächste Woche?",
+    "English": "Do you have time next week?",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Wann passt es Ihnen?",
+    "English": "When is convenient for you?",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte gern einen Termin mit Ihnen vereinbaren.",
+    "English": "I would like to schedule an appointment with you.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann am Vormittag.",
+    "English": "I am available in the morning.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann am Nachmittag.",
+    "English": "I am available in the afternoon.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann am Abend.",
+    "English": "I am available in the evening.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann nächste Woche.",
+    "English": "I am available next week.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin flexibel.",
+    "English": "I am flexible.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin am Wochenende verfügbar.",
+    "English": "I am available on the weekend.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann leider nicht teilnehmen.",
+    "English": "Unfortunately, I cannot attend.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Leider bin ich an diesem Datum nicht frei.",
+    "English": "Unfortunately, I am not free on that date.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für die Einladung.",
+    "English": "Thank you for the invitation.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Es tut mir leid, ich kann nicht kommen.",
+    "English": "I am sorry, I cannot come.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe bereits einen anderen Termin.",
+    "English": "I already have another appointment.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Wir können auch später einen Termin machen.",
+    "English": "We can schedule an appointment later.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Können wir den Termin verschieben?",
+    "English": "Can we reschedule the appointment?",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Können wir einen neuen Zeitpunkt finden?",
+    "English": "Can we find a new time?",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde Ihnen später schreiben.",
+    "English": "I will write to you later.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte gern vorher telefonieren.",
+    "English": "I would like to call before.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte vorher einige Informationen bekommen.",
+    "English": "I would like to receive some information before.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Bitte informieren Sie mich rechtzeitig.",
+    "English": "Please inform me in time.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde pünktlich kommen.",
+    "English": "I will arrive on time.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich komme etwas später.",
+    "English": "I will arrive a bit later.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich komme so schnell wie möglich.",
+    "English": "I will come as soon as possible.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich plane, pünktlich zu sein.",
+    "English": "I plan to be on time.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde versuchen zu kommen.",
+    "English": "I will try to come.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Danke für Ihre Organisation.",
+    "English": "Thank you for your organization.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Danke für Ihre Einladung und Mühe.",
+    "English": "Thank you for your invitation and effort.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf das Treffen.",
+    "English": "I am looking forward to the meeting.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf die Veranstaltung.",
+    "English": "I am looking forward to the event.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf unser Gespräch.",
+    "English": "I am looking forward to our conversation.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, wir sehen uns bald.",
+    "English": "I hope we will see each other soon.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe auf eine gute Zusammenarbeit.",
+    "English": "I hope for good cooperation.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe Interesse an einem gemeinsamen Projekt.",
+    "English": "I am interested in a joint project.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin offen für Vorschläge.",
+    "English": "I am open to suggestions.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie einen Vorschlag?",
+    "English": "Do you have a suggestion?",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe einen Vorschlag.",
+    "English": "I have a suggestion.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Wir könnten uns im Büro treffen.",
+    "English": "We could meet at the office.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Wir könnten uns online treffen.",
+    "English": "We could meet online.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich schlage ein Treffen per Video vor.",
+    "English": "I suggest a video meeting.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Können wir uns telefonisch austauschen?",
+    "English": "Can we exchange thoughts by phone?",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Bitte bestätigen Sie den Termin.",
+    "English": "Please confirm the appointment.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe den Termin in meinem Kalender eingetragen.",
+    "English": "I have entered the appointment in my calendar.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Bitte erinnern Sie mich einen Tag vorher.",
+    "English": "Please remind me one day before.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde Sie am Tag vorher informieren.",
+    "English": "I will inform you the day before.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich darauf, Sie kennenzulernen.",
+    "English": "I am looking forward to meeting you.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Es wäre schön, wenn Sie Zeit hätten.",
+    "English": "It would be nice if you had time.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, es passt für Sie.",
+    "English": "I hope it suits you.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Wir können einen passenden Zeitpunkt finden.",
+    "English": "We can find a suitable time.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Bitte schreiben Sie mir Ihre Verfügbarkeit.",
+    "English": "Please write me your availability.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin am Dienstag verfügbar.",
+    "English": "I am available on Tuesday.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin am Donnerstag verfügbar.",
+    "English": "I am available on Thursday.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Wir können einen Ort auswählen.",
+    "English": "We can choose a place.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie eine Präferenz für den Ort?",
+    "English": "Do you have a preference for the location?",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Wir können uns in einem Café treffen.",
+    "English": "We can meet in a café.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Wir können uns im Park treffen.",
+    "English": "We can meet in the park.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Wir können uns in der Firma treffen.",
+    "English": "We can meet in the company.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Bitte geben Sie mir die genaue Adresse.",
+    "English": "Please give me the exact address.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche eine Wegbeschreibung.",
+    "English": "I need directions.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Wie komme ich dorthin?",
+    "English": "How do I get there?",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ist der Ort mit öffentlichen Verkehrsmitteln erreichbar?",
+    "English": "Is the place reachable by public transport?",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es Parkmöglichkeiten?",
+    "English": "Are there parking options?",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich komme mit dem Auto.",
+    "English": "I am coming by car.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich komme mit öffentlichen Verkehrsmitteln.",
+    "English": "I am coming by public transport.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde die Fahrpläne prüfen.",
+    "English": "I will check the schedules.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Die Zeit passt perfekt für mich.",
+    "English": "The time fits perfectly for me.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin nicht sicher, ob ich Zeit habe.",
+    "English": "I am not sure if I have time.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde Ihnen so schnell wie möglich Bescheid geben.",
+    "English": "I will inform you as soon as possible.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Bitte geben Sie mir ein wenig Zeit.",
+    "English": "Please give me a little time.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich werde mich bald melden.",
+    "English": "I will contact you soon.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Flexibilität.",
+    "English": "Thank you for your flexibility.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Einladung und Unterstützung.",
+    "English": "Thank you for your invitation and support.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich sehr auf unser Treffen.",
+    "English": "I am very much looking forward to our meeting.",
+    "theme": "B1-Invitations & Meetings"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, es geht Ihnen gut.",
+    "English": "I hope you are well.",
+    "theme": "B1-Opening & Greeting"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Nachricht.",
+    "English": "Thank you for your message.",
+    "theme": "B1-Opening & Greeting"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre E-Mail.",
+    "English": "Thank you for your email.",
+    "theme": "B1-Opening & Greeting"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Hilfe.",
+    "English": "Thank you for your help.",
+    "theme": "B1-Opening & Greeting"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank im Voraus.",
+    "English": "Thank you in advance.",
+    "theme": "B1-Opening & Greeting"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe die Bestätigung erhalten.",
+    "English": "I received the confirmation.",
+    "theme": "B1-Opening & Greeting"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für die zugesendeten Informationen.",
+    "English": "Thank you for the information you sent.",
+    "theme": "B1-Opening & Greeting"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe Ihre Nachricht erhalten.",
+    "English": "I have received your message.",
+    "theme": "B1-Opening & Greeting"
+  },
+  {
+    "Article": null,
+    "German": "Meiner Meinung nach ist das eine gute Idee.",
+    "English": "In my opinion, that is a good idea.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich denke, dass wir mehr Zeit brauchen.",
+    "English": "I think that we need more time.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich finde, dass es so besser ist.",
+    "English": "I think it is better this way.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin der Meinung, dass das sinnvoll ist.",
+    "English": "I am of the opinion that this makes sense.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich glaube, dass wir zuerst planen sollten.",
+    "English": "I believe that we should plan first.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin mir nicht sicher.",
+    "English": "I am not sure.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin nicht ganz überzeugt.",
+    "English": "I am not fully convinced.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin unsicher wegen dieser Entscheidung.",
+    "English": "I am unsure about this decision.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich verstehe den Punkt, aber ich habe eine andere Meinung.",
+    "English": "I understand the point, but I have a different opinion.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich respektiere Ihre Meinung.",
+    "English": "I respect your opinion.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Es wäre besser, wenn wir das später machen.",
+    "English": "It would be better if we do that later.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich schlage vor, dass wir eine andere Lösung suchen.",
+    "English": "I suggest that we look for another solution.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich schlage vor, dass wir uns zuerst treffen.",
+    "English": "I suggest that we meet first.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Vielleicht könnten wir eine Pause machen.",
+    "English": "Maybe we could take a break.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Vielleicht könnten wir einen Kompromiss finden.",
+    "English": "Maybe we could find a compromise.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Das klingt gut, aber ich habe noch Fragen.",
+    "English": "That sounds good, but I still have questions.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich finde diese Variante einfacher.",
+    "English": "I find this option easier.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich finde diese Lösung praktischer.",
+    "English": "I find this solution more practical.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich finde, dass wir die Zeit gut nutzen sollten.",
+    "English": "I think we should use the time well.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich finde diesen Vorschlag sinnvoll.",
+    "English": "I find this suggestion meaningful.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin dafür.",
+    "English": "I am in favor.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin dagegen.",
+    "English": "I am against it.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich stimme zu.",
+    "English": "I agree.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich stimme nicht zu.",
+    "English": "I do not agree.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich sehe das anders.",
+    "English": "I see it differently.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Das ist ein guter Punkt.",
+    "English": "That is a good point.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Das ist ein wichtiger Hinweis.",
+    "English": "That is an important note.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Das ist ein Vorteil.",
+    "English": "That is an advantage.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Das ist ein Nachteil.",
+    "English": "That is a disadvantage.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ein Vorteil ist, dass es schnell geht.",
+    "English": "One advantage is that it is fast.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ein Nachteil ist, dass es teuer ist.",
+    "English": "One disadvantage is that it is expensive.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Der Vorteil ist, dass wir Zeit sparen.",
+    "English": "The advantage is that we save time.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Der Nachteil ist, dass wir warten müssen.",
+    "English": "The disadvantage is that we must wait.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich finde diese Methode interessant.",
+    "English": "I find this method interesting.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich würde diese Option bevorzugen.",
+    "English": "I would prefer this option.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich würde lieber die andere Möglichkeit wählen.",
+    "English": "I would rather choose the other option.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte meine Meinung äußern.",
+    "English": "I would like to express my opinion.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte erklären, warum ich das denke.",
+    "English": "I would like to explain why I think that.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich finde es wichtig, darüber zu sprechen.",
+    "English": "I find it important to talk about it.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich denke, dass wir flexibel bleiben sollten.",
+    "English": "I think we should remain flexible.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin offen für neue Ideen.",
+    "English": "I am open to new ideas.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich finde, dass man nicht vorschnell entscheiden sollte.",
+    "English": "I think we should not decide too quickly.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe einige Bedenken.",
+    "English": "I have some concerns.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, wir können eine gute Lösung finden.",
+    "English": "I hope we can find a good solution.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, dass wir eine Einigung erreichen.",
+    "English": "I hope that we can reach an agreement.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich über Ihre Meinung.",
+    "English": "I look forward to your opinion.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Was denken Sie darüber?",
+    "English": "What do you think about it?",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Wie sehen Sie das?",
+    "English": "How do you see it?",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie Ihre Meinung erklären?",
+    "English": "Could you explain your opinion?",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie eine andere Idee?",
+    "English": "Do you have another idea?",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Es wäre gut, wenn wir überlegen.",
+    "English": "It would be good if we think about it.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Wir sollten alle Optionen prüfen.",
+    "English": "We should check all options.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Wir sollten zuerst die wichtigsten Punkte klären.",
+    "English": "We should clarify the most important points first.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Wir sollten die Entscheidung sorgfältig treffen.",
+    "English": "We should make the decision carefully.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Wir sollten gemeinsam eine Lösung suchen.",
+    "English": "We should look for a solution together.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Wir sollten Schritt für Schritt vorgehen.",
+    "English": "We should proceed step by step.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich glaube, dass Geduld wichtig ist.",
+    "English": "I believe patience is important.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich glaube, dass Kommunikation sehr wichtig ist.",
+    "English": "I believe communication is very important.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich finde es hilfreich, alles schriftlich zu haben.",
+    "English": "I find it helpful to have everything in writing.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich finde, man sollte vorher planen.",
+    "English": "I think one should plan beforehand.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich finde, dass wir zuerst Informationen sammeln sollten.",
+    "English": "I think we should collect information first.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Wir könnten später noch einmal darüber sprechen.",
+    "English": "We could talk about it again later.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Wir könnten die Entscheidung verschieben.",
+    "English": "We could postpone the decision.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Das hängt von der Situation ab.",
+    "English": "That depends on the situation.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Das hängt von Ihnen ab.",
+    "English": "That depends on you.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Das hängt vom Termin ab.",
+    "English": "That depends on the appointment.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin bereit, Verantwortung zu übernehmen.",
+    "English": "I am ready to take responsibility.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf eine gute Zusammenarbeit.",
+    "English": "I am looking forward to good cooperation.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, wir können gemeinsam erfolgreich sein.",
+    "English": "I hope we can succeed together.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, dass alles gut funktioniert.",
+    "English": "I hope everything works well.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, dass wir Fortschritte machen.",
+    "English": "I hope we make progress.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin zufrieden mit dem Ergebnis.",
+    "English": "I am satisfied with the result.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin nicht zufrieden mit dem Ergebnis.",
+    "English": "I am not satisfied with the result.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin froh, dass wir eine Lösung gefunden haben.",
+    "English": "I am glad we found a solution.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin enttäuscht, dass wir keine Lösung haben.",
+    "English": "I am disappointed that we have no solution.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin optimistisch.",
+    "English": "I am optimistic.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin nicht sehr optimistisch.",
+    "English": "I am not very optimistic.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Es wäre gut, wenn wir realistisch bleiben.",
+    "English": "It would be good if we remain realistic.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich denke, wir sind auf dem richtigen Weg.",
+    "English": "I think we are on the right path.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Ich denke, es gibt noch Verbesserungsmöglichkeiten.",
+    "English": "I think there is still room for improvement.",
+    "theme": "B1-Opinions & Suggestions"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte die Prüfungsgebühren mitteilen?",
+    "English": "Could you please tell me the exam fees?",
+    "theme": "B1-Payment & Invoices"
+  },
+  {
+    "Article": null,
+    "German": "Wie viel kostet die Prüfung?",
+    "English": "How much does the exam cost?",
+    "theme": "B1-Payment & Invoices"
+  },
+  {
+    "Article": null,
+    "German": "Wie kann ich bezahlen?",
+    "English": "How can I pay?",
+    "theme": "B1-Payment & Invoices"
+  },
+  {
+    "Article": null,
+    "German": "Kann ich online bezahlen?",
+    "English": "Can I pay online?",
+    "theme": "B1-Payment & Invoices"
+  },
+  {
+    "Article": null,
+    "German": "Kann ich bar bezahlen?",
+    "English": "Can I pay in cash?",
+    "theme": "B1-Payment & Invoices"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe eine Frage zur Bezahlung.",
+    "English": "I have a question about the payment.",
+    "theme": "B1-Payment & Invoices"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche eine Rechnung.",
+    "English": "I need an invoice.",
+    "theme": "B1-Payment & Invoices"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie mir bitte die Rechnung schicken?",
+    "English": "Could you please send me the invoice?",
+    "theme": "B1-Payment & Invoices"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe meine Rechnung nicht bekommen.",
+    "English": "I did not receive my invoice.",
+    "theme": "B1-Payment & Invoices"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe Sie bereits telefonisch kontaktiert.",
+    "English": "I have already contacted you by phone.",
+    "theme": "B1-Previous Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich konnte Sie telefonisch nicht erreichen.",
+    "English": "I could not reach you by phone.",
+    "theme": "B1-Previous Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe eine Nachricht hinterlassen.",
+    "English": "I left a message.",
+    "theme": "B1-Previous Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe bereits versucht, Sie anzurufen.",
+    "English": "I have already tried to call you.",
+    "theme": "B1-Previous Contact"
+  },
+  {
+    "Article": null,
+    "German": "Ich schreibe Ihnen, weil ich eine Frage habe.",
+    "English": "I am writing to you because I have a question.",
+    "theme": "B1-Reason for Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich schreibe Ihnen, weil ich Informationen brauche.",
+    "English": "I am writing to you because I need information.",
+    "theme": "B1-Reason for Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich schreibe Ihnen bezüglich Ihrer Anzeige.",
+    "English": "I am writing to you regarding your advertisement.",
+    "theme": "B1-Reason for Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe Ihre Anzeige gelesen.",
+    "English": "I read your advertisement.",
+    "theme": "B1-Reason for Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich interessiere mich für Ihr Angebot.",
+    "English": "I am interested in your offer.",
+    "theme": "B1-Reason for Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe Ihre Informationen erhalten.",
+    "English": "I have received your information.",
+    "theme": "B1-Reason for Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich interessiere mich für die Prüfung.",
+    "English": "I am interested in the exam.",
+    "theme": "B1-Reason for Writing"
+  },
+  {
+    "Article": null,
+    "German": "Ich schreibe Ihnen, weil ich ein Problem habe.",
+    "English": "I am writing to you because I have a problem.",
+    "theme": "B1-Reason for Writing - Complaints"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin neu in der Stadt.",
+    "English": "I am new in the city.",
+    "theme": "B1-Registration & Participation"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche Unterstützung.",
+    "English": "I need assistance.",
+    "theme": "B1-Registration & Participation"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche Hilfe bei der Anmeldung.",
+    "English": "I need help with the registration.",
+    "theme": "B1-Registration & Participation"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte mich für den Kurs anmelden.",
+    "English": "I would like to register for the course.",
+    "theme": "B1-Registration & Participation"
+  },
+  {
+    "Article": null,
+    "German": "Wie kann ich mich anmelden?",
+    "English": "How can I register?",
+    "theme": "B1-Registration & Participation"
+  },
+  {
+    "Article": null,
+    "German": "Welche Dokumente brauche ich?",
+    "English": "Which documents do I need?",
+    "theme": "B1-Registration & Participation"
+  },
+  {
+    "Article": null,
+    "German": "Bis wann muss ich mich anmelden?",
+    "English": "Until when do I have to register?",
+    "theme": "B1-Registration & Participation"
+  },
+  {
+    "Article": null,
+    "German": "Ich würde gern teilnehmen.",
+    "English": "I would like to participate.",
+    "theme": "B1-Registration & Participation"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte wissen, ob es noch freie Plätze gibt.",
+    "English": "I would like to know if there are still free places.",
+    "theme": "B1-Registration & Participation"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es noch Plätze im Kurs?",
+    "English": "Are there still spots in the course?",
+    "theme": "B1-Registration & Participation"
+  },
+  {
+    "Article": null,
+    "German": "Wie kann ich mich für die Prüfung anmelden?",
+    "English": "How can I register for the exam?",
+    "theme": "B1-Registration & Participation"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte die Prüfung machen.",
+    "English": "I would like to take the exam.",
+    "theme": "B1-Registration & Participation"
+  },
+  {
+    "Article": null,
+    "German": "Ich plane, den Kurs bald zu beginnen.",
+    "English": "I am planning to start the course soon.",
+    "theme": "B1-Registration & Participation"
+  },
+  {
+    "Article": null,
+    "German": "Ich plane, im Sommer Urlaub zu machen.",
+    "English": "I am planning to take a holiday in summer.",
+    "theme": "B1-Registration & Participation"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe vor, meine Deutschkenntnisse zu verbessern.",
+    "English": "I intend to improve my German skills.",
+    "theme": "B1-Registration & Participation"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe vor, die Prüfung zu machen.",
+    "English": "I intend to take the exam.",
+    "theme": "B1-Registration & Participation"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte in Zukunft in Deutschland arbeiten.",
+    "English": "I would like to work in Germany in the future.",
+    "theme": "B1-Registration & Participation"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte das Produkt zurückgeben.",
+    "English": "I would like to return the product.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte eine Rückerstattung beantragen.",
+    "English": "I would like to request a refund.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte das Produkt umtauschen.",
+    "English": "I would like to exchange the product.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Bitte senden Sie mir ein neues Produkt.",
+    "English": "Please send me a new product.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte eine Lösung anbieten?",
+    "English": "Could you please offer me a solution?",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Ich würde gern wissen, wie wir weiter vorgehen.",
+    "English": "I would like to know how we should proceed.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Bitte überprüfen Sie meine Bestellung.",
+    "English": "Please check my order.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte die Bestätigung erneut schicken?",
+    "English": "Could you please send the confirmation again?",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, wir können das Problem lösen.",
+    "English": "I hope we can solve the problem.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Ich wäre dankbar für eine schnelle Lösung.",
+    "English": "I would be grateful for a quick solution.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Bitte senden Sie mir Ihre Rücksendungsadresse.",
+    "English": "Please send me your return address.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Wie ist der Ablauf für die Rücksendung?",
+    "English": "What is the procedure for the return?",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Wer übernimmt die Rücksendekosten?",
+    "English": "Who will cover the return shipping costs?",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Kann ich die Rücksendung kostenlos machen?",
+    "English": "Can I return it for free?",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Bis wann kann ich das Produkt zurückgeben?",
+    "English": "Until when can I return the product?",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte Sie, die Angelegenheit zu prüfen.",
+    "English": "I ask you to review the matter.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, wir finden eine zufriedenstellende Lösung.",
+    "English": "I hope we find a satisfactory solution.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte dieses Thema klären.",
+    "English": "I want to clarify this issue.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Bitte korrigieren Sie die falschen Daten.",
+    "English": "Please correct the incorrect data.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche die richtige Information.",
+    "English": "I need the correct information.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte um eine zweite Überprüfung.",
+    "English": "I request a second review.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte um Nachbesserung.",
+    "English": "I request improvement / correction.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte eine alternative Lösung.",
+    "English": "I would like an alternative solution.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe, dass wir das professionell lösen können.",
+    "English": "I hope we can resolve this professionally.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Bitte korrigieren Sie meinen Namen in den Unterlagen.",
+    "English": "Please correct my name in the documents.",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie den Fehler bitte korrigieren?",
+    "English": "Could you please correct the error?",
+    "theme": "B1-Returns & Solutions"
+  },
+  {
+    "Article": null,
+    "German": "Sehr geehrte Damen und Herren,",
+    "English": "Dear Sir or Madam",
+    "theme": "B1-Salutation"
+  },
+  {
+    "Article": null,
+    "German": "Sehr geehrte Frau Müller,",
+    "English": "Dear Mrs. Müller",
+    "theme": "B1-Salutation"
+  },
+  {
+    "Article": null,
+    "German": "Sehr geehrter Herr Becker,",
+    "English": "Dear Mr. Becker",
+    "theme": "B1-Salutation"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte um schnelle Bearbeitung.",
+    "English": "I request fast processing.",
+    "theme": "B1-Urgency"
+  },
+  {
+    "Article": null,
+    "German": "Es ist dringend.",
+    "English": "It is urgent.",
+    "theme": "B1-Urgency"
+  },
+  {
+    "Article": null,
+    "German": "Bitte kontaktieren Sie mich so bald wie möglich.",
+    "English": "Please contact me as soon as possible.",
+    "theme": "B1-Urgency"
+  },
+  {
+    "Article": null,
+    "German": "Ich warte weiterhin auf eine Lösung.",
+    "English": "I am still waiting for a solution.",
+    "theme": "B1-Urgency"
+  },
+  {
+    "Article": null,
+    "German": "Ihre schnelle Antwort wäre sehr hilfreich.",
+    "English": "Your quick response would be very helpful.",
+    "theme": "B1-Urgency"
+  },
+  {
+    "Article": null,
+    "German": "Es ist mir sehr wichtig.",
+    "English": "It is very important to me.",
+    "theme": "B1-Urgency"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche eine Entscheidung.",
+    "English": "I need a decision.",
+    "theme": "B1-Urgency"
+  },
+  {
+    "Article": null,
+    "German": "Bitte informieren Sie mich noch heute.",
+    "English": "Please inform me today.",
+    "theme": "B1-Urgency"
   }
 ];
 
