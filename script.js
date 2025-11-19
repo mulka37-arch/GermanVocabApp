@@ -49544,2398 +49544,8446 @@ const wordbankData = [
     "theme": "kerala-vocabs"
   },
   {
-    "Article": null,
+    "Article": "శ్రద్ధ వహించడానికి; గౌరవించు; శ్రద్ధ వహించండి",
     "German": "achten",
     "English": "to pay attention; respect; heed",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మూలుగడం, క్రీక్ చేయడం",
     "German": "ächzen",
     "English": "to groan, creak",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మార్చడానికి, మార్చడానికి",
     "German": "ändern",
     "English": "to change, alter",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రారంభించడానికి, ప్రారంభించడానికి",
     "German": "anfangen",
     "English": "to begin, start",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "రావడానికి; జయించు; విషయం",
     "German": "ankommen",
     "English": "to arrive; succeed; matter",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పనిచేయడానికి",
     "German": "arbeiten",
     "English": "to work",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఊపిరి పీల్చుకోవడానికి",
     "German": "atmen",
     "English": "to breathe",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆపడానికి, ఆలస్యం చేయడానికి, అరెస్టు చేయడానికి",
     "German": "aufhalten",
     "English": "to stop, delay, arrest",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తెరవడానికి; ప్రస్తుతం, ఫీచర్",
     "German": "aufmachen",
     "English": "to open; present, feature",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఖర్చు చేయడానికి; డీల్ (కార్డులు); ఆదరించు",
     "German": "ausgeben",
     "English": "to spend; deal (cards); treat",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కలిసిపోవడానికి; నిర్వహించు",
     "German": "auskommen",
     "English": "to get along; manage",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రదర్శించడానికి, బహిర్గతం చేయడానికి; వ్రాయండి",
     "German": "ausstellen",
     "English": "to exhibit, expose; write out",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కాల్చడానికి",
     "German": "backen",
     "English": "to bake",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "స్నానం చేయడానికి",
     "German": "baden",
     "English": "to bathe",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నిర్మించడానికి, నిర్మించడానికి",
     "German": "bauen",
     "English": "to build, construct",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వణుకు, వణుకు",
     "German": "beben",
     "English": "to tremble, quake",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అంటే, సూచించండి",
     "German": "bedeuten",
     "English": "to mean, signify",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆకట్టుకోవడానికి",
     "German": "beeindrucken",
     "English": "to impress",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రభావితం చేయడానికి",
     "German": "beeinflussen",
     "English": "to influence",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "విముక్తి పొందడానికి, విముక్తి పొందడానికి; మినహాయింపు",
     "German": "befreien",
     "English": "to liberate, set free; exempt",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కలవడానికి",
     "German": "begegnen",
     "English": "to meet",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రారంభించడానికి",
     "German": "beginnen",
     "English": "to begin",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వెంట రావడానికి",
     "German": "begleiten",
     "English": "to accompany",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కాటు వేయడానికి",
     "German": "beißen",
     "English": "to bite",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అంగీకారం",
     "German": "bejahen",
     "English": "to assent",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అందుకోవటానికి, పొందండి",
     "German": "bekommen",
     "English": "to receive, get",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "జీవించడానికి, యానిమేట్ చేయడానికి; ఉత్సాహం",
     "German": "beleben",
     "English": "to enliven, animate; cheer",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అవమానించడం",
     "German": "beleidigen",
     "English": "to insult",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "రక్షించడానికి; దాచు",
     "German": "bergen",
     "English": "to salvage; conceal",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నివేదించడానికి",
     "German": "berichten",
     "English": "to report",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పగిలిపోవడం",
     "German": "bersten",
     "English": "to burst",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆక్రమించడానికి; ముందస్తుగా ఆక్రమించండి",
     "German": "beschäftigen",
     "English": "to occupy; preoccupy",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "సొంతం చేసుకోవడం, కలిగి ఉండటం",
     "German": "besitzen",
     "English": "to own, possess",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఉత్తీర్ణత సాధించడానికి; పట్టుబట్టు; కలిగి ఉంటుంది",
     "German": "bestehen",
     "English": "to pass; insist; consist",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆర్డర్ చేయడానికి; అందించు",
     "German": "bestellen",
     "English": "to order; deliver",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రార్థన చేయడానికి",
     "German": "beten",
     "English": "to pray",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మోసం చేయడం, మోసం చేయడం",
     "German": "betrügen",
     "English": "to cheat, deceive",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కదలడానికి, ప్రేరేపించడానికి",
     "German": "bewegen",
     "English": "to move, induce",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నిరూపించడానికి",
     "German": "beweisen",
     "English": "to prove",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "హోదా ఇవ్వడానికి, సూచించడానికి",
     "German": "bezeichnen",
     "English": "to designate, indicate",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వంగడం; తిప్పు",
     "German": "biegen",
     "English": "to bend; turn",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆఫర్ చేయడానికి",
     "German": "bieten",
     "English": "to offer",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అడగడానికి, అభ్యర్థించడానికి",
     "German": "bitten",
     "English": "to ask for, request",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఉండటానికి, ఉండండి",
     "German": "bleiben",
     "English": "to remain, stay",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వికసించడానికి, అభివృద్ధి చెందడానికి",
     "German": "blühen",
     "English": "to bloom, flourish",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "రక్తస్రావం",
     "German": "bluten",
     "English": "to bleed",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కాల్చడానికి, వేయించడానికి",
     "German": "braten",
     "English": "to roast, fry",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అవసరం",
     "German": "brauchen",
     "English": "to need",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "బ్రూ చేయటానికి",
     "German": "brauen",
     "English": "to brew",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తుఫాను, గర్జన; స్నానం చేయండి",
     "German": "brausen",
     "English": "to storm, roar; take a shower",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "విచ్ఛిన్నం చేయడానికి",
     "German": "brechen",
     "English": "to break",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కాల్చడానికి",
     "German": "brennen",
     "English": "to burn",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తీసుకురావడానికి",
     "German": "bringen",
     "English": "to bring",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "గర్జించడానికి, అరవడానికి",
     "German": "brüllen",
     "English": "to roar, shout",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "బుక్ చేయడానికి",
     "German": "buchen",
     "English": "to book",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "బ్రష్ చేయడానికి",
     "German": "bürsten",
     "English": "to brush",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మఫుల్, డ్యాంప్, క్వెంచ్",
     "German": "dämpfen",
     "English": "to muffle, damp, quench",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ధన్యవాదాలు చెప్పడానికి",
     "German": "danken",
     "English": "to thank",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆలోచించడానికి",
     "German": "denken",
     "English": "to think",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కవిత్వం రాయడానికి; ముద్ర",
     "German": "dichten",
     "English": "to write poetry; seal",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "సేవ చేయడానికి",
     "German": "dienen",
     "English": "to serve",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఉరుములకు",
     "German": "donnern",
     "English": "to thunder",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చొచ్చుకుపోవడానికి; పట్టుబట్టు",
     "German": "dringen",
     "English": "to penetrate; insist",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ముద్రించడానికి",
     "German": "drucken",
     "English": "to print",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నొక్కడానికి, నెట్టడానికి, ప్రెస్ చేయడానికి",
     "German": "drücken",
     "English": "to squeeze, push, press",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అనుమతించబడాలి, అనుమతించాలి, మే",
     "German": "dürfen",
     "English": "to be permitted, allowed, may",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "గౌరవించడానికి",
     "German": "ehren",
     "English": "to honor",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "షాపింగ్ చేయడానికి, కొనడానికి",
     "German": "einkaufen",
     "English": "to shop, buy",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అందుకోవటానికి",
     "German": "empfangen",
     "English": "to receive",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "సిఫార్సు చేయడానికి",
     "German": "empfehlen",
     "English": "to recommend",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "లేకుండా చేయడానికి; లేకపోవడం, మిస్",
     "German": "entbehren",
     "English": "to do without; lack, miss",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తొలగించడానికి, దూరంగా ఉండటానికి",
     "German": "entfernen",
     "English": "to remove, make distant",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తీసుకెళ్లడం, అపహరించడం, కిడ్నాప్ చేయడం",
     "German": "entführen",
     "English": "to carry off, abduct, kidnap",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కలిగి ఉండటానికి",
     "German": "enthalten",
     "English": "to contain",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తప్పించుకోవటానికి, తప్పించుకోండి",
     "German": "entkommen",
     "English": "to escape, get away",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నిర్ణయించడానికి",
     "German": "entscheiden",
     "English": "to decide",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "క్షమించడానికి; క్షమాపణ చెప్పండి",
     "German": "entschuldigen",
     "English": "to excuse; apologize",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "రూపవికృతి చేయడానికి, రూపవికృతి చేయడానికి",
     "German": "entstellen",
     "English": "to disfigure, deform",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నేర్చుకోవడానికి; అనుభవించు",
     "German": "erfahren",
     "English": "to learn; experience",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "స్వీకరించడానికి; కొనసాగించు",
     "German": "erhalten",
     "English": "to receive; maintain",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "గుర్తు చేయడానికి",
     "German": "erinnern",
     "English": "to remind",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వివరించడానికి",
     "German": "erklären",
     "English": "to explain",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అనుమతి ఇవ్వడానికి",
     "German": "erlauben",
     "English": "to permit",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆర్పివేయాలి",
     "German": "erlöschen",
     "English": "to be extinguished",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చేరుకోవటానికి; చేయుము",
     "German": "erreichen",
     "English": "to reach; attain",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నిలబెట్టడానికి, స్థాపించడానికి",
     "German": "errichten",
     "English": "to erect, establish",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అలసిపోవడానికి",
     "German": "erschöpfen",
     "English": "to exhaust",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆశ్చర్యపోవడం/భయపడటం",
     "German": "erschrecken",
     "English": "to be startled/frightened",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పరిగణించడానికి",
     "German": "erwägen",
     "English": "to consider",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రస్తావించడానికి",
     "German": "erwähnen",
     "English": "to mention",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చెప్పడానికి, సంబంధం కలిగి ఉండటానికి",
     "German": "erzählen",
     "English": "to tell, relate",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తినడానికి",
     "German": "essen",
     "English": "to eat",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రయాణించడానికి; నడుపు; సవారీ; వెళ్ళు",
     "German": "fahren",
     "English": "to travel; drive; ride; go",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పడిపోవడం",
     "German": "fallen",
     "English": "to fall",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పట్టుకోవటానికి",
     "German": "fangen",
     "English": "to catch",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "గ్రహించడానికి, స్వాధీనం చేసుకోవడానికి",
     "German": "fassen",
     "English": "to grasp, seize",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కంచె వేయడానికి, పోరాడటానికి",
     "German": "fechten",
     "English": "to fence, fight",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కనుగొనేందుకు",
     "German": "finden",
     "English": "to find",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఎగరడానికి",
     "German": "fliegen",
     "English": "to fly",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పారిపోవడానికి",
     "German": "fliehen",
     "English": "to flee",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రవహించడానికి",
     "German": "fließen",
     "English": "to flow",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "శపించడానికి, ప్రమాణం చేయడానికి",
     "German": "fluchen",
     "English": "to curse, swear",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అనుసరించడానికి",
     "German": "folgen",
     "English": "to follow",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అడగడానికి (ఒక ప్రశ్న)",
     "German": "fragen",
     "English": "to ask (a question)",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తినడం, ఆహారం ఇవ్వడం, మింగడం",
     "German": "fressen",
     "English": "to eat, feed, devour",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "స్తంభింపజేయడానికి",
     "German": "frieren",
     "English": "to freeze",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అల్పాహారం తినడానికి",
     "German": "frühstücken",
     "English": "to eat breakfast",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అనుభూతి చెందడానికి; గ్రహించండి",
     "German": "fühlen",
     "English": "to feel; perceive",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నాయకత్వం వహించడానికి; ఉంచు; మోయు",
     "German": "führen",
     "English": "to lead; keep; carry",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "భయపడటం",
     "German": "fürchten",
     "English": "to fear",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆవలింతలు",
     "German": "gähnen",
     "English": "to yawn",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "జన్మనివ్వడానికి",
     "German": "gebären",
     "English": "to give birth to",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఇచ్చేందుకు",
     "German": "geben",
     "English": "to give",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఉపయోగించడానికి",
     "German": "gebrauchen",
     "English": "to use",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వెళ్ళడానికి, నడవడానికి",
     "German": "gehen",
     "English": "to go, walk",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "సొంతం చేసుకోవడం, సొంతం చేసుకోవడం",
     "German": "gehören",
     "English": "to belong, own",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "విజయం సాధించడానికి",
     "German": "gelingen",
     "English": "to succeed",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చెల్లుబాటు కావాలంటే, విలువైనది",
     "German": "gelten",
     "English": "to be valid, be worth",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కోలుకోవటానికి, కోలుకుంటుంది",
     "German": "genesen",
     "English": "to recover, convalesce",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పడిపోవడం; హాజరు",
     "German": "geraten",
     "English": "to fall into; turn out",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "జరగాలి",
     "German": "geschehen",
     "English": "to happen",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "గెలవడానికి, పొందడానికి,",
     "German": "gewinnen",
     "English": "to win, gain",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పోయడం; తారాగణం (లోహం)",
     "German": "gießen",
     "English": "to pour; cast (metal)",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మెరిసిపోవడానికి, ప్రకాశించడానికి; తెలివైనవారుగా ఉండండి",
     "German": "glänzen",
     "English": "to glitter, shine; be brilliant",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నమ్మడానికి",
     "German": "glauben",
     "English": "to believe",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పోలి ఉండటం, పోలి ఉండటం, సమానంగా ఉండటం",
     "German": "gleichen",
     "English": "to be like, resemble, equal",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "స్లైడ్ చేయడానికి, గ్లైడ్ చేయడానికి",
     "German": "gleiten",
     "English": "to slide, glide",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వెలగడానికి, స్మోల్డర్ చేయడానికి",
     "German": "glimmen",
     "English": "to glow, smolder",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "గాక్, గాప్",
     "German": "glotzen",
     "English": "to gawk, gape",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మెరుస్తూ ఉండటానికి",
     "German": "glühen",
     "English": "to glow",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "త్రవ్వడానికి",
     "German": "graben",
     "English": "to dig",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "స్వాధీనం చేసుకోవడం, పట్టుకోవడం, పట్టుకోవడం",
     "German": "greifen",
     "English": "to seize, grasp, grab",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కోపం తెచ్చుకోవడం",
     "German": "grollen",
     "English": "to be angry",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పలకరించడానికి",
     "German": "grüßen",
     "English": "to greet",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చూడటానికి, చూడటానికి",
     "German": "gucken",
     "English": "to look, peek",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కలిగి ఉండటానికి",
     "German": "haben",
     "English": "to have",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పట్టుకోవటానికి; ఆపు; ఉంచు; ఆలోచించుకో",
     "German": "halten",
     "English": "to hold; stop; keep; consider",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చర్య తీసుకోవడానికి; వాణిజ్యం, ఒప్పందం",
     "German": "handeln",
     "English": "to act; trade, deal",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఉరితీయడానికి",
     "German": "hängen",
     "English": "to hang",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ద్వేషించడం",
     "German": "hassen",
     "English": "to hate",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పెళ్లి చేసుకోవడానికి",
     "German": "heiraten",
     "English": "to marry",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పేరు పెట్టాలి",
     "German": "heißen",
     "English": "to be named",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వేడి చేయడానికి",
     "German": "heizen",
     "English": "to heat",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "సహాయం చేయడానికి, సహాయం చేయడానికి మరియు సహాయం చేయడానికి",
     "German": "helfen",
     "English": "to help, aid, assist",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వేటాడటం; అటూ ఇటూ పరుగెత్తండి; రేపు",
     "German": "hetzen",
     "English": "to hunt; rush about; incite",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆశించడానికి; ఎదురుచూచు",
     "German": "hoffen",
     "English": "to hope; expect",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వినడానికి, వినడానికి",
     "German": "hören",
     "English": "to hear, listen",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "దూకడానికి, దూకడానికి",
     "German": "hüpfen",
     "English": "to hop, jump",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అర్థం చేసుకోవడానికి",
     "German": "interpretieren",
     "English": "to interpret",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పోరాటం, పోరాటం",
     "German": "kämpfen",
     "English": "to struggle, fight",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "(ఒక వ్యక్తి) గురించి తెలుసుకోవడానికి, వీటి గురించి తెలుసుకోవడానికి",
     "German": "kennen",
     "English": "to know (a person), be familiar with",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తెలుసుకోవడానికి; కలుసుకో",
     "German": "kennenlernen",
     "English": "to get to know; meet",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చప్పట్లు కొట్టడానికి; గాలి కబుర్లు",
     "German": "klatschen",
     "English": "to clap; gossip",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అతికించడం, అంటుకోవడం",
     "German": "kleben",
     "English": "to paste, stick",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "రింగ్ చేయడానికి, ధ్వని చేయడానికి",
     "German": "klingen",
     "English": "to ring, sound",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తట్టడం, కొట్టడం",
     "German": "klopfen",
     "English": "to knock, beat",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చిటికెడు చేయడానికి; తప్పించుకొను",
     "German": "kneifen",
     "English": "to pinch; shirk",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కట్టడానికి; ముడి; కలిపి బిగించండి",
     "German": "knüpfen",
     "English": "to tie; knot; fasten together",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వంట చేయడానికి; కాగు; సీతే",
     "German": "kochen",
     "English": "to cook; boil; seethe",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "రావడానికి",
     "German": "kommen",
     "English": "to come",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చేయగల (చేయగలను); తెలుసుకొనుటకు",
     "German": "können",
     "English": "to be able (can); to know",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఖర్చు చేయడానికి; రుచి, ప్రయత్నించండి",
     "German": "kosten",
     "English": "to cost; taste, try",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వాంతులు, వింతి",
     "German": "kotzen",
     "English": "to vomit, puke",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "గోకడానికి",
     "German": "kratzen",
     "English": "to scratch",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పాకడానికి, పాకడానికి",
     "German": "kriechen",
     "English": "to creep, crawl",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పొందడానికి; స్వీకరించు",
     "German": "kriegen",
     "English": "to get; receive",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చల్లబరచడానికి",
     "German": "kühlen",
     "English": "to cool",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కుదించడానికి",
     "German": "kürzen",
     "English": "to shorten",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ముద్దు పెట్టుకోవడానికి",
     "German": "küssen",
     "English": "to kiss",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నవ్వడానికి",
     "German": "lachen",
     "English": "to laugh",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "లోడ్ చేయడానికి; ఆహ్వానించు",
     "German": "laden",
     "English": "to load; invite",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "భూమికి; ముగుస్తుంది; జయించు",
     "German": "landen",
     "English": "to land; end up; succeed",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అద్దెకు ఇవ్వడానికి; సెలవు; అంగీకరించు; చేసారు",
     "German": "lassen",
     "English": "to let; leave; allow; have done",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పరిగెత్తడానికి, నడవడానికి",
     "German": "laufen",
     "English": "to run, walk",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వినిపించడానికి; విను",
     "German": "lauschen",
     "English": "to eavesdrop; listen",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "జీవించడానికి",
     "German": "leben",
     "English": "to live",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నాకడానికి; కారుట",
     "German": "lecken",
     "English": "to lick; leak",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఉంచడానికి, ఉంచడానికి, ఉంచడానికి",
     "German": "legen",
     "English": "to lay, put, place",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "బోధించడానికి",
     "German": "lehren",
     "English": "to teach",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "బాధపడటం",
     "German": "leiden",
     "English": "to suffer",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అప్పు ఇవ్వడానికి; నుండి అరువు తీసుకోండి",
     "German": "leihen",
     "English": "to lend; borrow from",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నేర్చుకోవడానికి , అధ్యయనం చేయడానికి",
     "German": "lernen",
     "English": "to learn, study",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చదవడానికి; సేకరించు",
     "German": "lesen",
     "English": "to read; gather",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రకాశించడానికి, మెరిసేందుకు",
     "German": "leuchten",
     "English": "to shine, gleam",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పలుచబడటానికి, తేలికపరచండి",
     "German": "lichten",
     "English": "to thin out, lighten",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రేమించడానికి",
     "German": "lieben",
     "English": "to love",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "బట్వాడా చేయడానికి; సరఫరా",
     "German": "liefern",
     "English": "to deliver; supply",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అబద్ధం చెప్పడం, ఉండటం",
     "German": "liegen",
     "English": "to lie, be situated",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పొగడ్తలు",
     "German": "loben",
     "English": "to praise",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రలోభపెట్టడానికి, ఆకర్షించడానికి",
     "German": "locken",
     "English": "to entice, allure",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "విలువైనదిగా ఉండటానికి; పారితోషికం",
     "German": "lohnen",
     "English": "to be worthwhile; reward",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పరిష్కరించడానికి, వదులు చేయడానికి, నగదును చేయడానికి",
     "German": "lösen",
     "English": "to solve, loosen, cash",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అబద్ధం చెప్పడానికి",
     "German": "lügen",
     "English": "to tell a lie",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పీల్చుకోవడానికి",
     "German": "lutschen",
     "English": "to suck",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చేయడానికి, చేయటానికి",
     "German": "machen",
     "English": "to make, do",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మిల్లు, గ్రైండ్",
     "German": "mahlen",
     "English": "to mill, grind",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పెయింట్ చేయడానికి, చిత్రీకరించడానికి",
     "German": "malen",
     "English": "to paint, portray",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నివారించడానికి, దూరంగా ఉండటానికి",
     "German": "meiden",
     "English": "to avoid, shun",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అర్ధం, ఆలోచించడం, అభిప్రాయం కలిగి ఉండటం",
     "German": "meinen",
     "English": "to mean, think, be of the opinion",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "గమనించడానికి; రాసుకో",
     "German": "merken",
     "English": "to notice; note",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కొలవడానికి",
     "German": "messen",
     "English": "to measure",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఇష్టపడటానికి",
     "German": "mögen",
     "English": "to like",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఉండాలి, తప్పక ఉండాలి",
     "German": "müssen",
     "English": "to have to, must",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చిరుతిండి, చిరుతిండి",
     "German": "naschen",
     "English": "to nibble, snack",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తెరవడానికి",
     "German": "öffnen",
     "English": "to open",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "లీజుకు, అద్దెకు; తోట",
     "German": "pachten",
     "English": "to lease, rent; farm",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్యాక్ చేయడానికి; స్వాధీనం చేసుకోండి, పట్టుకోండి",
     "German": "packen",
     "English": "to pack; seize, grab",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "సరిపోవడానికి, సూట్ చేయడానికి",
     "German": "passen",
     "English": "to fit, suit",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "జరగాలి; సందు",
     "German": "passieren",
     "English": "to happen; pass",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఈల వేయడానికి",
     "German": "pfeifen",
     "English": "to whistle",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నాటడానికి",
     "German": "pflanzen",
     "English": "to plant",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "హింసించడం, బాధించడం",
     "German": "plagen",
     "English": "to torment, bother",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పొగడ్తలు",
     "German": "preisen",
     "English": "to praise",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "శుభ్రం చేయడానికి, వరుడు",
     "German": "putzen",
     "English": "to clean, groom",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "హింసించడానికి, హింసించడానికి",
     "German": "quälen",
     "English": "to torture, torment",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "గుష్, నుండి వసంతం",
     "German": "quellen",
     "English": "to gush, spring from",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రతీకారం తీర్చుకోవడానికి",
     "German": "rächen",
     "English": "to avenge",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "క్లియర్ చేయడానికి, ఖాళీ చేయడానికి",
     "German": "räumen",
     "English": "to clear, evacuate",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "లెక్కించడానికి, లెక్కించండి",
     "German": "rechnen",
     "English": "to calculate, reckon",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వర్షం పడటానికి",
     "German": "regnen",
     "English": "to rain",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "రుద్దడానికి",
     "German": "reiben",
     "English": "to rub",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పాస్ చేయడానికి, చేతి; సరిపోతుంది",
     "German": "reichen",
     "English": "to pass, hand; be enough",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "శుభ్రం చేయడానికి",
     "German": "reinigen",
     "English": "to clean",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చిరిగిపోవడానికి, చింపివేయడానికి",
     "German": "reißen",
     "English": "to tear, rip",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "గుర్రపు స్వారీ చేయడానికి (గుర్రం)",
     "German": "reiten",
     "English": "to ride (a horse)",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పరిగెత్తడానికి",
     "German": "rennen",
     "English": "to run",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "రక్షించడానికి, రక్షించడానికి",
     "German": "retten",
     "English": "to save, rescue",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "దర్శకత్వం వహించడానికి; పరిష్కరించు",
     "German": "richten",
     "English": "to direct; adjust",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పరిగెత్తడానికి, లీక్ చేయడానికి",
     "German": "rinnen",
     "English": "to run, leak",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "రోల్ చేయడానికి",
     "German": "rollen",
     "English": "to roll",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కాల్చడానికి, కాల్చడానికి",
     "German": "rösten",
     "English": "to roast, toast",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తరలించడానికి",
     "German": "rücken",
     "English": "to move",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కాల్ చేయడానికి",
     "German": "rufen",
     "English": "to call",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "విశ్రాంతి తీసుకోవడానికి",
     "German": "ruhen",
     "English": "to rest",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పొగడ్తలు",
     "German": "rühmen",
     "English": "to praise",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కదిలించడానికి, కదిలించడానికి",
     "German": "rühren",
     "English": "to stir, move",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆయుధం చేయడానికి; తయారు చేయు",
     "German": "rüsten",
     "English": "to arm; prepare",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చెప్పడానికి; చెప్పు; మాట్లాడు",
     "German": "sagen",
     "English": "to say; tell; speak",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "(జంతువులకు) తాగడానికి; అధికంగా తాగండి",
     "German": "saufen",
     "English": "to drink (of animals); drink to excess",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పీల్చుకోవటానికి; శూన్యం",
     "German": "saugen",
     "English": "to suck; vacuum",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "సృష్టించడానికి",
     "German": "schaffen",
     "English": "to create",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మారడానికి; గేర్లను మార్చండి",
     "German": "schalten",
     "English": "to switch; shift gears",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "విలువ చేయడానికి; అంచనా; గౌరవించు",
     "German": "schätzen",
     "English": "to value; estimate; respect",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చూడటానికి, చూడటానికి, చూడటానికి",
     "German": "schauen",
     "English": "to see, look, gaze",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నురుగు, నురుగు",
     "German": "schäumen",
     "English": "to foam, froth",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వేరు చేయడానికి",
     "German": "scheiden",
     "English": "to separate",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రకాశించడానికి; కనిపిస్తుంది, కనిపిస్తుంది",
     "German": "scheinen",
     "English": "to shine; seem, appear",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తిట్టడం, నిందించడం",
     "German": "schelten",
     "English": "to scold, reproach",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఇవ్వడం (బహుమతిగా ఇవ్వడం)",
     "German": "schenken",
     "English": "to give (as a present)",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కుప్పగా ఉండటానికి, పేర్చడానికి, పేర్చడానికి",
     "German": "schichten",
     "English": "to heap, pile up, stack",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పంపడానికి",
     "German": "schicken",
     "English": "to send",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నెట్టడానికి; తోయు; జరుగు",
     "German": "schieben",
     "English": "to push; shove; move",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "షూట్ చేయడానికి",
     "German": "schießen",
     "English": "to shoot",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వధించడానికి, కసాయి",
     "German": "schlachten",
     "English": "to slaughter, butcher",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నిద్రపోవడానికి",
     "German": "schlafen",
     "English": "to sleep",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కొట్టడానికి, కొట్టడానికి",
     "German": "schlagen",
     "English": "to beat, hit",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చొరబడటం, క్రీప్ చేయడం",
     "German": "schleichen",
     "English": "to sneak, creep",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "రుబ్బడానికి; పోలిష్; జారు",
     "German": "schleifen",
     "English": "to grind; polish; slide",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పరిష్కరించడానికి, మధ్యవర్తిత్వం",
     "German": "schlichten",
     "English": "to settle, arbitrate",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మూసివేయడానికి; ముగించు; మూసుకో",
     "German": "schließen",
     "English": "to close; conclude; shut",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మింగడానికి; కట్టు",
     "German": "schlingen",
     "English": "to gulp; tie",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మింగడం, గుజ్జిల్ చేయడం",
     "German": "schlucken",
     "English": "to swallow, guzzle",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "జారిపోవడానికి",
     "German": "schlüpfen",
     "English": "to slip",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "రుచి చూడటానికి; మంచి రుచి",
     "German": "schmecken",
     "English": "to taste; taste good",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "విసిరేయడం, విసిరేయడం, విసిరేయడం",
     "German": "schmeißen",
     "English": "to fling, hurl, throw",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కరిగించడానికి",
     "German": "schmelzen",
     "English": "to melt",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మచ్చ వేయడానికి; లంచం",
     "German": "schmieren",
     "English": "to smear; bribe",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "విసుగు చెందడం; పౌట్",
     "German": "schmollen",
     "English": "to sulk; pout",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కత్తిరించడానికి",
     "German": "schneiden",
     "English": "to cut",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మంచుకు",
     "German": "schneien",
     "English": "to snow",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కట్టడానికి, బిగించడానికి",
     "German": "schnüren",
     "English": "to tie, tighten",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "స్కూప్ చేయడానికి; పొందండి, గర్భం ధరించండి",
     "German": "schöpfen",
     "English": "to scoop; obtain, conceive",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "రాయటానికి",
     "German": "schreiben",
     "English": "to write",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అరవడానికి, అరవడానికి, ఏడవడానికి",
     "German": "schreien",
     "English": "to shout, scream, cry",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ముందుకు సాగడానికి",
     "German": "schreiten",
     "English": "to stride",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తరగతులను తగ్గించడానికి",
     "German": "schwänzen",
     "English": "to cut classes",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నల్లగా మారడం, అపవాదు చేయడం",
     "German": "schwärzen",
     "English": "to blacken, slander",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కబుర్లు చెప్పడానికి, అపకారం చేయడానికి",
     "German": "schwatzen",
     "English": "to chatter, prattle",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "హోవర్ చేయడానికి, తేలడానికి",
     "German": "schweben",
     "English": "to hover, float",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మౌనంగా ఉండటానికి",
     "German": "schweigen",
     "English": "to be silent",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఉబ్బడం; లేచు",
     "German": "schwellen",
     "English": "to swell; rise",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఈత కొట్టడానికి",
     "German": "schwimmen",
     "English": "to swim",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మసకబారడానికి; క్షీణించండి; తగ్గిపో",
     "German": "schwinden",
     "English": "to fade; wane; dwindle",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రమాణం చేయడం",
     "German": "schwören",
     "English": "to swear",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆశీర్వదించడానికి",
     "German": "segnen",
     "English": "to bless",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చూడటానికి; తెలుసుకో",
     "German": "sehen",
     "English": "to see; realize",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఉండటానికి",
     "German": "sein",
     "English": "to be",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పంపడానికి",
     "German": "senden",
     "English": "to send",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "దుస్తులు ధరించడానికి",
     "German": "sanziehen",
     "English": "to dress",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "బట్టలు విప్పడానికి; బయటకు తరలించడం",
     "German": "sausziehen",
     "English": "to undress; move out",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తనకు తాను సహాయం చేసుకోవడానికి; వేచి ఉండండి",
     "German": "sbedienen",
     "English": "to help oneself; wait on",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తొందరపడటం",
     "German": "sbeeilen",
     "English": "to hurry",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఉండటానికి, అనుభూతి చెందడానికి",
     "German": "sbefinden",
     "English": "to be, feel",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "జలుబు పట్టుకోవడానికి",
     "German": "serkälten",
     "English": "to catch a cold",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "సంతోషించడానికి; కోసం ఎదురు చూస్తున్నా",
     "German": "sfreuen",
     "English": "to be glad; look forward to",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వీటికి అలవాటు పడటానికి",
     "German": "sgewöhnen",
     "English": "to get used to",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆసక్తి కలిగి ఉండటానికి",
     "German": "sinteressieren",
     "English": "to be interested in",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "సంభాషించడానికి; తనను తాను వినోదించుకోండి",
     "German": "sunterhalten",
     "English": "to converse; amuse oneself",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రవర్తించడానికి; అవ్వు",
     "German": "sverhalten",
     "English": "to behave; be",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రేమలో పడటం",
     "German": "sverlieben",
     "English": "to fall in love",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "జయించడానికి, విజయం సాధించడానికి",
     "German": "siegen",
     "English": "to conquer, be victorious",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పాడటానికి",
     "German": "singen",
     "English": "to sing",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆలోచించడం, ఆలోచించడం, ధ్యానం చేయడం",
     "German": "sinnen",
     "English": "to think, reflect, meditate",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కూర్చోవడానికి",
     "German": "sitzen",
     "English": "to sit",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఊహించాలి,",
     "German": "sollen",
     "English": "to be supposed to, shall",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "విడిపోవడానికి, చీల్చడానికి",
     "German": "spalten",
     "English": "to split, cleave",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "సేవ్ చేయడానికి",
     "German": "sparen",
     "English": "to save",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "షికారు చేయడానికి, నడవడానికి",
     "German": "spazieren",
     "English": "to stroll, walk",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్లే చేయడానికి",
     "German": "spielen",
     "English": "to play",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మాట్లాడటానికి",
     "German": "sprechen",
     "English": "to speak",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మొలకెత్తడానికి",
     "German": "sprießen",
     "English": "to sprout",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "దూకడానికి",
     "German": "springen",
     "English": "to jump",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "స్విర్ట్, గుష్",
     "German": "spritzen",
     "English": "to squirt, gush",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కడగడానికి, కడగాలి",
     "German": "spülen",
     "English": "to rinse, wash",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆశ్చర్యపోవడానికి",
     "German": "staunen",
     "English": "to be astonished",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "గుచ్చుకోవడం, కుట్టడం",
     "German": "stechen",
     "English": "to prick, sting",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "సెట్, మొక్కలు; మిగిలి ఉండండి",
     "German": "stecken",
     "English": "to set, plant; remain",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నిలబడటానికి",
     "German": "stehen",
     "English": "to stand",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఎక్కడం",
     "German": "steigen",
     "English": "to climb",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఉంచడానికి, ఉంచడానికి, సెట్ చేయడానికి",
     "German": "stellen",
     "English": "to place, put, set",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చనిపోవడానికి",
     "German": "sterben",
     "English": "to die",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "దుర్వాసన",
     "German": "stinken",
     "English": "to stink",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మూలుగడానికి",
     "German": "stöhnen",
     "English": "to groan",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నెట్టడానికి, బంప్ చేయడానికి",
     "German": "stoßen",
     "English": "to push, bump",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రయత్నం చేయుట",
     "German": "streben",
     "English": "to strive",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "సాగదీయడానికి; పొడిగించు",
     "German": "strecken",
     "English": "to stretch; extend",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అల్లడానికి",
     "German": "stricken",
     "English": "to knit",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వెతకడానికి, వెతకడానికి",
     "German": "suchen",
     "English": "to seek, look for",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నృత్యం చేయడానికి",
     "German": "tanzen",
     "English": "to dance",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఉపయోగం ఉండటానికి, వీటికి సరిపోండి",
     "German": "taugen",
     "English": "to be of use, be fit for",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తుఫానుకు; ఆగ్రహం; రేవ్",
     "German": "toben",
     "English": "to storm; rage; rave",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చంపడానికి",
     "German": "töten",
     "English": "to kill",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మోయడానికి; ధరించు",
     "German": "tragen",
     "English": "to carry; wear",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "విశ్వసించడానికి; చేపట్టు",
     "German": "trauen",
     "English": "to trust; marry",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కలలు కనడానికి",
     "German": "träumen",
     "English": "to dream",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కలవడానికి; తగులు",
     "German": "treffen",
     "English": "to meet; hit",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "డ్రైవ్ చేయడానికి; తోయు; అనుసరించు",
     "German": "treiben",
     "English": "to drive; push; pursue",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అడుగు పెట్టడానికి; వెళ్ళు; తన్ను",
     "German": "treten",
     "English": "to step; go; kick",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తాగడానికి",
     "German": "trinken",
     "English": "to drink",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆరబెట్టడానికి",
     "German": "trocknen",
     "English": "to dry",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "డ్రిప్ చేయడానికి, డ్రాప్ చేయడానికి",
     "German": "tropfen",
     "English": "to drip, drop",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ధిక్కరించడం",
     "German": "trotzen",
     "English": "to defy",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చేయటానికి; సృష్టించు; ఉంచు; నటించు",
     "German": "tun",
     "English": "to do; make; put; act",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రాక్టీస్ చేయడానికి",
     "German": "üben",
     "English": "to practice",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆశ్చర్యానికి",
     "German": "überraschen",
     "English": "to surprise",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అంతరాయం కలిగించడానికి",
     "German": "unterbrechen",
     "English": "to interrupt",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అసహ్యించుకోవడం, అపహాస్యం చేయడం",
     "German": "verachten",
     "English": "to despise, scorn",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "సంపాదించడానికి; అర్హుడు",
     "German": "verdienen",
     "English": "to earn; deserve",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కోపం తెప్పించడానికి; నొప్పించు; అంగలార్చు",
     "German": "verdrießen",
     "English": "to annoy; displease; grieve",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అత్యాచారానికి",
     "German": "vergewaltigen",
     "English": "to rape",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చర్చలు జరపడానికి",
     "German": "verhandeln",
     "English": "to negotiate",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "దాచడం, దాచడం",
     "German": "verhehlen",
     "English": "to hide, conceal",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అమ్మడానికి",
     "German": "verkaufen",
     "English": "to sell",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తరచూ రావడానికి; తో అనుబంధం",
     "German": "verkehren",
     "English": "to frequent; associate with",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఆరోపణలు చేయడం; స్యూ",
     "German": "verklagen",
     "English": "to accuse; sue",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "రూపాంతరం చెందడానికి, కీర్తించడానికి",
     "German": "verklären",
     "English": "to transfigure, glorify",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "క్షీణించడానికి",
     "German": "verkommen",
     "English": "to degenerate",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఓడిపోవడం",
     "German": "verlieren",
     "English": "to lose",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పెంచడానికి",
     "German": "vermehren",
     "English": "to increase",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చేయడానికి, ప్రదర్శించడానికి",
     "German": "verrichten",
     "English": "to do, perform",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తిరస్కరించడం; విఫలమవ్వు",
     "German": "versagen",
     "English": "to refuse; fail",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "గాయపడటం, గాయపడటం, దెబ్బతినడం",
     "German": "versehren",
     "English": "to wound, hurt, damage",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వాగ్దానం చేయడానికి",
     "German": "versprechen",
     "English": "to promise",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అర్థం చేసుకోవడానికి",
     "German": "verstehen",
     "English": "to understand",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నిర్వహించడానికి",
     "German": "verwalten",
     "English": "to administer",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "గందరగోళానికి గురిచేయడం; పొరపాటున మార్చండి",
     "German": "verwechseln",
     "English": "to confuse; change by mistake",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఉండటానికి, ఆపడానికి, ఆలస్యం చేయడానికి",
     "German": "verweilen",
     "English": "to stay, stop, linger",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తినడానికి; పైన్ దూరంగా",
     "German": "verzehren",
     "English": "to consume; pine away",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "క్షమించడానికి, క్షమించడానికి, క్షమించడానికి",
     "German": "verzeihen",
     "English": "to pardon, forgive, excuse",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "జరగడానికి; కనబడు; ముందుకు రండి",
     "German": "vorkommen",
     "English": "to occur; seem; come forth",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఎదగడానికి",
     "German": "wachsen",
     "English": "to grow",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ధైర్యం చేయడానికి",
     "German": "wagen",
     "English": "to dare",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఎంచుకోవడానికి, ఎంచుకోండి",
     "German": "wählen",
     "English": "to choose, elect",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "పాలించడానికి, పరిపాలించడానికి",
     "German": "walten",
     "English": "to rule, govern",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "రోల్ చేయడానికి, తిరగడానికి",
     "German": "wälzen",
     "English": "to roll, turn about",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "వేచి ఉండటానికి",
     "German": "warten",
     "English": "to wait",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కడగడానికి",
     "German": "waschen",
     "English": "to wash",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మార్చడానికి, మార్పిడి చేయడానికి",
     "German": "wechseln",
     "English": "to change, exchange",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "మేల్కొల్పడానికి, మేల్కొల్పడానికి",
     "German": "wecken",
     "English": "to wake, rouse",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నిరోధించడానికి",
     "German": "wehren",
     "English": "to prevent",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "లొంగిపోవడానికి, దారి ఇవ్వడానికి",
     "German": "weichen",
     "English": "to yield, give way",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ప్రతిష్ఠించడానికి",
     "German": "weihen",
     "English": "to consecrate",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఏడవడానికి, ఏడవడానికి",
     "German": "weinen",
     "English": "to weep, cry",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "ఎత్తి చూపడానికి, చూపించడానికి",
     "German": "weisen",
     "English": "to point out, show",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తిరగడానికి",
     "German": "wenden",
     "English": "to turn",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "రిక్రూట్ చేయడానికి; లాలించు; న్యాయ స్థానం",
     "German": "werben",
     "English": "to recruit; woo; court",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అవ్వడానికి; షల్, విల్",
     "German": "werden",
     "English": "to become; shall, will",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "విసిరేయడానికి",
     "German": "werfen",
     "English": "to throw",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "అంకితం చేయడానికి",
     "German": "widmen",
     "English": "to dedicate",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "తెలుసుకోవడం (ఒక వాస్తవం)",
     "German": "wissen",
     "English": "to know (a fact)",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "జీవించడానికి, నివసించడానికి",
     "German": "wohnen",
     "English": "to live, reside",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కోరుకోవడానికి; ఉద్దేశం",
     "German": "wollen",
     "English": "to want; intend",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "త్రవ్వడానికి; సొరంగం; రమ్మేజ్",
     "German": "wühlen",
     "English": "to dig; burrow; rummage",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "కోరుకోవటానికి; అభిలాష",
     "German": "wünschen",
     "English": "to wish; desire",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "గీయడానికి; గుర్తు",
     "German": "zeichnen",
     "English": "to draw; sign",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "చూపించడానికి",
     "German": "zeigen",
     "English": "to show",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "నాశనం చేయడానికి",
     "German": "zerstören",
     "English": "to destroy",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "లాగడానికి, గీయడానికి",
     "German": "ziehen",
     "English": "to pull, draw",
     "theme": "verbs"
   },
   {
-    "Article": null,
+    "Article": "బలవంతం చేయడానికి, బలవంతం చేయడానికి",
     "German": "zwingen",
     "English": "to force, compel",
     "theme": "verbs"
+  },
+  {
+    "Article": "కుస్తీ చేయడానికి",
+    "German": "abbalgen",
+    "English": "to wrestle",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వికసించడానికి",
+    "German": "abblühen",
+    "English": "to bloom [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "హమ్ చేయడానికి",
+    "German": "abbrummen",
+    "English": "to hum [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రాయశ్చిత్తం చేసుకోవడానికి",
+    "German": "abbüßen",
+    "English": "to atone",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఆవిరి ఆపివేయబడింది",
+    "German": "abdampfen",
+    "English": "to evaporate [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఆవిరి ఆపివేయబడింది",
+    "German": "abdampfen",
+    "English": "to evaporate [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉరుములకు",
+    "German": "abdonnern",
+    "English": "to thunder",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఊడ్చు",
+    "German": "abfegen",
+    "English": "to sweep [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్తంభింపజేయండి",
+    "German": "abfrieren",
+    "English": "to freeze [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టవల్లింగ్",
+    "German": "abfrottieren",
+    "English": "toweling",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వండడానికి",
+    "German": "abgaren",
+    "English": "to cook",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మోసం చేయడానికి",
+    "German": "abgaunern",
+    "English": "to scam",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెళ్లిపోవడానికి",
+    "German": "abhalftern",
+    "English": "to go off",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "abhärden",
+    "German": "abhärmen",
+    "English": "to abhärten, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్క్రామ్",
+    "German": "abhauen",
+    "English": "to run away [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "హడావిడి చేయడానికి",
+    "German": "abhetzen",
+    "English": "to rush",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పదవీచ్యుతుడిని చేయడానికి",
+    "German": "abjudizieren",
+    "English": "to abjudicate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బండిని దింపడానికి",
+    "German": "abkarren",
+    "English": "to cart off",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెనుదిరిగేందుకు.",
+    "German": "abkehren [",
+    "English": "to turn away [",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బంధించడానికి",
+    "German": "abketteln",
+    "English": "to bind off",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కుమ్మరించు",
+    "German": "abkippen",
+    "English": "to dump [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కుమ్మరించు",
+    "German": "abkippen",
+    "English": "to dump [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చప్పట్లు కొట్టడానికి",
+    "German": "abklatschen",
+    "English": "to clap",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అబ్లౌటెన్ కు",
+    "German": "ablauten",
+    "English": "to ablauten",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తొలగించడానికి",
+    "German": "abledern",
+    "English": "to remove",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పక్కదారి పట్టించేందుకు..",
+    "German": "ableiern",
+    "English": "To deflect",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బలహీనత",
+    "German": "abmergeln",
+    "English": "to emaciate, to become",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రోల్ ఆఫ్ చేయడానికి",
+    "German": "abperlen",
+    "English": "to roll off",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విజిల్ ఊదడానికి",
+    "German": "abpfeifen",
+    "English": "to blow the whistle",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్లేగు",
+    "German": "abplagen",
+    "English": "toil,",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చదును చెయ్యి",
+    "German": "abplatten",
+    "English": "to flatten [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నొక్కడానికి",
+    "German": "abpressen",
+    "English": "to squeeze",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "హింసించు",
+    "German": "abquälen",
+    "English": "torment,",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కష్టపడి పనిచేయడం",
+    "German": "abrackern",
+    "English": "toil,",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "హడావుడిగా బయలుదేరడానికి",
+    "German": "abrauschen",
+    "English": "to rush off",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పడగొట్టు",
+    "German": "abreißen",
+    "English": "to demolish [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పడగొట్టు",
+    "German": "abreißen",
+    "English": "to demolish [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దూరంగా వెళ్లండి",
+    "German": "abrücken",
+    "English": "to move away from",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉపశమనం పొందడానికి",
+    "German": "absäbeln",
+    "English": "to saber off",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దూకడానికి",
+    "German": "absausen",
+    "English": "to whizz off",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విడదీయు",
+    "German": "abscheiden",
+    "English": "to separate [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విడదీయు",
+    "German": "abscheiden",
+    "English": "to separate [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్క్రాప్ చేయడానికి",
+    "German": "abschinden",
+    "English": "to toil, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మందగమనం",
+    "German": "abschlaffen",
+    "English": "to slacken [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టో",
+    "German": "abschleppen",
+    "English": "tow",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఫ్యూజ్",
+    "German": "abschmelzen",
+    "English": "to melt [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "జిడ్డు",
+    "German": "abschmieren",
+    "English": "to smear [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "జిడ్డు",
+    "German": "abschmieren",
+    "English": "to smear [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వేగవంతం చేయడానికి",
+    "German": "abschnellen",
+    "English": "to jump [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వేగవంతం చేయడానికి",
+    "German": "abschnellen",
+    "English": "to speed up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కష్టపడటానికి",
+    "German": "abschuften",
+    "English": "toil,",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్వివెల్",
+    "German": "abschwenken",
+    "English": "to swivel [has]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్వివెల్",
+    "German": "abschwenken",
+    "English": "to swivel [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మోసం చేయడానికి",
+    "German": "abschwindeln",
+    "English": "to cheat",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్వింగ్ ఆఫ్ చేయడానికి",
+    "German": "abschwingen",
+    "English": "to swing off",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నౌక బయలుదేరింది",
+    "German": "absegeln",
+    "English": "to sail off [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డంప్ చేయడానికి",
+    "German": "abservieren",
+    "English": "to dump",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పాడటానికి",
+    "German": "absingen",
+    "English": "to sing",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డిస్ మౌంట్",
+    "German": "absitzen",
+    "English": "to dismount [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డిస్ మౌంట్",
+    "German": "absitzen",
+    "English": "to dismount [is, of]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అబ్స్పారెన్ (డి)",
+    "German": "absparen (D)",
+    "English": "to save up, to (D)",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఫోబ్ ఆఫ్ చేయడానికి",
+    "German": "abspeisen",
+    "English": "to fob off",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తీయడానికి",
+    "German": "abspicken",
+    "English": "to pick off",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ముక్క",
+    "German": "absplittern",
+    "English": "to splinter [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ముక్క",
+    "German": "absplittern",
+    "English": "to splinter [tr, +A, sich]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మొద్దు",
+    "German": "abstumpfen",
+    "English": "to blunt [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మొద్దు",
+    "German": "abstumpfen",
+    "English": "to dull [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డీఫ్రాస్ట్",
+    "German": "abtauen",
+    "English": "to defrost [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎండు",
+    "German": "abtrocknen",
+    "English": "to dry [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎండు",
+    "German": "abtrocknen",
+    "English": "to dry [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బ్రష్ చేయడానికి",
+    "German": "abwimmeln",
+    "English": "to brush off",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తుడిచివేయడానికి",
+    "German": "abwipfeln",
+    "English": "to wipe off",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కిందకు పరుగెత్తడానికి",
+    "German": "abwirtschaften",
+    "English": "to run down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఫిడ్జెట్ ఆఫ్ చేయడానికి",
+    "German": "abzappeln",
+    "English": "to fidget off",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తీయడానికి",
+    "German": "abzupfen",
+    "English": "to pluck off",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బలవంతం చేయడానికి",
+    "German": "abzwingen",
+    "English": "to force",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "జోడించడానికి",
+    "German": "adduzieren",
+    "English": "To adduce",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కోతికి",
+    "German": "äffen",
+    "English": "to ape",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మద్యం మత్తులో ఉండటం..",
+    "German": "alkoholisieren",
+    "English": "To be under the influence of alcohol",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బేక్ చేయడానికి",
+    "German": "anbacken",
+    "English": "To bake",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "భిక్షాటన చేయడానికి",
+    "German": "anbetteln",
+    "English": "to beg",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఇంగ్రేట్ చేయడానికి",
+    "German": "anbiedern",
+    "English": "to curry favor, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తెంపు",
+    "German": "anbrechen",
+    "English": "to dawn [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మండు",
+    "German": "anbrennen",
+    "English": "to burn [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మండు",
+    "German": "anbrennen",
+    "English": "to burn [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉత్సాహపరచడానికి",
+    "German": "aneifern",
+    "English": "To cheer on",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కలిసి బంధించడానికి",
+    "German": "aneinanderbinden",
+    "English": "to bind together",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కలిసి గుంపులుగా గుమిగూడడం",
+    "German": "aneinanderdrängen",
+    "English": "to crowd together",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఒకదానికొకటి ఢీకొనడం",
+    "German": "aneinanderprallen",
+    "English": "to collide with each other",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కలిసి మరింత దగ్గరగా వెళ్లేందుకు..",
+    "German": "aneinanderrücken",
+    "English": "to move closer together",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఒకరికొకరు",
+    "German": "aneinanderstecken",
+    "English": "to each other",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఒకరినొకరు ఢీకొనడానికి",
+    "German": "aneinanderstoßen",
+    "English": "to bump into each other",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తాకు",
+    "German": "anfassen",
+    "English": "touch",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "శత్రుత్వం కలిగి ఉండటం",
+    "German": "anfeinden",
+    "English": "to be hostile",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎగతాళి చేయడానికి",
+    "German": "anfeixen",
+    "English": "to sneer",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కట్టేందుకు..",
+    "German": "anfesseln",
+    "English": "to tie up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పరిష్కరించడానికి",
+    "German": "anfixieren",
+    "English": "to fix",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఈగ",
+    "German": "anfliegen",
+    "English": "to fly [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్నేహం చేయండి",
+    "German": "anfreunden",
+    "English": "to befriend, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తినిపించు",
+    "German": "anfuttern",
+    "English": "to feed themselves",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఫీడ్ చేయడానికి",
+    "German": "anfüttern",
+    "English": "to feed",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వీటికి అలవాటు పడాలంటే..",
+    "German": "angewöhnen",
+    "English": "to get used to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నవ్వడానికి",
+    "German": "angrinsen",
+    "English": "to grin",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సమ్మె చేయడానికి",
+    "German": "anhauen",
+    "English": "to strike",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "హోమ్లీగా ఉండాలంటే..",
+    "German": "anheimeln",
+    "English": "to be homely",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విజయం సాధించడానికి",
+    "German": "anherrschen",
+    "English": "to prevail",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అరవడానికి",
+    "German": "anheulen",
+    "English": "to howl",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెంబడించడానికి",
+    "German": "anjagen",
+    "English": "to chase",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వాంతులు చేసుకోవడానికి",
+    "German": "ankotzen",
+    "English": "to vomit",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రింగ్ చేయడానికి",
+    "German": "anlauten",
+    "English": "to ring",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నాయకత్వం వహించడానికి",
+    "German": "anleiern",
+    "English": "To Lead",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఫిర్యాదు చేయడానికి",
+    "German": "anmeckern",
+    "English": "to complain",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రారంభించడానికి",
+    "German": "anmeiern",
+    "English": "To start",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మూలుగుతూ",
+    "German": "anmotzen",
+    "English": "to moan",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బోర్ కొట్టడానికి",
+    "German": "anöden",
+    "English": "to bore",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విజిల్ చేయడానికి",
+    "German": "anpfeifen",
+    "English": "to whistle",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పణంగా పెట్టడానికి",
+    "German": "anpflocken",
+    "English": "to stake",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పెక్ చేయడానికి",
+    "German": "anpicken",
+    "English": "to peck",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టచ్ కోసం",
+    "German": "anpumpen",
+    "English": "touch for",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రేసుకు",
+    "German": "anrasen",
+    "English": "to race",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "హడావిడి చేయడానికి",
+    "German": "anrauschen",
+    "English": "to rush",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వివరించడానికి",
+    "German": "anreißen",
+    "English": "to outline",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పరుగెత్తడానికి",
+    "German": "anrennen",
+    "English": "to run",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయానా",
+    "German": "anrücken",
+    "English": "to advance [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తాకు",
+    "German": "anrühren",
+    "English": "touch",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఆమ్లీకరణ",
+    "German": "ansäuern",
+    "English": "to acidify [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గుసగుసలాడటానికి",
+    "German": "ansäuseln",
+    "English": "to whisper",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విజ్ చేయడానికి",
+    "German": "ansausen",
+    "English": "to whiz",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చూడటానికి",
+    "German": "anschauen",
+    "English": "to watch",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ముక్క",
+    "German": "anschlagen",
+    "English": "to strike [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ముక్క",
+    "German": "anschlagen",
+    "English": "to strike [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టోవింగ్",
+    "German": "anschleppen",
+    "English": "Towing",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పొగడ్తలతో ముంచెత్తడానికి",
+    "German": "anschmeicheln",
+    "English": "to flatter herself, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఫోర్జరీ చేయడానికి",
+    "German": "anschmieden",
+    "English": "to forge",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్నగ్ల్",
+    "German": "anschmiegen",
+    "English": "to snuggle up, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉడకబెట్టడానికి",
+    "German": "anschmoren",
+    "English": "to stew",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దండు",
+    "German": "anschwärmen",
+    "English": "to swarm [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దండు",
+    "German": "anschwärmen",
+    "English": "to swarm [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఈత కొట్టండి",
+    "German": "anschwimmen",
+    "English": "to swim [hat, tr, intr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఈత కొట్టండి",
+    "German": "anschwimmen",
+    "English": "to swim in [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మోసం చేయడానికి",
+    "German": "anschwindeln",
+    "English": "to cheat",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సంచలనం సృష్టించడానికి",
+    "German": "anschwirren",
+    "English": "to buzz",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రయాణించడానికి ప్రయాణించండి",
+    "German": "ansegeln",
+    "English": "to sail",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "జారిపడటం",
+    "German": "anstänkern",
+    "English": "to stumble",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నడ్జ్",
+    "German": "anstoßen",
+    "English": "to toast [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తాకడం కొరకు",
+    "German": "anstreifen",
+    "English": "To touch",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "క్రాష్ కావడానికి",
+    "German": "anstürzen",
+    "English": "to crash",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చూపించండి",
+    "German": "antanzen",
+    "English": "to dance to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చూపించండి",
+    "German": "antanzen",
+    "English": "to dance to [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తాకు",
+    "German": "antasten",
+    "English": "touch",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తాకు",
+    "German": "antatschen",
+    "English": "touch",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఫోన్ కాల్స్ చేయడానికి",
+    "German": "antelefonieren",
+    "English": "to make phone calls",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రారంభించు",
+    "German": "antreten",
+    "English": "to compete [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రారంభించు",
+    "German": "antreten",
+    "English": "to run [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "త్రాగడానికి",
+    "German": "antrinken",
+    "English": "to drink",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఆన్ చేయడానికి",
+    "German": "anturnen",
+    "English": "to turn on",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఆన్ చేయడానికి",
+    "German": "anturnen",
+    "English": "to turn on [intr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రూపాంతరం చెందడానికి",
+    "German": "anverwandeln",
+    "English": "to transform",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మతభ్రష్టత్వాన్ని ప్రదర్శించడానికి",
+    "German": "apostrophieren",
+    "English": "to apostrophize",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సమీకరించడానికి",
+    "German": "assibilieren",
+    "English": "to assibilize",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "జోడించడానికి",
+    "German": "aufaddieren",
+    "English": "to add up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉలిక్కిపడటానికి",
+    "German": "aufbammeln",
+    "English": "to bamble up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వేలాడదీయడానికి",
+    "German": "aufbaumeln",
+    "English": "to dangle",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తిరుగుబాటు చేయడానికి",
+    "German": "aufbäumen",
+    "English": "to rebel, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తళుక్కుమను",
+    "German": "aufblitzen",
+    "English": "to flash [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బ్రేస్ చేయడానికి",
+    "German": "aufbrassen",
+    "English": "to brace",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బ్రేక్ ఓపెన్",
+    "German": "aufbrechen",
+    "English": "to break up [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కూలిపోవడం",
+    "German": "aufbröckeln",
+    "English": "to crumble",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కూలిపోవడం",
+    "German": "aufbröckeln",
+    "English": "to crumble [has]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "హమ్ చేయడానికి",
+    "German": "aufbrummen",
+    "English": "to hum up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తనను తాను రుద్దుకోవడానికి",
+    "German": "aufdrängeln",
+    "English": "to impose itself",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పైకి ఎగరడానికి",
+    "German": "aufflattern",
+    "English": "to flutter up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్తంభింపజేయడానికి",
+    "German": "auffrieren",
+    "English": "to freeze",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్తంభింపజేయడానికి",
+    "German": "auffrieren",
+    "English": "to freeze [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఆహారం అందించడానికి",
+    "German": "auffüttern",
+    "English": "to feed up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మెలుకువ",
+    "German": "aufglühen",
+    "English": "to glow [intr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మెలుకువ",
+    "German": "aufglühen",
+    "English": "to glow [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తల దించుకోవాల్సి ఉంటుంది.",
+    "German": "aufhalsen",
+    "English": "to be saddled",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తెరవడానికి",
+    "German": "aufhauen",
+    "English": "to cut open",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వేటాడేందుకు..",
+    "German": "aufjagen",
+    "English": "to hunt down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మొలకెత్తడానికి",
+    "German": "aufkeimen",
+    "English": "to germinate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దొంగతనం చేయడానికి",
+    "German": "aufklauen",
+    "English": "to steal",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మోకరిల్లుతూ..",
+    "German": "aufknien",
+    "English": "to kneel [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మోకాళ్లపై కూర్చోవడానికి [",
+    "German": "aufknien [",
+    "English": "to kneel, to kneel [refl only]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లేవడానికి",
+    "German": "aufkriegen",
+    "English": "to get up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నిల్వ చేయడానికి",
+    "German": "auflagern",
+    "English": "To stock",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఏర్పాటు చేయాలి",
+    "German": "aufliegen",
+    "English": "to rest [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఫిర్యాదు చేయడానికి",
+    "German": "aufmucken",
+    "English": "to complain",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గోరు పూయడానికి",
+    "German": "aufnageln",
+    "English": "to nail on",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గూడు కట్టుకోవడానికి",
+    "German": "aufnesteln",
+    "English": "to nest up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విధించడానికి",
+    "German": "aufoktroyieren",
+    "English": "to impose",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మిమ్మల్ని పోషించడానికి",
+    "German": "aufpäppeln",
+    "English": "to nurse you up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉత్తేజపరిచేందుకు",
+    "German": "aufputschen",
+    "English": "to stimulate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లేవడానికి",
+    "German": "aufraffen",
+    "English": "to get up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లేవడానికి",
+    "German": "aufrappeln",
+    "English": "to pick themselves up, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విప్పడానికి",
+    "German": "aufräufeln",
+    "English": "to unravel",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విప్పడానికి",
+    "German": "aufrebbeln",
+    "English": "to unravel",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సాగదీయడానికి",
+    "German": "aufrecken",
+    "English": "To Stretch Up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మౌంట్ చేయడానికి",
+    "German": "aufreiten",
+    "English": "to mount",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్కోర్ చేయడానికి",
+    "German": "aufritzen",
+    "English": "to score",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రాక్ అప్ చేయడానికి",
+    "German": "aufschaukeln",
+    "English": "to rock up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నురుగు",
+    "German": "aufschäumen",
+    "English": "to froth [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దిగ్భ్రాంతికి గురిచేయడానికి",
+    "German": "aufscheuen",
+    "English": "to startle",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తగులు",
+    "German": "aufschlagen",
+    "English": "to open [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్నాప్ తెరవబడింది",
+    "German": "aufschnappen",
+    "English": "to snap up [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వేగవంతం చేయడానికి",
+    "German": "aufschnellen",
+    "English": "to speed up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మాట్లాడటానికి",
+    "German": "aufschwatzen",
+    "English": "to talk",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పైకి లేవడానికి",
+    "German": "aufschwingen",
+    "English": "to swing up, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎక్కు",
+    "German": "aufsitzen",
+    "English": "to sit on [intr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎక్కు",
+    "German": "aufsitzen",
+    "English": "to sit on [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్ప్లిటర్",
+    "German": "aufsplittern",
+    "English": "to splinter [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎక్కించు",
+    "German": "aufspritzen",
+    "English": "to inject [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎక్కించు",
+    "German": "aufspritzen",
+    "English": "to inject [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తిప్పడానికి",
+    "German": "aufspunden",
+    "English": "to spun",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పైకి లేవాలంటే..",
+    "German": "aufstieben",
+    "English": "to rise",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టచ్ చేయడానికి",
+    "German": "aufstreifen",
+    "English": "To touch up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దానిని ఆన్ చేయడానికి",
+    "German": "aufstülpen",
+    "English": "To turn it on",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కరిగించు",
+    "German": "auftauen",
+    "English": "to thaw [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కరిగించు",
+    "German": "auftauen",
+    "English": "to thaw [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చూపించడానికి",
+    "German": "auftrumpfen",
+    "English": "to show off",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కదిలించండి",
+    "German": "aufwirbeln",
+    "English": "to stir up [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కదిలించండి",
+    "German": "aufwirbeln",
+    "English": "to stir up [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పెంచు",
+    "German": "aufziehen",
+    "English": "to wind up [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఫ్లిక్ చేయడానికి",
+    "German": "aufzüngeln",
+    "English": "to flick up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు రావాలంటే..",
+    "German": "aus sein",
+    "English": "To be out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎఫ్లోరెస్",
+    "German": "ausblühen",
+    "English": "to blossom [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తెల్లగా రక్తం కారడం",
+    "German": "ausbluten",
+    "English": "to bleed out [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వేయించడం",
+    "German": "ausbraten",
+    "English": "to fry [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కాలిపోండి",
+    "German": "ausbrennen",
+    "English": "to burn out [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కూలిపోవడం",
+    "German": "ausbröckeln",
+    "English": "to crumble",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పార్చ్",
+    "German": "ausdörren",
+    "English": "to dry out [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పార్చ్",
+    "German": "ausdörren",
+    "English": "to dry out [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కొట్టడానికి",
+    "German": "ausdreschen",
+    "English": "to thrash",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విడిపోవడానికి",
+    "German": "auseinanderbekommen",
+    "English": "to get apart",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తెగు",
+    "German": "auseinanderbrechen",
+    "English": "to break apart [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దూరంగా డ్రైవింగ్ చేయడం",
+    "German": "auseinanderfahren",
+    "English": "To diverge",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విడిపోయి పారిపోవడానికి",
+    "German": "auseinanderfliehen",
+    "English": "to flee apart",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విడిపోవడానికి",
+    "German": "auseinanderfließen",
+    "English": "to flow apart",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విడదీయడానికి",
+    "German": "auseinanderkommen",
+    "English": "To Diverge",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విడిపోవాలంటే..",
+    "German": "auseinanderkriegen",
+    "English": "To get apart",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విడిగా జీవించడం",
+    "German": "auseinanderleben",
+    "English": "to live apart, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వేరుగా తీసుకోవడానికి",
+    "German": "auseinandermachen",
+    "English": "to take apart",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విచ్ఛిన్నం కావడానికి",
+    "German": "auseinanderplatzen",
+    "English": "to burst apart",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విడిపోవడానికి",
+    "German": "auseinanderrücken",
+    "English": "to move apart",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్క్రాప్ చేయడానికి",
+    "German": "auseinanderscharren",
+    "English": "to scrape apart",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విడిపోవడానికి",
+    "German": "auseinanderspreizen",
+    "English": "to spread apart",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చీలిపోవడానికి",
+    "German": "auseinandersprengen",
+    "English": "to blow apart",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విడదీయండి",
+    "German": "auseinanderstreben",
+    "English": "to diverge [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విడిపోవడానికి",
+    "German": "auseinanderströmen",
+    "English": "to flow apart",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దూరంగా డ్రైవ్ చేయడానికి",
+    "German": "auseinandertreiben",
+    "English": "to drive apart",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విడిపోవడానికి",
+    "German": "auseinanderzerren",
+    "English": "to pull apart",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విడదీయడానికి",
+    "German": "auseinanderzupfen",
+    "English": "to pluck apart",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఫ్యాన్ ఔట్..",
+    "German": "ausfächern",
+    "English": "to fan out [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఫ్లోక్యులేషన్",
+    "German": "ausflocken",
+    "English": "to flocculate [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అన్ లోడ్ చేయడానికి",
+    "German": "ausfrachten",
+    "English": "to unload",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నయం చేయు",
+    "German": "aushärten",
+    "English": "to cure [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నయం చేయు",
+    "German": "aushärten",
+    "English": "to harden [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కత్తిరించడానికి",
+    "German": "ausholzen",
+    "English": "to cut out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డంప్ చేయడానికి",
+    "German": "auskippen",
+    "English": "to dump",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తెలుసుకోవడానికి",
+    "German": "ausklamüsern",
+    "English": "to find out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వర్కవుట్ కావడానికి",
+    "German": "ausklügeln",
+    "English": "To work out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తవ్వడానికి",
+    "German": "auskramen",
+    "English": "to dig out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మోగడానికి",
+    "German": "ausläuten",
+    "English": "to ring out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "యాక్ట్ అవుట్ చేయండి",
+    "German": "ausleben",
+    "English": "to live it out, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డిస్ ప్లేలో",
+    "German": "ausliegen",
+    "English": "to lay out [intr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లాగ్ అవుట్ చేయడానికి",
+    "German": "auslogieren",
+    "English": "to log out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చప్పరించడానికి",
+    "German": "auslutschen",
+    "English": "to suck",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఇటుకకు",
+    "German": "ausmauern",
+    "English": "to brick",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్వింగ్ అవుట్ చేయండి",
+    "German": "auspendeln",
+    "English": "to oscillate [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు మాట్లాడేందుకు..",
+    "German": "ausquatschen",
+    "English": "to talk out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సాగదీయడానికి",
+    "German": "ausrecken",
+    "English": "to stretch out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పారిపోవడానికి",
+    "German": "ausreißen",
+    "English": "to run away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పారిపోవడానికి",
+    "German": "ausreißen",
+    "English": "to tear out [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రోల్ అవుట్",
+    "German": "ausrollen",
+    "English": "to roll out [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉపసంహరణ",
+    "German": "ausrücken",
+    "English": "to move out [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తన్ను",
+    "German": "ausschlagen",
+    "English": "to knock out [hat, tr, intr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఏడవడానికి",
+    "German": "ausschreien",
+    "English": "to cry out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు అడుగు పెట్టండి",
+    "German": "ausschreiten",
+    "English": "to walk out [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డైగ్రెస్",
+    "German": "ausschweifen",
+    "English": "to debauchery [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నిశ్శబ్దంగా ఉండటానికి",
+    "German": "ausschweigen",
+    "English": "to remain silent, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విముక్తి",
+    "German": "ausschwingen",
+    "English": "to swing out [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చెమట పట్టడం",
+    "German": "ausschwitzen",
+    "English": "to sweat out [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పునరావాసం కోసం",
+    "German": "aussiedeln",
+    "English": "to relocate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెలువడేది",
+    "German": "ausströmen",
+    "English": "to emanate [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ట్రెడ్ అవుట్ చేయండి",
+    "German": "austreten",
+    "English": "to leave [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ట్రెడ్ అవుట్ చేయండి",
+    "German": "austreten",
+    "English": "to leave [is, to leave]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్పిన్ అవుట్ చేయడానికి",
+    "German": "austrudeln",
+    "English": "to spin out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వర్కవుట్ కావడానికి",
+    "German": "austüfteln",
+    "English": "to work out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వర్కవుట్ కావడానికి",
+    "German": "auswerkeln",
+    "English": "to work out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సర్కిల్ చేయడానికి",
+    "German": "auszirkeln",
+    "English": "to circle out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు తీయడానికి",
+    "German": "auszupfen",
+    "English": "to pluck out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కు",
+    "German": "beabtigen",
+    "English": "To",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అనుమానం రావాలంటే..",
+    "German": "beargwöhnen",
+    "English": "to be suspicious",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డంపింగ్ గా ఉండటానికి",
+    "German": "beduseln",
+    "English": "to dumble",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రమాణం చేయడానికి",
+    "German": "beeiden",
+    "English": "to swear",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వ్యవహారం",
+    "German": "befassen",
+    "English": "to deal with the",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అబద్ధం చెప్పడానికి",
+    "German": "beflegeln",
+    "English": "to belie",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్నేహం చేయండి",
+    "German": "befreunden",
+    "English": "to befriend, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "జరుగుతుంది",
+    "German": "begeben",
+    "English": "to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వస్తువు",
+    "German": "begnügen",
+    "English": "to be content to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఒకరినొకరు కలిగి ఉండటం",
+    "German": "beieinanderhaben",
+    "English": "to have each other",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కలిసి నిలబడటానికి",
+    "German": "beieinanderstehen",
+    "English": "to stand together [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కలిసి ఉండాలంటే..",
+    "German": "beisammen sein",
+    "English": "To be together",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కలిసి ఉండటానికి",
+    "German": "beisammenhaben",
+    "English": "to have together",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తోడ్పడు",
+    "German": "beistehen",
+    "English": "to assist [is (+D)]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విచారం వ్యక్తం చేయడానికి",
+    "German": "bejammern",
+    "English": "to lament",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దొంగతనం చేయడానికి",
+    "German": "beklauen",
+    "English": "to steal",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఒలికిపోవడానికి",
+    "German": "bekleckern",
+    "English": "to spill",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అభినందించడానికి",
+    "German": "bekomplimentieren",
+    "English": "to compliment",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాటడానికి",
+    "German": "bekreuzigen",
+    "English": "to make the sign of the cross, to make the sign of the",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మొత్తం",
+    "German": "belaufen",
+    "English": "Total",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నాకడానికి",
+    "German": "belecken",
+    "English": "to lick",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఫిర్యాదు చేయడానికి",
+    "German": "bemäkeln",
+    "English": "to complain",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గోరుకు",
+    "German": "benageln",
+    "English": "to nail",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తాకు",
+    "German": "berühren",
+    "English": "touch",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గుసగుసలాడటానికి",
+    "German": "besäuseln",
+    "English": "to whisper",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్లాబ్ కు",
+    "German": "beschlabbern",
+    "English": "to slob",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పాడటానికి",
+    "German": "besingen",
+    "English": "to sing",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నిట్ చేయడానికి",
+    "German": "bestricken",
+    "English": "to knit",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పరిష్కరించాలి",
+    "German": "betakeln",
+    "English": "To be tackled",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మోసం చేయడానికి..",
+    "German": "betölpeln",
+    "English": "To fool",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తొక్కడానికి",
+    "German": "betrampeln",
+    "English": "to trample",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చేయడానికి",
+    "German": "betun",
+    "English": "To do",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వృద్ధి చెందడానికి",
+    "German": "bewuchern",
+    "English": "to proliferate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కూలిపోవడం",
+    "German": "bröckeln",
+    "English": "to crumble [has]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కూలిపోవడం",
+    "German": "bröckeln",
+    "English": "to crumble [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చిరాకు పడటానికి",
+    "German": "chagrinieren",
+    "English": "to chagrinate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాని కోసం నిలబడటానికి",
+    "German": "dafürstehen",
+    "English": "to stand for it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాని గురించి మాట్లాడాలంటే..",
+    "German": "daherreden",
+    "English": "to talk about it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నిద్రపోతోంది",
+    "German": "dahindämmern",
+    "English": "to doze off",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వేగంగా ముందుకు సాగాలి",
+    "German": "dahineilen",
+    "English": "to hurry along",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అక్కడికి వెళ్లాలంటే..",
+    "German": "dahingehen",
+    "English": "To go there",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తుడిచివేయడానికి",
+    "German": "dahinraffen",
+    "English": "to sweep away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చెప్పాలంటే..",
+    "German": "dahinsagen",
+    "English": "To say",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అక్కడ కూర్చోవడానికి",
+    "German": "dahocken",
+    "English": "to squat there",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాని పక్కనే ఉండాలి",
+    "German": "daneben sein",
+    "English": "to be next to it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పొరపాటుగా పడిపోవడం",
+    "German": "danebenfallen",
+    "English": "to fall amiss",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాన్ని తప్పుగా ఉంచడానికి..",
+    "German": "danebenhalten",
+    "English": "To keep it wrong",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మార్క్ మిస్ కావడానికి",
+    "German": "danebenhauen",
+    "English": "to miss the mark",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మిస్ అవ్వడానికి",
+    "German": "danebenschießen",
+    "English": "to miss",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పడుకుని",
+    "German": "daniederliegen",
+    "English": "to lie down [intr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఇచ్చేందుకు",
+    "German": "darangeben",
+    "English": "To give",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దీన్ని చేయడానికి",
+    "German": "daranmachen",
+    "English": "To do it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దానిపై పనిచేయడానికి",
+    "German": "daransetzen",
+    "English": "to work on it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అందులోకి మీ మార్గాన్ని కనుగొనడానికి",
+    "German": "dareinfinden",
+    "English": "to find oneself",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాని గురించి మాట్లాడటానికి",
+    "German": "dareinreden",
+    "English": "to talk into it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అందులో కూర్చోవడానికి..",
+    "German": "dareinsetzen",
+    "English": "to sit in it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రదర్శించడానికి",
+    "German": "dartun",
+    "English": "to demonstrate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పైన పడుకోవాలి",
+    "German": "darüberliegen",
+    "English": "to lie above it [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాని పైన నిలబడటానికి",
+    "German": "darüberstehen",
+    "English": "to stand above it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాని కోసం బంధించడానికి",
+    "German": "darumbinden",
+    "English": "to bind for it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాని చుట్టూ తిరగాలంటే..",
+    "German": "darumkommen",
+    "English": "To get around it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టూ నిలబడటానికి",
+    "German": "darumstehen",
+    "English": "To stand around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గర్జించడానికి",
+    "German": "davonbrausen",
+    "English": "to roar away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటపడు",
+    "German": "davonmachen",
+    "English": "to get away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాని ముందు నెట్టడానికి",
+    "German": "davorschieben",
+    "English": "to push in front of it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాని ముందు నిలబడి..",
+    "German": "davorstehen",
+    "English": "to stand in front of it [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పొందడానికి",
+    "German": "dazubekommen",
+    "English": "to get",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చెప్పడానికి",
+    "German": "dazusagen",
+    "English": "to say",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "జోక్యం చేసుకోవడానికి",
+    "German": "dazwischenhauen",
+    "English": "to intervene",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మధ్యలో నిలబడటానికి",
+    "German": "dazwischenstehen",
+    "English": "to stand in between",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "క్షీణించడానికి",
+    "German": "dekrepitieren",
+    "English": "to decrevice",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అర్థం చేసుకోవడానికి",
+    "German": "dekuvrieren",
+    "English": "to decipher",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఖాళీ చేయడానికి",
+    "German": "delogieren",
+    "English": "to evict",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్థానభ్రంశం చేయడానికి",
+    "German": "deplatzieren",
+    "English": "to displace",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్థానభ్రంశం చేయడానికి",
+    "German": "deplazieren",
+    "English": "to displace",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పేలుడు సంభవించడం",
+    "German": "detonieren",
+    "English": "to detonate [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డివాల్వియేట్ చేయడానికి",
+    "German": "devalvieren",
+    "English": "to devalviate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పక్కదారి పట్టేందుకు..",
+    "German": "deviieren",
+    "English": "to deviate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డిక్టున్",
+    "German": "dicktun",
+    "English": "to thicken, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తగ్గించడానికి",
+    "German": "dimittieren",
+    "English": "To dimit",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దర్శకత్వం వహించాలంటే..",
+    "German": "dirimieren",
+    "English": "To direct",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చర్చించడానికి",
+    "German": "diskurrieren",
+    "English": "to discuss",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాని మీద ఉండటానికి",
+    "German": "drauf sein",
+    "English": "to be on it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వదులుకోవడానికి",
+    "German": "draufgeben",
+    "English": "to give up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దానితో ముందుకు రావడానికి",
+    "German": "draufkommen",
+    "English": "to come up with it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అది చూడాలంటే..",
+    "German": "dreinschauen",
+    "English": "to look at it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అందులో ఉండటానికి",
+    "German": "drin sein",
+    "English": "to be in it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అందులో ఇరుక్కోవడం",
+    "German": "drinstecken",
+    "English": "to be stuck in it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అందులో నిలబడటానికి",
+    "German": "drinstehen",
+    "English": "to stand in it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సహించు",
+    "German": "dulden",
+    "English": "tolerate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బాబ్ కు",
+    "German": "dümpeln",
+    "English": "To bob",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చీకటి",
+    "German": "dunkeln",
+    "English": "to darken [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డూప్లికేట్ చేయడానికి",
+    "German": "duplieren",
+    "English": "to duplicate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గుండ్రంగా",
+    "German": "durchdrehen",
+    "English": "to go crazy [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అయోమయానికి గురికావడం",
+    "German": "durcheinandergehen",
+    "English": "to get confused",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మిక్స్ అవ్వాలంటే..",
+    "German": "durcheinanderlaufen",
+    "English": "To get mixed up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అయోమయానికి గురికావడం",
+    "German": "durcheinanderliegen",
+    "English": "to be confused",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అయోమయానికి గురికావడం",
+    "German": "durcheinanderliegen",
+    "English": "to be confused [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కలిసి మాట్లాడటానికి",
+    "German": "durcheinanderreden",
+    "English": "to talk together",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టూ తిరగడానికి",
+    "German": "durcheinanderwirbeln",
+    "English": "To whirl around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కలపడానికి",
+    "German": "durcheinanderwürfeln",
+    "English": "to mix up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డ్రిల్ చేయడానికి",
+    "German": "durchexerzieren",
+    "English": "to drill through",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రవాహం గుండా ప్రవహించడం",
+    "German": "durchfließen",
+    "English": "to flow through [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్తంభింపజేయడానికి",
+    "German": "durchfrieren",
+    "English": "to freeze through",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దీని ద్వారా ఫీడ్ చేయండి",
+    "German": "durchfuttern",
+    "English": "to eat through, to eat oneself",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఆకలితో అలమటించడం",
+    "German": "durchhungern",
+    "English": "to starve",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెంబడించడానికి",
+    "German": "durchjagen",
+    "English": "to chase through",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పైకి ఎక్కండి",
+    "German": "durchklettern",
+    "English": "to climb through [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పైకి ఎక్కండి",
+    "German": "durchklettern",
+    "English": "to climb through [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ద్వారా కంపోజ్ చేయడానికి",
+    "German": "durchkomponieren",
+    "English": "to compose through",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాని ద్వారా వెళ్ళగలగడం కొరకు",
+    "German": "durchkönnen",
+    "English": "to be able to go through",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ద్వారా నిర్మించడానికి",
+    "German": "durchkonstruieren",
+    "English": "to construct through",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గందరగోళం సృష్టించడం",
+    "German": "durchlavieren",
+    "English": "to muddle through",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దీని ద్వారా మోసం చేయడం",
+    "German": "durchmogeln",
+    "English": "to cheat through",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నానబెట్టు",
+    "German": "durchnässen",
+    "English": "to soak [is, (from within)]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చొచ్చుకుపోవడానికి",
+    "German": "durchörtern",
+    "English": "to penetrate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చప్పట్లు కొట్టడానికి",
+    "German": "durchpeitschen",
+    "English": "to whip through",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పరుగు పందెంలో పాల్గొనడానికి",
+    "German": "durchrasen",
+    "English": "to race through [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పరుగు పందెంలో పాల్గొనడానికి",
+    "German": "durchrasen",
+    "English": "to race through [TR]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దీని ద్వారా వర్షం కురవడం",
+    "German": "durchregnen",
+    "English": "to rain through",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రైడింగ్ ద్వారా గాల్",
+    "German": "durchreiten",
+    "English": "to ride through, to ride through",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పరుగెత్తండి",
+    "German": "durchrennen",
+    "English": "to run through",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పరుగెత్తండి",
+    "German": "durchrennen",
+    "English": "to run through [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గుండా ప్రవహించడం",
+    "German": "durchrieseln",
+    "English": "to trickle through [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రతిధ్వనించడానికి",
+    "German": "durchschallen",
+    "English": "to resonate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్నానం చేయడానికి",
+    "German": "durchschauern",
+    "English": "To Shower",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లోపలికి చొరబడండి",
+    "German": "durchschleichen",
+    "English": "to sneak through [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చొరబడటానికి [",
+    "German": "durchschleichen [",
+    "English": "to sneak through [",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దీని ద్వారా స్మగ్లింగ్ చేయడానికి",
+    "German": "durchschmuggeln",
+    "English": "to smuggle through",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఈత కొట్టడం",
+    "German": "durchschwimmen",
+    "English": "to swim through [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మోసం చేయడానికి",
+    "German": "durchschwindeln",
+    "English": "to cheat through, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పెర్ఫ్యూజ్",
+    "German": "durchströmen",
+    "English": "to flow through [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పెర్ఫ్యూజ్",
+    "German": "durchströmen",
+    "English": "to flow through [is, through]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అధిగమించడానికి",
+    "German": "durchwinden",
+    "English": "to overcome",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఒకదానితో ఒకటి అల్లడం",
+    "German": "durchwirken",
+    "English": "To interweave",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తల వంచుకోవడానికి",
+    "German": "durchzucken",
+    "English": "to shrug through",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉద్వేగానికి లోనవ్వడానికి",
+    "German": "echauffieren",
+    "English": "To get excited",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఊహించండి (D)",
+    "German": "einbilden (D)",
+    "English": "to imagine oneself (D)",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విచ్ఛిన్నం కావడానికి",
+    "German": "einbrocken",
+    "English": "to break down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "శిక్షణ పొందాలంటే..",
+    "German": "eindressieren",
+    "English": "To train",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్నానం చేయడానికి",
+    "German": "einduseln",
+    "English": "to take a dip",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డ్రిల్ చేయడానికి",
+    "German": "einexerzieren",
+    "English": "to drill",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చొరబడేందుకు..",
+    "German": "einfiltrieren",
+    "English": "to infiltrate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్వాధీనం చేసుకోవడానికి",
+    "German": "einfressen",
+    "English": "to seize",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కత్తిరించడానికి",
+    "German": "einhauen",
+    "English": "to cut in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఒంటరిగా ఉండటానికి",
+    "German": "einigeln",
+    "English": "to isolate, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెంబడించడానికి",
+    "German": "einjagen",
+    "English": "to chase",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కొక్కెం",
+    "German": "einknicken",
+    "English": "to buckle [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కొక్కెం",
+    "German": "einknicken",
+    "English": "to give in [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాడి చేయడానికి",
+    "German": "einknüppeln",
+    "English": "to bludgeon",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కూలిపోవడం",
+    "German": "einkrachen",
+    "English": "to collapse",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ముగించడానికి",
+    "German": "einmummeln",
+    "English": "to wrap up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఇందులో వాటా ఇవ్వడానికి",
+    "German": "einpflocken",
+    "English": "to stake in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాన్ని పోల్డర్లలో పెట్టాలంటే..",
+    "German": "einpoldern",
+    "English": "To put it in the polders",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వర్షం కురవడానికి",
+    "German": "einprasseln",
+    "English": "to rain down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కొట్టడానికి",
+    "German": "einprügeln",
+    "English": "to beat up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "జీరోయింగ్ ఇన్",
+    "German": "einschießen",
+    "English": "to zero in [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్టాంప్ చేయడానికి",
+    "German": "einstampfen",
+    "English": "to stomp",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తుఫాను రావడానికి",
+    "German": "einstürmen",
+    "English": "to storm in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ముంచు",
+    "German": "eintauchen",
+    "English": "to dive in [is, in +A]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మదింపు చేయడానికి",
+    "German": "eintaxieren",
+    "English": "to assess",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లోపలికి చొచ్చుకుపోవడానికి",
+    "German": "eintröpfeln",
+    "English": "to trickle in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రూటింగ్",
+    "German": "einwurzeln",
+    "English": "to root [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బురుజు",
+    "German": "emporragen",
+    "English": "tower",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పైకి ఎగరడానికి",
+    "German": "emporschwingen",
+    "English": "to soar upwards",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎంగోబెడ్ కు",
+    "German": "engobieren",
+    "English": "to engobed",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దూరం కావడానికి",
+    "German": "entäußern",
+    "English": "to alienate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డిఫ్లేష్ చేయడానికి",
+    "German": "entfleischen",
+    "English": "to deflesh",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పరుగెత్తడానికి",
+    "German": "entgegeneilen",
+    "English": "to rush towards",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దైవీకరించుటకు",
+    "German": "entgöttern",
+    "English": "to deify",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రికవరీ చేయడానికి",
+    "German": "entringen",
+    "English": "to wrest",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డెరుస్ట్ కు",
+    "German": "entrosten",
+    "English": "to derust",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తొలగించడానికి",
+    "German": "entrußen",
+    "English": "To remove",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కోపంగా ఉండటం",
+    "German": "entrüsten",
+    "English": "to be indignant",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రెండింటిలో విరామం",
+    "German": "entzweibrechen",
+    "English": "to break in two [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రెండుగా విడిపోవడం..",
+    "German": "entzweimachen",
+    "English": "To split in two",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "భరించడానికి",
+    "German": "erdauern",
+    "English": "to endure",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "భయపెట్టడానికి ()",
+    "German": "erschrecken ()",
+    "English": "to be frightened [refl]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తట్టుకో",
+    "German": "erwehren",
+    "English": "to resist",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రకటించడానికి",
+    "German": "exklamieren",
+    "English": "To proclaim",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉద్వేగానికి లోనవడానికి",
+    "German": "exulzerieren",
+    "English": "To exulcerate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రాణించాలంటే..",
+    "German": "exzellieren",
+    "English": "To excel",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టార్చ్ లు",
+    "German": "fackeln",
+    "English": "torches",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లావుగా ఉండటానికి",
+    "German": "fatieren",
+    "English": "To fatten",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టైల్ కు",
+    "German": "fazettieren",
+    "English": "To Tile",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దూరంగా పడుకోవడం",
+    "German": "fern liegen",
+    "English": "to lie far away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దూరంగా నిలబడటానికి",
+    "German": "fern stehen",
+    "English": "to stand far away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దూరంగా ఉండటానికి",
+    "German": "fernstehen",
+    "English": "to be distant",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కాటు వేయడానికి",
+    "German": "festbeißen",
+    "English": "to bite down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఫిక్స్ చేయాలి",
+    "German": "festliegen",
+    "English": "to be fixed",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ముక్కలు చేయడానికి",
+    "German": "fetzeln",
+    "English": "to shred",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కనుగొనేందుకు",
+    "German": "finden",
+    "English": "to find",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తేలడానికి",
+    "German": "flotieren",
+    "English": "to float",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తేలడానికి",
+    "German": "flottmachen",
+    "English": "to float",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దీనిని ద్రవంగా చేయడానికి",
+    "German": "flüssig machen",
+    "English": "to make it liquid",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దీనిని ద్రవంగా చేయడానికి",
+    "German": "flüssigmachen",
+    "English": "to make it liquid",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చిత్రహింస",
+    "German": "foltern",
+    "English": "torture",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెళ్లిపోవాలంటే..",
+    "German": "fortbegeben",
+    "English": "to go away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాన్ని తీసివేయాలంటే..",
+    "German": "fortbringen",
+    "English": "To take it away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కలిగి ఉండాలి",
+    "German": "forthaben",
+    "English": "to have",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తరిమివేయడానికి",
+    "German": "fortjagen",
+    "English": "to chase away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తరిమివేయడానికి",
+    "German": "fortjagen",
+    "English": "to chase away [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దూరంగా నెట్టడానికి",
+    "German": "fortschieben",
+    "English": "to push away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పారిపోవడానికి",
+    "German": "fortschleichen",
+    "English": "to sneak away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దూరంగా లాగడానికి",
+    "German": "fortschleppen",
+    "English": "to drag away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విసిరివేయడానికి",
+    "German": "fortschmeißen",
+    "English": "to throw away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దొంగతనం చేసేందుకు..",
+    "German": "fortstehlen",
+    "English": "to steal away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దూరంగా వెళ్లిపోవడానికి",
+    "German": "forttreiben",
+    "English": "to drift away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్వేచ్ఛగా ఉండటానికి",
+    "German": "frei haben",
+    "English": "to be free",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్వేచ్ఛగా మారడానికి",
+    "German": "frei werden",
+    "English": "to become free",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉచితంగా పొందడానికి",
+    "German": "freikommen",
+    "English": "To get free",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దూరం కావడానికి",
+    "German": "fremdeln",
+    "English": "to alienate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బొచ్చుగా ఉండటానికి",
+    "German": "furagieren",
+    "English": "to furry",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బెదిరించడానికి",
+    "German": "gängeln",
+    "English": "to bully",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎంబోస్ చేయడానికి",
+    "German": "gaufrieren",
+    "English": "to emboss",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ట్రిక్ చేయడానికి",
+    "German": "gaukeln",
+    "English": "To Trick",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఇచ్చేందుకు",
+    "German": "geben",
+    "English": "to give",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బందీలను పట్టుకోవడానికి",
+    "German": "gefangen halten",
+    "English": "to hold captive",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఒకదానికొకటి ఢీకొనడం",
+    "German": "gegeneinanderprallen",
+    "English": "to collide with each other",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఒకరికొకరు వ్యతిరేకంగా నిలబడటానికి",
+    "German": "gegeneinanderstehen",
+    "English": "to stand against each other",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పోల్చు",
+    "German": "gegenübersetzen",
+    "English": "to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎదురుగా కూర్చోవడానికి",
+    "German": "gegenübersitzen",
+    "English": "to sit opposite",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రహస్యంగా చేయడం",
+    "German": "geheim tun",
+    "English": "to do secretly",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "హెచ్చరించడానికి",
+    "German": "gemahnen",
+    "English": "to warn",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ద్వేషించడానికి",
+    "German": "gering achten",
+    "English": "to despise",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ద్వేషించడానికి",
+    "German": "gering schätzen",
+    "English": "to despise",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పెళ్లి చేసుకోవాలంటే..",
+    "German": "getrauen",
+    "English": "To get married",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గిర్డ్ చేయడానికి",
+    "German": "girieren",
+    "English": "To gird",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సాఫీగా సాగాలంటే..",
+    "German": "glatt gehen",
+    "English": "to go smoothly [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్మూత్ గా ఉండటానికి",
+    "German": "glatt machen",
+    "English": "to smooth out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎద్దు వేయడానికి",
+    "German": "haussieren",
+    "English": "To bull",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పవిత్రంగా ఉండాలంటే..",
+    "German": "heilighalten",
+    "English": "To hold holy",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఇంటికి వెళ్లేందుకు అనుమతి ఇవ్వాలి.",
+    "German": "heimdürfen",
+    "English": "To be allowed to go home",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉండటానికి",
+    "German": "her sein",
+    "English": "To be",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దిగువకు ప్రవహించడానికి",
+    "German": "herabfließen",
+    "English": "to flow down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మునిగిపోవడానికి",
+    "German": "herabsinken",
+    "English": "to sink down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సమీపిస్తున్నట్లుగా ఉండాలి",
+    "German": "heran sein",
+    "English": "to be approaching",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాక్కోవడానికి [",
+    "German": "heranschleichen [",
+    "English": "to sneak up [",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తీసుకురావడానికి",
+    "German": "herantragen",
+    "English": "to bring",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దగ్గరకు వెళ్లడానికి ధైర్యం చేయడం",
+    "German": "herantrauen",
+    "English": "to dare to approach",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చొచ్చుకుపోవడానికి",
+    "German": "heraufdringen",
+    "English": "to penetrate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డ్రైవ్ చేయండి",
+    "German": "herauffahren",
+    "English": "to ascend",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పైకి తీసుకెళ్లడానికి",
+    "German": "herauftragen",
+    "English": "to carry up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు రావడానికి",
+    "German": "heraus sein",
+    "English": "to be out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వర్కవుట్ కావడానికి",
+    "German": "herausarbeiten",
+    "English": "To work out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నాకౌట్ చేయడానికి",
+    "German": "heraushauen",
+    "English": "to knock out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తెలుసుకోవడానికి",
+    "German": "herauskriegen",
+    "English": "to find out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తయారు చేయడానికి",
+    "German": "herausmachen",
+    "English": "to make",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు తరలించడం",
+    "German": "herausrücken",
+    "English": "to move out [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు జారిపోవడానికి",
+    "German": "herausrutschen",
+    "English": "to slip out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు తీయడానికి",
+    "German": "herausschinden",
+    "English": "to scrape out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు రావడానికి",
+    "German": "herausschmeißen",
+    "English": "to kick out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు చూడటానికి",
+    "German": "heraussehen",
+    "English": "to look out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దానిని అతికించడానికి",
+    "German": "herausstecken",
+    "English": "to stick it out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు పరుగులు తీయడం..",
+    "German": "herausstürzen",
+    "English": "to rush out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రత్యేకంగా నిలవడానికి",
+    "German": "heraustun",
+    "English": "to stand out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాని నుంచి బయటపడాలంటే..",
+    "German": "herauswirtschaften",
+    "English": "to run out of it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రలోభపెట్టడానికి",
+    "German": "herbeilocken",
+    "English": "to lure",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఇక్కడ ఆర్డర్ చేయడానికి",
+    "German": "herbeordern",
+    "English": "to order here",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లోపలికి వెళ్లడానికి",
+    "German": "hereindrängen",
+    "English": "to push in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తీసుకోవడానికి",
+    "German": "hereinnehmen",
+    "English": "to take in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్మగ్లింగ్ చేయడానికి",
+    "German": "hereinschmuggeln",
+    "English": "to smuggle in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉంచడానికి",
+    "German": "hereinstellen",
+    "English": "to put",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పోయడానికి",
+    "German": "hereinströmen",
+    "English": "to pour in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "హడావిడిగా లోపలికి",
+    "German": "hereinstürzen",
+    "English": "to rush in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లోపలికి తీసుకెళ్లడానికి",
+    "German": "hereintragen",
+    "English": "to carry in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అడుగు పెట్టడానికి",
+    "German": "hereintreten",
+    "English": "to step in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెంబడించడానికి",
+    "German": "herjagen",
+    "English": "to chase",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పడుకోవడానికి",
+    "German": "herlegen",
+    "English": "to lay down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దీన్ని తయారు చేయడానికి",
+    "German": "hermachen",
+    "English": "To make it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఇక్కడికి రావడానికి",
+    "German": "hertreiben",
+    "English": "to drift here",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తెలియజేయడానికి",
+    "German": "herüberbringen",
+    "English": "to convey",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పాస్ చేయడానికి",
+    "German": "herübergeben",
+    "English": "to pass on",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెళ్లడానికి",
+    "German": "herübergehen",
+    "English": "to go over",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాటడానికి వీలుగా..",
+    "German": "herüberkönnen",
+    "English": "to be able to cross over",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చూడటానికి",
+    "German": "herübersehen",
+    "English": "to look over",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పక్కకు పెట్టు",
+    "German": "herüberziehen",
+    "English": "to pull over [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టుపక్కల ఉండటానికి",
+    "German": "herum sein",
+    "English": "to be around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టుపక్కల చిరాకు కలిగించడం",
+    "German": "herumärgern",
+    "English": "to annoy around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టూ తిరగడానికి",
+    "German": "herumbringen",
+    "English": "To get around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టూ తిరగడానికి",
+    "German": "herumbummeln",
+    "English": "to stroll around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టూ చూపించడానికి",
+    "German": "herumdeuteln",
+    "English": "to point around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టూ తిరగడానికి",
+    "German": "herumhacken",
+    "English": "to pick around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అటూ ఇటూ తిరగడం",
+    "German": "herumirren",
+    "English": "to wander around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రొట్టె",
+    "German": "herumlungern",
+    "English": "to hang around [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టూ చిరిగిపోవడానికి",
+    "German": "herumreißen",
+    "English": "to tear around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టుపక్కల తిరగడానికి",
+    "German": "herumscharwenzeln",
+    "English": "to scurry around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టూ నిలబడండి",
+    "German": "herumstehen",
+    "English": "to stand around [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టూ ఉంచడానికి",
+    "German": "herumstellen",
+    "English": "To put around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టూ తిరగడానికి",
+    "German": "herumstoßen",
+    "English": "to push around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టూ తిరగడానికి",
+    "German": "herumstrolchen",
+    "English": "to prowl around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తొక్కు",
+    "German": "herumtrampeln",
+    "English": "to trample [intr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టూ టాస్",
+    "German": "herumwerfen",
+    "English": "Toss around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కిందకు రావాలి",
+    "German": "herunter sein",
+    "English": "to be down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాన్ని కిందకు దించడానికి",
+    "German": "herunterbekommen",
+    "English": "to get it down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దిగువకు ప్రవహించడానికి",
+    "German": "herunterfließen",
+    "English": "to flow down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దానిని ఇవ్వడానికి",
+    "German": "heruntergeben",
+    "English": "to give it down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పారాయణం చేయడానికి",
+    "German": "herunterleiern",
+    "English": "to recite",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కిందకు దూకడం",
+    "German": "herunterstürzen",
+    "English": "to fall down [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కిందకు దూకడం",
+    "German": "herunterstürzen",
+    "English": "to plunge down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు రావడానికి",
+    "German": "hervorkommen",
+    "English": "to emerge",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వేవ్ చేయడానికి",
+    "German": "herwinken",
+    "English": "to wave",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పోవడానికి",
+    "German": "hin sein",
+    "English": "to be gone",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దిగు",
+    "German": "hinabfahren",
+    "English": "to go down [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దిగు",
+    "German": "hinabfahren",
+    "English": "to go down [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కిందకు దూకడం",
+    "German": "hinabstürzen",
+    "English": "to plunge down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లేవడానికి",
+    "German": "hinauf sein",
+    "English": "to be up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మిమ్మల్ని అడగడానికి",
+    "German": "hinaufbitten",
+    "English": "to ask you up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డ్రైవ్ చేయండి",
+    "German": "hinauffahren",
+    "English": "to drive up [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మీకు సహాయం చేయడానికి",
+    "German": "hinaufhelfen",
+    "English": "to help you up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లేవడానికి",
+    "German": "hinaufkommen",
+    "English": "to get up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎక్కడానికి వీలుగా..",
+    "German": "hinaufkönnen",
+    "English": "to be able to climb",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పైకి లేవడానికి",
+    "German": "hinaufschwingen",
+    "English": "to swing up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లేచి కూర్చోవడానికి",
+    "German": "hinaufsetzen",
+    "English": "to sit up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పైకి తీసుకెళ్లడానికి",
+    "German": "hinauftragen",
+    "English": "to carry up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పైకి తేలడానికి",
+    "German": "hinauftreiben",
+    "English": "to float up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పైకి లాగండి",
+    "German": "hinaufziehen",
+    "English": "to pull up [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పైకి లాగండి",
+    "German": "hinaufziehen",
+    "English": "to pull up [tr, +A, himself]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉండటానికి",
+    "German": "hinaus sein",
+    "English": "to be",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు తరలించడానికి",
+    "German": "hinausbefördern",
+    "English": "to transport out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వంగడానికి",
+    "German": "hinausbeugen",
+    "English": "to bend out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు రావాలంటే..",
+    "German": "hinausbringen",
+    "English": "To get out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అసహ్యించుకోవడానికి",
+    "German": "hinausekeln",
+    "English": "to disgust",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు రావాలంటే..",
+    "German": "hinausgelangen",
+    "English": "To get out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తరిమివేయడానికి",
+    "German": "hinausjagen",
+    "English": "to chase out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు పరుగెత్తడానికి",
+    "German": "hinauslaufen",
+    "English": "to run out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు వాలిపోవడం",
+    "German": "hinauslehnen",
+    "English": "to lean out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దానిని బయటకు తీసుకురావడానికి",
+    "German": "hinausmachen",
+    "English": "To make it out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రత్యేకంగా నిలవడానికి",
+    "German": "hinausragen",
+    "English": "to stand out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు వెళ్లేందుకు..",
+    "German": "hinausrücken",
+    "English": "to move out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "షూట్ చేయడానికి",
+    "German": "hinausschießen",
+    "English": "to shoot out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వారిని బయటకు విసిరేయడానికి",
+    "German": "hinausschmeißen",
+    "English": "to throw them out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్మగ్లింగ్ కోసం..",
+    "German": "hinausschmuggeln",
+    "English": "to smuggle out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అరవడానికి",
+    "German": "hinausschreien",
+    "English": "to shout out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దొంగతనం చేయడానికి",
+    "German": "hinausstehlen",
+    "English": "to steal out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు తీయడానికి..",
+    "German": "hinausstellen",
+    "English": "To put out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు పరుగులు తీయడం..",
+    "German": "hinausstürzen",
+    "English": "to throw out [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు పరుగెత్తడానికి [",
+    "German": "hinausstürzen [",
+    "English": "to rush out [",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రూపాంతరం చెందడానికి",
+    "German": "hinaustransformieren",
+    "English": "to transform out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బయటకు వెళ్లేందుకు..",
+    "German": "hinaustreiben",
+    "English": "to drive out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నెట్టడానికి",
+    "German": "hindrängen",
+    "English": "to push",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గుండా ప్రవహించడానికి",
+    "German": "hindurchfließen",
+    "English": "to flow through",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాని ద్వారా చూడటానికి",
+    "German": "hindurchsehen",
+    "English": "to see through it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లోపలికి వెళ్లేందుకు..",
+    "German": "hineinbekommen",
+    "English": "to get in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దానిలో ఊదడానికి",
+    "German": "hineinblasen",
+    "English": "to blow into it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అందులో తినాలంటే..",
+    "German": "hineinfressen",
+    "English": "to eat into it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దీనిలో సహాయపడటానికి",
+    "German": "hineinhelfen",
+    "English": "to help in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దానిని అర్థం చేసుకోవడానికి",
+    "German": "hineininterpretieren",
+    "English": "to interpret it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాన్ని అభినందించడానికి",
+    "German": "hineinkomplimentieren",
+    "English": "to compliment it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దానిలోకి పరిగెత్తడానికి",
+    "German": "hineinlaufen",
+    "English": "to run into it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దానిలో పేలిపోవడానికి",
+    "German": "hineinplatzen",
+    "English": "to burst into it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాని గురించి మాట్లాడటానికి",
+    "German": "hineinreden",
+    "English": "to talk into it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దానిలో చిరిగిపోవడానికి",
+    "German": "hineinreißen",
+    "English": "to tear into it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అందులో షూట్ చేయడానికి..",
+    "German": "hineinschießen",
+    "English": "to shoot into it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాన్ని కొట్టడానికి",
+    "German": "hineinschlagen",
+    "English": "to hit it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లోపలికి చొరబడటానికి",
+    "German": "hineinschleichen",
+    "English": "to sneak in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లోపలికి చొరబడటానికి [",
+    "German": "hineinschleichen [",
+    "English": "to sneak in [",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అందులోకి స్లైడ్ అవ్వాలంటే..",
+    "German": "hineinschlittern",
+    "English": "to slide into it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్మగ్లింగ్ చేయడానికి",
+    "German": "hineinschmuggeln",
+    "English": "to smuggle in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అందులోకి జారుకోవడం..",
+    "German": "hineinstolpern",
+    "English": "to stumble into it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అందులోకి నెట్టడానికి",
+    "German": "hineinstoßen",
+    "English": "to thrust into it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అందులో పోయాలి.",
+    "German": "hineinströmen",
+    "English": "to pour into it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అందులో మునిగిపోవడానికి",
+    "German": "hineinstürzen",
+    "English": "to plunge into it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అందులోకి దూసుకెళ్లడానికి [",
+    "German": "hineinstürzen [",
+    "English": "to rush into it [",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అందులోకి వెళ్లడానికి..",
+    "German": "hineintreiben",
+    "English": "to drive into it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పెట్టడానికి",
+    "German": "hineintun",
+    "English": "to put in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మిమ్మల్ని మీరు లోపల ఉంచడానికి",
+    "German": "hineinversetzen",
+    "English": "to put yourself in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అందులోకి బలవంతం చేయడానికి",
+    "German": "hineinzwingen",
+    "English": "to force into it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఫ్లాయిల్ చేయడానికి",
+    "German": "hinflegeln",
+    "English": "to flail",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అక్కడికి చేరుకోవాలంటే..",
+    "German": "hingelangen",
+    "English": "to get there",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కలిగి ఉండాలి",
+    "German": "hinhaben",
+    "English": "to have",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కొట్టడానికి",
+    "German": "hinhauen",
+    "English": "to hit",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దర్శకత్వం వహించడానికి",
+    "German": "hinleiten",
+    "English": "to direct",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నడిపించడానికి",
+    "German": "hinlenken",
+    "English": "to steer",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అది చేయడానికి",
+    "German": "hinmachen",
+    "English": "to do it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వంపుకు",
+    "German": "hinneigen",
+    "English": "to tilt",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గందరగోళం సృష్టించడం",
+    "German": "hinpfuschen",
+    "English": "to mess up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెనకాల దాడి చేయడం..",
+    "German": "hintenüberfallen",
+    "English": "To attack behind",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెనక్కు వంగి..",
+    "German": "hintenüberkippen",
+    "English": "to tilt over backwards",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వీపు మీద పడటం",
+    "German": "hintenüberstürzen",
+    "English": "to fall over the back",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెనకబడి ఉండటం",
+    "German": "hinterher sein",
+    "English": "to be behind",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తరువాత ఒలికిపోవటానికి",
+    "German": "hinterherkleckern",
+    "English": "to spill after",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెంట పరుగెత్తడానికి",
+    "German": "hinterherrennen",
+    "English": "to run after",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చేయడానికి",
+    "German": "hintun",
+    "English": "to do",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వంగడానికి",
+    "German": "hinüberbeugen",
+    "English": "to bend over",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాన్ని తీసుకురావడానికి..",
+    "German": "hinüberbringen",
+    "English": "To bring it over",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అధిగమించడానికి",
+    "German": "hinüberkommen",
+    "English": "To get over",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాటడానికి వీలుగా..",
+    "German": "hinüberkönnen",
+    "English": "to be able to cross over",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పొదుపు చేయడానికి",
+    "German": "hinüberretten",
+    "English": "To save",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అంతకుమించి చూడటానికి",
+    "German": "hinübersehen",
+    "English": "to look beyond",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అనువదించు",
+    "German": "hinübersetzen",
+    "English": "to translate [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అతిగా చేయడానికి",
+    "German": "hinübertun",
+    "English": "to overdo",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కిందకు రావాలి",
+    "German": "hinunter sein",
+    "English": "to be down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దిగువకు రవాణా చేయడానికి",
+    "German": "hinunterbefördern",
+    "English": "to transport down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చిట్కా ఇవ్వడానికి",
+    "German": "hinunterkippen",
+    "English": "to tip down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కిందికి నెట్టడానికి",
+    "German": "hinunterstoßen",
+    "English": "to push down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కిందకు దూకడం",
+    "German": "hinunterstürzen",
+    "English": "to plunge down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెళ్లిపోవాలి..",
+    "German": "hinweg sein",
+    "English": "To be gone",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వదిలించుకోవడానికి..",
+    "German": "hinwegbringen",
+    "English": "To get rid of",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అధిగమించడానికి",
+    "German": "hinwegkommen",
+    "English": "to get over",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దూరంగా మాట్లాడటానికి",
+    "German": "hinwegreden",
+    "English": "to talk away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఓదార్చడానికి",
+    "German": "hinwegtrösten",
+    "English": "to console",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పొందడానికి",
+    "German": "hinzubekommen",
+    "English": "to get",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఆలోచించాలి",
+    "German": "hinzudenken",
+    "English": "to think about",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వారితో చేరేందుకు..",
+    "German": "hinzustoßen",
+    "English": "to join them",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చేయడానికి",
+    "German": "hinzutun",
+    "English": "to do",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎంచుకోవడానికి",
+    "German": "hinzuwählen",
+    "English": "to select",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దీనికి తప్పనిసరిగా జోడించాలి.",
+    "German": "hinzuzählen",
+    "English": "To this must be added",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లేవడానికి",
+    "German": "hochkriegen",
+    "English": "to get up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నర్సింగ్ చేయడానికి",
+    "German": "hochpäppeln",
+    "English": "to nurse up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఊడ్చడానికి",
+    "German": "hochraffen",
+    "English": "to sweep up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లేవాలంటే..",
+    "German": "hochrappeln",
+    "English": "To get up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చిరిగిపోవడానికి",
+    "German": "hochreißen",
+    "English": "to tear up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రాక్ అప్ చేయడానికి",
+    "German": "hochschaukeln",
+    "English": "to rock up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కొట్టండి",
+    "German": "hochschlagen",
+    "English": "To beat up [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కొట్టండి",
+    "German": "hochschlagen",
+    "English": "To knock up [hat, tr]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాక్కోవడానికి [",
+    "German": "hochschleichen [",
+    "English": "to sneak up [",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దిగ్భ్రాంతికి గురిచేయడానికి",
+    "German": "hochschrecken",
+    "English": "to startle",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎత్తుగా నిలబడాలంటే..",
+    "German": "hochstehen",
+    "English": "to stand high",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్టైలైజ్ చేయడానికి",
+    "German": "hochstilisieren",
+    "English": "to stylize",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వించ్ చేయడానికి",
+    "German": "hochwinden",
+    "English": "to winch up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పైకి తిరగడానికి",
+    "German": "hochwirbeln",
+    "English": "To whirl up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సంతానోత్పత్తి కోసం",
+    "German": "hochzüchten",
+    "English": "to breed",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రతిష్ఠాపన చేయడానికి",
+    "German": "impastieren",
+    "English": "To impaste",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఆకట్టుకోవాలంటే..",
+    "German": "imprimieren",
+    "English": "To Impress",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఇంటర్ లాక్ చేయడానికి",
+    "German": "ineinanderstecken",
+    "English": "to interlock",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అవతరించిన",
+    "German": "inkarnieren",
+    "English": "to incarnate, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఇన్ కమోడిటేషన్ చేయడానికి",
+    "German": "inkommodieren",
+    "English": "to incommoditate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లోపల ఉండటానికి",
+    "German": "inne sein",
+    "English": "to be in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఇంటర్ పంజ్ చేయడానికి",
+    "German": "interpungieren",
+    "English": "to interpunge",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చలి",
+    "German": "kalt machen",
+    "English": "to make cold [TR]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విచ్ఛిన్నం కావడానికి",
+    "German": "kaputt machen",
+    "English": "to break",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ముక్కలు ముక్కలుగా చీల్చడం",
+    "German": "kaputt reißen",
+    "English": "to tear [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ముక్కలు ముక్కలుగా చీల్చడం",
+    "German": "kaputt reißen",
+    "English": "to tear to pieces",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విచ్ఛిన్నం కావడానికి",
+    "German": "kaputt schlagen",
+    "English": "to break [TR]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విచ్ఛిన్నం కావడానికి",
+    "German": "kaputt treten",
+    "English": "to break",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చీలిపోవడానికి",
+    "German": "kaputtreißen",
+    "English": "to tear apart",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కోవర్",
+    "German": "kauern",
+    "English": "to crouch [intr, oneself]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చిమ్ము",
+    "German": "knobeln",
+    "English": "toss",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రసారం చేయడానికి",
+    "German": "kolportieren",
+    "English": "to circulate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సరిదిద్దడానికి",
+    "German": "korrepetieren",
+    "English": "To correct",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాటు",
+    "German": "kreuzen",
+    "English": "to cross [is]",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "క్రాక్ చేయడానికి",
+    "German": "krockieren",
+    "English": "To crock",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వంగుట",
+    "German": "krummlegen",
+    "English": "to bend over, to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వక్రంగా ఉండే వ్యక్తిని తీసుకోవడానికి",
+    "German": "krummnehmen",
+    "English": "To take a crooked",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అభిమానం పెరగాలంటే..",
+    "German": "lieb gewinnen",
+    "English": "to grow fond",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వాదించడానికి",
+    "German": "ligieren",
+    "English": "to ligate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లైన్ లో ఉండటానికి",
+    "German": "liniieren",
+    "English": "To line",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వదులుగా అతుక్కుపోవడానికి",
+    "German": "losklammern",
+    "English": "to cling loose",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తుఫానును తరిమికొట్టడానికి",
+    "German": "losstürmen",
+    "English": "to storm off",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విడిపోవడానికి",
+    "German": "lostrennen",
+    "English": "to break away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టోగ్లింగ్",
+    "German": "makeln",
+    "English": "Toggling",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఫిర్యాదు చేయడానికి",
+    "German": "mäkeln",
+    "English": "to complain",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మాక్యులేట్ చేయడానికి",
+    "German": "makulieren",
+    "English": "to maculate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చిత్రహింస",
+    "German": "martern",
+    "English": "torture",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తప్పు చేయాలంటే..",
+    "German": "miesmachen",
+    "English": "To make a mistake",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉండటానికి",
+    "German": "mit sein",
+    "English": "to be",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చేరడానికి",
+    "German": "mithaben",
+    "English": "to join in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "జాలి పడటానికి",
+    "German": "mitleiden",
+    "English": "to pity",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గణితం చేయడానికి",
+    "German": "mitrechnen",
+    "English": "to do the math",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టచ్ అప్ చేయండి",
+    "German": "nachbessern",
+    "English": "touch up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెనుకంజ వేయడానికి",
+    "German": "nacheilen",
+    "English": "To lag",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టాప్ అప్",
+    "German": "nachlegen",
+    "English": "Topping up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "జోడించడానికి",
+    "German": "nachschieben",
+    "English": "to add",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గూఢచర్యం చేయడానికి",
+    "German": "nachschleichen",
+    "English": "to sneak up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దగ్గర కావడానికి..",
+    "German": "nahegehen",
+    "English": "To get close",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దగ్గరగా ఉండాలంటే..",
+    "German": "näherstehen",
+    "English": "to be closer",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దగ్గరగా ఉండటానికి",
+    "German": "nahestehen",
+    "English": "to be close",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దగ్గర కావడానికి..",
+    "German": "nahetreten",
+    "English": "to get close",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఒకరి పక్కన ఒకరు కూర్చోవడం",
+    "German": "nebeneinandersitzen",
+    "English": "to sit next to each other",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పక్కన నడవాలంటే..",
+    "German": "nebenhergehen",
+    "English": "To walk alongside",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తగ్గించడానికి",
+    "German": "niederhauen",
+    "English": "to cut down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కిందకు కూర్చోవడానికి",
+    "German": "niederhocken",
+    "English": "to squat down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కిందకు దిగాలంటే..",
+    "German": "niederholen",
+    "English": "To get down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కిందకు వాలిపోవాలి",
+    "German": "niederkauern",
+    "English": "to crouch down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మునిగిపోవడానికి",
+    "German": "niedersinken",
+    "English": "to sink down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాడి చేయడానికి",
+    "German": "niederstrecken",
+    "English": "to strike down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అణిచివేత",
+    "German": "niederwalzen",
+    "English": "to crush",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బహిర్గతం కావడానికి",
+    "German": "offenliegen",
+    "English": "to be exposed",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విధించడానికి",
+    "German": "oktroyieren",
+    "English": "to impose",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పాన్ కు",
+    "German": "pantschen",
+    "English": "To pan",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దారి మళ్లించడానికి",
+    "German": "pathetisieren",
+    "English": "to pathize",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "హింసించు",
+    "German": "peinigen",
+    "English": "torment",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మూత్ర విసర్జన చేయడానికి",
+    "German": "petschieren",
+    "English": "To pee",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "క్యాప్ చేయడానికి",
+    "German": "plafonieren",
+    "English": "to cap",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎత్తి చూపడానికి",
+    "German": "pointieren",
+    "English": "to point out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రాక్టీస్ చేయడానికి",
+    "German": "praktifizieren",
+    "English": "to practice",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నటించడానికి",
+    "German": "prätendieren",
+    "English": "to pretend",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వృద్ధి చెందడానికి",
+    "German": "proliferieren",
+    "English": "to proliferate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రతిపాదనకు",
+    "German": "proponieren",
+    "English": "to propon",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రాసెస్ చేయడానికి",
+    "German": "prozedieren",
+    "English": "to process",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "హింసించు",
+    "German": "quälen",
+    "English": "torment",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "హింసించు",
+    "German": "qualstern",
+    "English": "Torment",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బురుజు",
+    "German": "ragen",
+    "English": "tower",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దానికి చేరుకోవాలంటే..",
+    "German": "rankriegen",
+    "English": "to get to it",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రుద్దడానికి",
+    "German": "räufeln",
+    "English": "to rub",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్మగ్లింగ్ కోసం..",
+    "German": "rausschmuggeln",
+    "English": "to smuggle out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లోపలికి వెళ్లేందుకు..",
+    "German": "reinkriegen",
+    "English": "to get in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాన్ని చీల్చడానికి",
+    "German": "reinreißen",
+    "English": "to tear it down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అల్లరి చేయడానికి",
+    "German": "rempeln",
+    "English": "to jostle",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పారితోషికం కోసం..",
+    "German": "remunerieren",
+    "English": "to remunerate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పునరాలోచన చేయడానికి",
+    "German": "renunzieren",
+    "English": "to reunciate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మొత్తంగా చెప్పాలంటే..",
+    "German": "resümieren",
+    "English": "To sum up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రతిస్పందించడానికి",
+    "German": "retirieren",
+    "English": "To reciprocate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తిరిగి కలవడానికి",
+    "German": "reunieren",
+    "English": "to reunite",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉపసంహరించుకోవడానికి",
+    "German": "revakzinieren",
+    "English": "to revoke",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వేల్ కు",
+    "German": "revalieren",
+    "English": "to vale",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వాల్వియేట్ చేయడానికి",
+    "German": "revalvieren",
+    "English": "To valviate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సరైనదిగా ఉండటం",
+    "German": "richtig liegen",
+    "English": "to be right",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దానిని సరిగ్గా చేయడానికి",
+    "German": "richtigmachen",
+    "English": "to do it right",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టోబోగన్",
+    "German": "rodeln",
+    "English": "toboggan",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెనక్కు నడవడానికి",
+    "German": "rückwärts gehen",
+    "English": "to walk backwards",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టుపక్కల ఉండటానికి",
+    "German": "rumhaben",
+    "English": "to have around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టూ తిరగడానికి",
+    "German": "rumkriegen",
+    "English": "to get around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కిందకు జారడానికి",
+    "German": "runterrutschen",
+    "English": "to slide down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నిండుగా ఉండటానికి",
+    "German": "satt bekommen",
+    "English": "to get full",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విసుగు చెందాలి",
+    "German": "satt haben",
+    "English": "to be fed up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డిస్మిస్ చేయడానికి",
+    "German": "schassieren",
+    "English": "to dismiss",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రచ్చ చేయడానికి",
+    "German": "schimpfieren",
+    "English": "to rant",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వదులుకోవడానికి..",
+    "German": "schlappmachen",
+    "English": "To give up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చెడుగా మారడం",
+    "German": "schlechtgehen",
+    "English": "to go bad",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టోబోగనింగ్",
+    "German": "schlitteln",
+    "English": "Tobogganing",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్మూడ్జ్ చేయడానికి",
+    "German": "schmuddeln",
+    "English": "to smudge",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్మూక్ చేయడానికి",
+    "German": "schmurgeln",
+    "English": "to smurk",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్నిబ్లింగ్ చేయడానికి",
+    "German": "schnabulieren",
+    "English": "to snibble",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రాయటానికి",
+    "German": "schreiben",
+    "English": "to write",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్పిన్ చేయడానికి",
+    "German": "schuddern",
+    "English": "To spin",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కష్టకాలం ఉండాలంటే..",
+    "German": "schwertun",
+    "English": "To have a hard time",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బీటిఫై చేయడానికి",
+    "German": "selig sprechen",
+    "English": "to beatify",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సౌటాచ్ కు",
+    "German": "soutachieren",
+    "English": "to soutach",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నడవడానికి",
+    "German": "spatiieren",
+    "English": "to walk",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సెట్ చేయడానికి",
+    "German": "statuieren",
+    "English": "to set",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కదలకుండా పడుకోవాలి",
+    "German": "stillliegen",
+    "English": "to lie still",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చప్పరించడానికి",
+    "German": "suckeln",
+    "English": "to suck",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సన్సిపేట్ చేయడానికి",
+    "German": "suszipieren",
+    "English": "To suscipate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కు",
+    "German": "tentieren",
+    "English": "To",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టోస్ట్",
+    "German": "toasten",
+    "English": "toast",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సహించు",
+    "German": "tolerieren",
+    "English": "tolerate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మొలక్కాయ",
+    "German": "tomatieren",
+    "English": "Tomato",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టమోటా",
+    "German": "tomatisieren",
+    "English": "Tomatoizing",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టన్సురింగ్",
+    "German": "tonsurieren",
+    "English": "Tonsuring",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టోట్టర్",
+    "German": "torkeln",
+    "English": "totter",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టార్పెడో",
+    "German": "torpedieren",
+    "English": "torpedo",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "Torquieren",
+    "German": "torquieren",
+    "English": "Torquieren",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మొత్తం చేయండి",
+    "German": "totalisieren",
+    "English": "totalize",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మరణానికి చిరాకు కలిగించడం",
+    "German": "totärgern",
+    "English": "to annoy to death",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చనిపోవడానికి",
+    "German": "totgehen",
+    "English": "To die",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చంపడానికి",
+    "German": "tothetzen",
+    "English": "to kill",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చంపడానికి",
+    "German": "totkriegen",
+    "English": "to kill",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చనిపోయిందని చెప్పాలంటే..",
+    "German": "totsagen",
+    "English": "To say dead",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టో",
+    "German": "treideln",
+    "English": "tow",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టోర్నమెంట్ లు",
+    "German": "turnieren",
+    "English": "Tournaments",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టూట్",
+    "German": "tuten",
+    "English": "toot",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఓవర్ బర్డెన్ కు",
+    "German": "überbürden",
+    "English": "to overburden",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఒకరిపై ఒకరు నిలబడటానికి",
+    "German": "übereinanderstehen",
+    "English": "to stand on top of each other",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఒకరిపై ఒకరు పైచేయి సాధించడం",
+    "German": "übereinanderstellen",
+    "English": "To put on top of each other",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్తంభింపజేయడానికి",
+    "German": "überfrieren",
+    "English": "to freeze over",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎత్తడానికి",
+    "German": "überheben",
+    "English": "to lift",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చిట్కా ఇవ్వడానికి",
+    "German": "überkippen",
+    "English": "to tip over",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కుట్టడానికి",
+    "German": "übernähen",
+    "English": "to sew over",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పైకి జారిపోవడానికి",
+    "German": "überrieseln",
+    "English": "to trickle over",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చల్లడానికి",
+    "German": "übersprenkeln",
+    "English": "to sprinkle",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మోసం చేయడానికి",
+    "German": "übertölpeln",
+    "English": "to dupe",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఓవర్ ఫ్లో కావడానికి",
+    "German": "überwallen",
+    "English": "to overflow",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అధిక చక్కెరకు",
+    "German": "überzuckern",
+    "English": "to over-sugar",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎడమ వైపు ఉంచడానికి",
+    "German": "übrig behalten",
+    "English": "to keep left",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దున్నడానికి",
+    "German": "umackern",
+    "English": "to plough",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దారిమార్పు కోసం",
+    "German": "umdirigieren",
+    "English": "to redirect",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టుపక్కల గుమిగూడడానికి",
+    "German": "umdrängen",
+    "English": "to crowd around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చీకటి పడటానికి",
+    "German": "umdüstern",
+    "English": "to darken",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఫ్యాన్ కు",
+    "German": "umfächeln",
+    "English": "to fan",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మోసం చేయడానికి",
+    "German": "umgaukeln",
+    "English": "to deceive",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కలిగి ఉండాలి",
+    "German": "umhaben",
+    "English": "to have",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అటూ ఇటూ తిరగడం",
+    "German": "umhergeistern",
+    "English": "to wander around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టూ తిరగడానికి",
+    "German": "umherjagen",
+    "English": "to chase around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అటూ ఇటూ తిరగడానికి",
+    "German": "umherschleichen",
+    "English": "to sneak around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టూ తిరగడానికి",
+    "German": "umherschlendern",
+    "English": "to stroll around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టూ తిరగడానికి",
+    "German": "umhertreiben",
+    "English": "to drift around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చుట్టూ తిరగడానికి",
+    "German": "umherwirbeln",
+    "English": "to whirl around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పరిగెత్తడానికి",
+    "German": "umrennen",
+    "English": "to run around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సాబెర్ కు",
+    "German": "umsäbeln",
+    "English": "to saber",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పొగడ్తలతో ముంచెత్తడానికి",
+    "German": "umschmeicheln",
+    "English": "to flatter",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తిరగబడటానికి",
+    "German": "umschmeißen",
+    "English": "to overturn",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కట్టేందుకు..",
+    "German": "umschnüren",
+    "English": "to tie up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డ్రైవింగ్ చేయడానికి",
+    "German": "umtreiben",
+    "English": "to drive around",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మార్పు రావాలంటే..",
+    "German": "umtun",
+    "English": "To change",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రమ్మేజ్ కు",
+    "German": "umwühlen",
+    "English": "to rummage",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తప్పించుకోవడానికి",
+    "German": "umzüngeln",
+    "English": "to circumvent",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తోడ్ లు",
+    "German": "unken",
+    "English": "toads",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉత్సాహపరచడానికి",
+    "German": "unterjubeln",
+    "English": "to cheer",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కిందకు దిగడానికి",
+    "German": "unterkriegen",
+    "English": "to get down",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మాట్లాడటానికి",
+    "German": "unterreden",
+    "English": "to talk",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తిరిగి పొందడానికి",
+    "German": "urbarisieren",
+    "English": "to reclaim",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అస్పష్టంగా ఉండటం",
+    "German": "vagieren",
+    "English": "to vague",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "భయపెట్టడానికి",
+    "German": "verängstigen",
+    "English": "to frighten",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తప్పు చేయడానికి",
+    "German": "verballhornen",
+    "English": "to make a mistake",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మృగానికి",
+    "German": "verbiestern",
+    "English": "to beast",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వైకల్యం చెందడానికి",
+    "German": "verbilden",
+    "English": "To deform",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మరింత తీవ్రం కావడానికి",
+    "German": "verbösern",
+    "English": "To Worsen",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రమాణం చేయడానికి",
+    "German": "vereidigen",
+    "English": "to swear in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దూసుకెళ్లడానికి",
+    "German": "vergaloppieren",
+    "English": "to gallop",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చిక్కుల్లో పడటం",
+    "German": "verhaspeln",
+    "English": "to get tangled",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రెచ్చగొట్టడానికి",
+    "German": "verhetzen",
+    "English": "to incite",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గుమిగూడేందుకు",
+    "German": "verhudeln",
+    "English": "to huddle",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉత్సాహపరచడానికి",
+    "German": "verjubeln",
+    "English": "to cheer",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎన్ క్రిప్ట్ చేయడానికి",
+    "German": "verklausulieren",
+    "English": "to encrypt",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తినడానికి",
+    "German": "verkonsumieren",
+    "English": "to consume",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఇష్టపడకపోవడం",
+    "German": "verleiden",
+    "English": "to dislike",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మంటలు చెలరేగడానికి",
+    "German": "verlodern",
+    "English": "To Blaze",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "హేతుబద్ధీకరించడానికి",
+    "German": "vernünfteln",
+    "English": "to rationalize",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కు",
+    "German": "verpieseln",
+    "English": "to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కు",
+    "German": "verpimpeln",
+    "English": "to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పేలిపోవడానికి",
+    "German": "verpulvern",
+    "English": "to blow away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కోల్పోవటానికి",
+    "German": "verrennen",
+    "English": "to get lost",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మునిగిపోవడానికి",
+    "German": "versacken",
+    "English": "to sink",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గందరగోళం సృష్టించడం",
+    "German": "versaubeuteln",
+    "English": "To mess up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మోసం చేయడానికి",
+    "German": "verschaukeln",
+    "English": "to fool",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కు",
+    "German": "verscheißern",
+    "English": "to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "భయపెట్టడానికి",
+    "German": "verscheuern",
+    "English": "to scare away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తిట్టడానికి",
+    "German": "verschimpfieren",
+    "English": "to scold",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "స్లిమ్ చేయడానికి",
+    "German": "verschleimen",
+    "English": "to slime",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బౌలింగ్ చేయడానికి",
+    "German": "verschusseln",
+    "English": "To Bowl",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఫిలిస్టిన్ కు",
+    "German": "verspießern",
+    "English": "to philistine",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "బుడగకు",
+    "German": "versprudeln",
+    "English": "to bubble",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "జారిపడటం",
+    "German": "verstolpern",
+    "English": "to stumble",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రుద్దడానికి",
+    "German": "verstrubbeln",
+    "English": "to rub",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రయత్నించడానికి",
+    "German": "versuchen",
+    "English": "to try",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డబ్బింగ్ చేయడానికి",
+    "German": "vertändeln",
+    "English": "to dabbling",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మరింత ఖరీదైనదిగా చేయడానికి",
+    "German": "verteuern",
+    "English": "to make it more expensive",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వర్టైజ్ చేయడానికి",
+    "German": "vertieren",
+    "English": "To Vertise",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సహించు",
+    "German": "vertragen",
+    "English": "tolerate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మోసం చేయడానికి",
+    "German": "vertrotteln",
+    "English": "to fool",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విశ్వసించడానికి",
+    "German": "vertrusten",
+    "English": "to trust",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మోసం చేయడానికి..",
+    "German": "vertüdern",
+    "English": "To Deceive",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఎగతాళి చేయడానికి",
+    "German": "verulken",
+    "English": "to make fun of",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గందరగోళం సృష్టించడం",
+    "German": "verwurschteln",
+    "English": "to muddle",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గొడవ పడటం",
+    "German": "verzanken",
+    "English": "to quarrel",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మాయగా ఉండటానికి",
+    "German": "vexieren",
+    "English": "to bewitch",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విడ్ చేయడానికి",
+    "German": "vidieren",
+    "English": "To vide",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వికారియట్ కు",
+    "German": "vikariieren",
+    "English": "To Vicariate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రుజువు చేయడానికి",
+    "German": "vindizieren",
+    "English": "to vindicate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నింపడానికి",
+    "German": "vollschütten",
+    "English": "to fill",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ముందుగానే అంచనా వేయడానికి",
+    "German": "vorausdatieren",
+    "English": "to predate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అంచనా వేయడానికి",
+    "German": "voraushaben",
+    "English": "to anticipate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నటించడానికి",
+    "German": "vorgaukeln",
+    "English": "to pretend",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఏడ్వడం",
+    "German": "vorjammern",
+    "English": "to whine",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దీనితో చేయడానికి",
+    "German": "vorlieb nehmen",
+    "English": "to make do with",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వంగడానికి",
+    "German": "vornüberbeugen",
+    "English": "to bend over",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాడి చేయడానికి",
+    "German": "vornüberfallen",
+    "English": "to attack",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పైకి వంగి ఉండటానికి",
+    "German": "vornüberkippen",
+    "English": "to tilt over",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తేలడానికి",
+    "German": "vorschweben",
+    "English": "to float",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వాదించడానికి..",
+    "German": "wegdiskutieren",
+    "English": "to argue away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దూరంగా నెట్టడానికి",
+    "German": "wegdrängen",
+    "English": "to push away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దూరంగా ఉండాలంటే..",
+    "German": "weghaben",
+    "English": "To get away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వదిలించుకోవడానికి",
+    "German": "wegmachen",
+    "English": "to get rid of",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "జారిపోవడానికి",
+    "German": "wegrutschen",
+    "English": "to slip away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లొంగిపోవడానికి",
+    "German": "wegsacken",
+    "English": "to sag away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దూరంగా వెళ్లిపోవడానికి",
+    "German": "wegscheuchen",
+    "English": "to shoo away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పారిపోవడానికి [",
+    "German": "wegschleichen [",
+    "English": "to sneak away [",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విసిరివేయబడాలి.",
+    "German": "wegschleudern",
+    "English": "To be thrown away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దొంగతనం చేసేందుకు..",
+    "German": "wegstehlen",
+    "English": "to steal away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దాటడానికి",
+    "German": "wegstreichen",
+    "English": "to cross out",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తాగడానికి",
+    "German": "wegtrinken",
+    "English": "to drink away",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ముందుకు సాగడానికి",
+    "German": "weiterbefördern",
+    "English": "to move on",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పనిచేయడానికి",
+    "German": "werkeln",
+    "English": "to work",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సవరణలు చేయడానికి",
+    "German": "wieder gutmachen",
+    "English": "to make amends",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తిరిగి రావడానికి",
+    "German": "wiederkriegen",
+    "English": "to get back",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కోరుకోవడానికి",
+    "German": "wollen",
+    "English": "to want",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దున్నడానికి..",
+    "German": "zackern",
+    "English": "To plough",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టౌస్లే",
+    "German": "zausen",
+    "English": "tousle",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రెపరెపలాడేందుకు",
+    "German": "zerflattern",
+    "English": "to flutter",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "రంధ్రం చేయడానికి",
+    "German": "zerlöchern",
+    "English": "to perforate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చిత్రహింస",
+    "German": "zermartern",
+    "English": "Torture",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విస్తృతం కావడానికి",
+    "German": "zersiedeln",
+    "English": "to sprawl",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఛిన్నాభిన్నం చేయడం",
+    "German": "zersprengen",
+    "English": "to shatter",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చెదరగొట్టడానికి",
+    "German": "zerstrahlen",
+    "English": "to disperse",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గొడవ పడటం",
+    "German": "zerstreiten",
+    "English": "to quarrel",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "టౌస్లే",
+    "German": "zerzausen",
+    "English": "tousle",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "చీలిపోవడానికి",
+    "German": "zerzupfen",
+    "English": "to tear apart",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గమనించాల్సిన విషయం ఏంటంటే..",
+    "German": "zetteln",
+    "English": "To note",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ఉండటానికి",
+    "German": "zu sein",
+    "English": "to be",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నిర్మించడానికి",
+    "German": "zubauen",
+    "English": "to build",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కాంక్రీట్ ఓవర్ కు",
+    "German": "zubetonieren",
+    "English": "to concrete over",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మంజూరు చేయడానికి",
+    "German": "zubilligen",
+    "English": "to grant",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెన్నకు",
+    "German": "zubuttern",
+    "English": "to butter",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నిర్దేశించడానికి",
+    "German": "zudiktieren",
+    "English": "to dictate",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "అర్థం చేసుకోవడానికి",
+    "German": "zufassen",
+    "English": "to grasp",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గుసగుసలాడటానికి",
+    "German": "zuflüstern",
+    "English": "to whisper",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సంతృప్తి చెందడానికి",
+    "German": "zufrieden geben",
+    "English": "to be satisfied",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నింపడానికి",
+    "German": "zufüllen",
+    "English": "to fill",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "ప్రయోజనం కోసం",
+    "German": "zugutehalten",
+    "English": "to the benefit of",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కత్తిరించడానికి",
+    "German": "zuhauen",
+    "English": "to slash",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నవ్వించడానికి",
+    "German": "zulachen",
+    "English": "to laugh",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కు",
+    "German": "zulaufen",
+    "English": "to",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కు",
+    "German": "zuleiten",
+    "English": "to the",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "గోరుకు",
+    "German": "zunageln",
+    "English": "to nail",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "సర్దుబాటు చేయడానికి",
+    "German": "zurechtrücken",
+    "English": "to adjust",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కలిసి చప్పట్లు కొట్టడానికి",
+    "German": "zurechtschustern",
+    "English": "to cobble together",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "మేకప్ కోసం..",
+    "German": "zurechtzimmern",
+    "English": "To make up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తిరిగి రవాణా చేయడానికి",
+    "German": "zurückbefördern",
+    "English": "To transport back",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తిరిగి రావడానికి",
+    "German": "zurückhaben",
+    "English": "to have back",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తిరిగి ఉంచడానికి",
+    "German": "zurückstecken",
+    "English": "to put back",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "వెనక్కి కొట్టడానికి",
+    "German": "zurückstoßen",
+    "English": "to knock back",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తిరిగి స్ట్రీమ్ చేయడానికి",
+    "German": "zurückströmen",
+    "English": "to stream back",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "తిరిగి చేయడానికి",
+    "German": "zurücktun",
+    "English": "to do back",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కలిసి ఉండటానికి",
+    "German": "zusammenhaben",
+    "English": "to have together",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కొట్టడానికి",
+    "German": "zusammenhauen",
+    "English": "to beat up",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కలిసి బంతి వేయడానికి",
+    "German": "zusammenknäueln",
+    "English": "to ball together",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కలిసి గుమిగూడేందుకు..",
+    "German": "zusammenläppern",
+    "English": "To Gather Together",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "పారవేయడానికి",
+    "German": "zuschaufeln",
+    "English": "to shovel",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దోహదపడటానికి",
+    "German": "zuschießen",
+    "English": "to contribute",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "కలిసి చప్పట్లు కొట్టడానికి",
+    "German": "zuschustern",
+    "English": "to cobble together",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "నింపడానికి",
+    "German": "zuschütten",
+    "English": "to fill in",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "దానికి వారు అర్హులు",
+    "German": "zustehen",
+    "English": "to which they are entitled",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "డ్రైవింగ్ చేయడానికి",
+    "German": "zutreiben",
+    "English": "to drive",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "విసిరేందుకు",
+    "German": "zuwerfen",
+    "English": "to throw",
+    "theme": "extra verbs"
+  },
+  {
+    "Article": "లెక్కించడానికి",
+    "German": "zuzählen",
+    "English": "to count",
+    "theme": "extra verbs"
   },
   {
     "Article": null,
