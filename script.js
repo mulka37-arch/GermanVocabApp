@@ -62844,7 +62844,1088 @@ const wordbankData = [
     "German": "Bitte informieren Sie mich noch heute.",
     "English": "Please inform me today.",
     "theme": "B1-Urgency"
+  },
+ {
+    "Article": null,
+    "German": "und",
+    "English": "and",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "oder",
+    "English": "or",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "aber",
+    "English": "but",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "denn",
+    "English": "because",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "sondern",
+    "English": "but rather / instead",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "sowohl … als auch",
+    "English": "both … and",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "weil",
+    "English": "because",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "dass",
+    "English": "that",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "wenn",
+    "English": "if / when",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "obwohl",
+    "English": "although",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "bevor",
+    "English": "before",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "nachdem",
+    "English": "after",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "während",
+    "English": "while",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "seit / seitdem",
+    "English": "since",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "damit",
+    "English": "so that",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "falls",
+    "English": "in case",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "um … zu",
+    "English": "in order to",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "deshalb / deswegen",
+    "English": "therefore",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "trotzdem",
+    "English": "however / nevertheless",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "außerdem",
+    "English": "moreover / additionally",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "dann",
+    "English": "then",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "danach",
+    "English": "afterwards",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "später",
+    "English": "later",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "zuerst",
+    "English": "first",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "schließlich",
+    "English": "finally",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "zuletzt",
+    "English": "lastly",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "Connector",
+    "English": "Meaning",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "allerdings",
+    "English": "however / though",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "daher",
+    "English": "therefore",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "sowohl…als auch",
+    "English": "both…and",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "weder … noch",
+    "English": "neither … nor",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "stattdessen",
+    "English": "instead",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "darum",
+    "English": "that's why",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "jedenfalls",
+    "English": "anyway / in any case",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "sofern",
+    "English": "provided that",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "folglich",
+    "English": "consequently / as a result",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "dennoch",
+    "English": "nevertheless / nonetheless",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "andernfalls",
+    "English": "otherwise",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "insofern",
+    "English": "as far as / insofar",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "hingegen",
+    "English": "on the other hand",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "somit",
+    "English": "thus / hence",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "ansonsten",
+    "English": "otherwise / apart from that",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "dennoch",
+    "English": "even so / still",
+    "theme": "connectors"
+  },
+  {
+    "Article": null,
+    "German": "wohingegen",
+    "English": "whereas / while",
+    "theme": "connectors"
+  },
+  {
+    "Article": "und",
+    "German": "Ich lerne Deutsch und ich arbeite.",
+    "English": "I learn German and I work.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "oder",
+    "German": "Möchtest du Kaffee oder Tee?",
+    "English": "Do you want coffee or tea?",
+    "theme": "connectors"
+  },
+  {
+    "Article": "aber",
+    "German": "Ich möchte reisen, aber ich habe kein Geld.",
+    "English": "I want to travel, but I have no money.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "denn",
+    "German": "Ich bleibe zu Hause, denn ich bin krank.",
+    "English": "I stay at home because I am sick.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "sondern",
+    "German": "Nicht Wasser, sondern Saft.",
+    "English": "Not water, but rather juice.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "sowohl … als auch",
+    "German": "Ich lerne sowohl Deutsch als auch Englisch.",
+    "English": "I learn both German and English.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "weil",
+    "German": "Ich gehe schlafen, weil ich müde bin.",
+    "English": "I go to sleep because I am tired.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "dass",
+    "German": "Ich denke, dass Deutsch wichtig ist.",
+    "English": "I think that German is important.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "wenn",
+    "German": "Wenn ich Zeit habe, gehe ich spazieren.",
+    "English": "When/If I have time, I go for a walk.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "obwohl",
+    "German": "Obwohl es regnet, gehe ich raus.",
+    "English": "Although it is raining, I go outside.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "bevor",
+    "German": "Ich frühstücke, bevor ich arbeite.",
+    "English": "I eat breakfast before I work.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "nachdem",
+    "German": "Nachdem ich gelernt habe, sehe ich fern.",
+    "English": "After I study, I watch TV.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "während",
+    "German": "Während ich esse, höre ich Musik.",
+    "English": "While I eat, I listen to music.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "seit / seitdem",
+    "German": "Ich lerne Deutsch, seitdem ich hier bin.",
+    "English": "I have been learning German since I have been here.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "damit",
+    "German": "Ich lerne viel, damit ich die Prüfung bestehe.",
+    "English": "I study a lot so that I pass the exam.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "falls",
+    "German": "Falls du Zeit hast, ruf mich an.",
+    "English": "In case you have time, call me.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "um … zu",
+    "German": "Ich lerne, um besser Deutsch zu sprechen.",
+    "English": "I learn in order to speak better German.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "deshalb / deswegen",
+    "German": "Es regnet. Deshalb gehe ich nicht raus.",
+    "English": "It is raining. Therefore I am not going outside.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "trotzdem",
+    "German": "Es ist spät. Trotzdem gehe ich spazieren.",
+    "English": "It is late. However, I go for a walk.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "außerdem",
+    "German": "Ich arbeite viel. Außerdem habe ich Kinder.",
+    "English": "I work a lot. Additionally, I have children.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "dann",
+    "German": "Ich stehe auf. Dann gehe ich zur Arbeit.",
+    "English": "I get up. Then I go to work.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "danach",
+    "German": "Ich esse Frühstück. Danach mache ich Sport.",
+    "English": "I eat breakfast. After that, I do sports.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "später",
+    "German": "Ich habe einen Termin. Später rufe ich dich an.",
+    "English": "I have an appointment. Later I will call you.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "zuerst",
+    "German": "Zuerst mache ich Kaffee.",
+    "English": "First, I make coffee.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "schließlich",
+    "German": "Schließlich gehe ich schlafen.",
+    "English": "Finally, I go to sleep.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "zuletzt",
+    "German": "Zuletzt überprüfe ich meine E-Mails.",
+    "English": "Lastly, I check my emails.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "Connector",
+    "German": "Example (German)",
+    "English": "English",
+    "theme": "connectors"
+  },
+  {
+    "Article": "allerdings",
+    "German": "Es ist teuer. Allerdings finde ich die Qualität gut.",
+    "English": "It is expensive; however, I find the quality good.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "daher",
+    "German": "Ich habe keine Zeit. Daher kann ich nicht kommen.",
+    "English": "I have no time. Therefore, I cannot come.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "sowohl…als auch",
+    "German": "Ich lerne sowohl Grammatik als auch Wortschatz.",
+    "English": "I learn both grammar and vocabulary.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "weder … noch",
+    "German": "Ich habe weder Zeit noch Geld.",
+    "English": "I have neither time nor money.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "stattdessen",
+    "German": "Ich wollte ins Kino. Stattdessen bleibe ich zu Hause.",
+    "English": "I wanted to go to the cinema. Instead, I stay home.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "darum",
+    "German": "Ich habe viel Stress. Darum mache ich Urlaub.",
+    "English": "I have a lot of stress. That’s why I take vacation.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "jedenfalls",
+    "German": "Das Wetter ist schlecht. Jedenfalls bleibe ich drinnen.",
+    "English": "The weather is bad. Anyway, I stay inside.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "sofern",
+    "German": "Du bekommst das Ticket, sofern du früh kommst.",
+    "English": "You get the ticket provided that you come early.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "folglich",
+    "German": "Ich habe meinen Zug verpasst. Folglich muss ich später fahren.",
+    "English": "I missed my train. Consequently, I must travel later.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "dennoch",
+    "German": "Es war sehr kalt. Dennoch ging ich spazieren.",
+    "English": "It was very cold. Nevertheless, I went for a walk.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "andernfalls",
+    "German": "Du musst rechtzeitig kommen, andernfalls bekommst du keine Eintrittskarte.",
+    "English": "You must come on time, otherwise you won't get a ticket.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "insofern",
+    "German": "Die Lösung ist gut, insofern sie rechtzeitig fertig wird.",
+    "English": "The solution is good, insofar as it is completed on time.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "hingegen",
+    "German": "Ich mag Kaffee. Hingegen trinkt meine Freundin nur Tee.",
+    "English": "I like coffee. On the other hand, my friend drinks only tea.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "somit",
+    "German": "Ich habe viel gelernt. Somit habe ich die Prüfung bestanden.",
+    "English": "I studied a lot. Thus, I passed the exam.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "ansonsten",
+    "German": "Die Wohnung ist klein. Ansonsten gefällt sie mir gut.",
+    "English": "The apartment is small. Otherwise, I like it a lot.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "dennoch",
+    "German": "Es ist schwierig. Dennoch versuche ich mein Bestes.",
+    "English": "It is difficult. Still, I try my best.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "wohingegen",
+    "German": "Ich bleibe gern zu Hause, wohingegen mein Bruder gern reist.",
+    "English": "I like staying at home, whereas my brother likes traveling.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "Deshalb",
+    "German": "Ich bin müde. Deshalb gehe ich schlafen.",
+    "English": "I am tired. Therefore, I am going to sleep.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "weil",
+    "German": "Ich bleibe zu Hause, weil ich müde bin.",
+    "English": "I stay at home because I am tired.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "Danach",
+    "German": "Ich esse. Danach spiele ich.",
+    "English": "I eat. After that, I play.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "Später",
+    "German": "Ich habe Schule. Später spiele ich.",
+    "English": "I have school. Later I will play.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "aber",
+    "German": "Ich möchte Pizza, aber sie ist teuer.",
+    "English": "I want pizza, but it is expensive.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "Dann",
+    "German": "Ich stehe auf. Dann gehe ich zur Arbeit.",
+    "English": "I get up. Then I go to work.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "Wenn",
+    "German": "Wenn ich Zeit habe, spiele ich Fußball.",
+    "English": "If/When I have time, I play football.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "Trotzdem",
+    "German": "Es regnet. Trotzdem gehe ich spazieren.",
+    "English": "It’s raining. However, I am going for a walk.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "Falls",
+    "German": "Falls du Zeit hast, ruf mich an.",
+    "English": "If you have time, call me.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "außerdem",
+    "German": "Ich arbeite viel und außerdem lerne ich Deutsch.",
+    "English": "I work a lot and in addition I learn German.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "weil",
+    "German": "Ich gehe nicht ins Kino, weil ich keine Zeit habe.",
+    "English": "I’m not going to the cinema because I have no time.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "obwohl",
+    "German": "Ich gehe spazieren, obwohl es regnet.",
+    "English": "I go for a walk although it is raining.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "dass",
+    "German": "Ich glaube, dass Deutsch wichtig ist.",
+    "English": "I believe that German is important.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "Dann",
+    "German": "Ich habe Frühstück. Dann mache ich Hausaufgaben.",
+    "English": "I eat breakfast. Then I do homework.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "Deshalb",
+    "German": "Ich habe keinen Hunger. Deshalb esse ich nichts.",
+    "English": "I am not hungry. Therefore, I won’t eat.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "Danach",
+    "German": "Ich habe Unterricht. Danach lerne ich Vokabeln.",
+    "English": "I have class. After that, I learn vocabulary.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "weder…noch",
+    "German": "Ich habe weder Zeit noch Geld.",
+    "English": "I have neither time nor money.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "seitdem",
+    "German": "Ich lerne Deutsch, seitdem ich in Deutschland bin.",
+    "English": "I have been learning German since I have been in Germany.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "aber",
+    "German": "Ich lerne jeden Tag, aber manchmal bin ich müde.",
+    "English": "I study every day, but sometimes I am tired.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "damit",
+    "German": "Ich lerne jeden Tag, damit ich besser werde.",
+    "English": "I study every day so that I become better.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "später",
+    "German": "Ich lerne jetzt und später mache ich Pause.",
+    "English": "I am studying now and later I will take a break.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "sowohl…als auch",
+    "German": "Ich lerne sowohl Grammatik als auch Vokabeln.",
+    "English": "I learn both grammar and vocabulary.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "damit",
+    "German": "Ich lerne viel, damit ich besser sprechen kann.",
+    "English": "I learn a lot so that I can speak better.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "um…zu",
+    "German": "Ich lerne viel, um die Prüfung zu bestehen.",
+    "English": "I study a lot in order to pass the exam.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "schließlich",
+    "German": "Ich mache meine Hausaufgaben. Schließlich gehe ich schlafen.",
+    "English": "I do my homework. Finally, I go to sleep.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "bevor",
+    "German": "Ich trinke Kaffee, bevor ich arbeite.",
+    "English": "I drink coffee before I work.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "nachdem",
+    "German": "Nachdem ich gegessen habe, gehe ich spazieren.",
+    "English": "After I have eaten, I go for a walk.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "sobald",
+    "German": "Sobald ich Zeit habe, rufe ich dich an.",
+    "English": "As soon as I have time, I will call you.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "während",
+    "German": "Während ich esse, höre ich Musik.",
+    "English": "While I eat, I listen to music.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "wenn",
+    "German": "Wenn es warm ist, gehen wir schwimmen.",
+    "English": "If/When it is warm, we go swimming.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "andernfalls",
+    "German": "Bitte bestätigen Sie den Termin, andernfalls kann ich nicht planen.",
+    "English": "Please confirm the appointment, otherwise I cannot plan.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "dass",
+    "German": "Ich finde, dass ein guter Kurs sowohl Theorie als auch Praxis bieten sollte.",
+    "English": "I think a good course should offer both theory and practice.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "somit",
+    "German": "Ich habe alle Dokumente vorbereitet, somit bin ich bereit für den Termin.",
+    "English": "I have prepared all documents, therefore I am ready for the appointment.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "hingegen",
+    "German": "Ich habe bereits einen Kurs besucht, hingegen brauche ich jetzt eine Prüfungsvorbereitung.",
+    "English": "I have already attended a course, whereas now I need exam preparation.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "dennoch",
+    "German": "Ich habe wenig Zeit, dennoch möchte ich am Kurs teilnehmen.",
+    "English": "I have little time, nevertheless I want to participate in the course.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "insofern",
+    "German": "Ich kann teilnehmen, insofern der Termin flexibel bleibt.",
+    "English": "I can participate as long as the appointment stays flexible.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "seitdem",
+    "German": "Ich melde mich bei Ihnen, seitdem ich Ihre E-Mail erhalten habe.",
+    "English": "I am contacting you since I received your email.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "wohingegen",
+    "German": "Ich möchte einen flexiblen Kurs, wohingegen der angebotene Kurs feste Zeiten hat.",
+    "English": "I want a flexible course, whereas the offered course has fixed times.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "damit",
+    "German": "Ich sende Ihnen diese Nachricht, damit alles klar ist.",
+    "English": "I am sending you this message so that everything is clear.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "um…zu",
+    "German": "Ich sende Ihnen meine Dokumente, um den Prozess zu beschleunigen.",
+    "English": "I am sending you my documents in order to speed up the process.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "folglich",
+    "German": "Ich war krank und konnte nicht kommen, folglich benötige ich einen neuen Termin.",
+    "English": "I was sick and could not come, therefore I need a new appointment.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "weder…noch",
+    "German": "Leider habe ich weder Informationen noch Unterlagen erhalten.",
+    "English": "Unfortunately, I have received neither information nor documents.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "sobald",
+    "German": "Sobald Sie mir antworten, kann ich alles vorbereiten.",
+    "English": "As soon as you reply, I can prepare everything.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "ansonsten",
+    "German": "Wir benötigen noch Unterlagen, ansonsten kann der Antrag nicht bearbeitet werden.",
+    "English": "We still need documents, otherwise the application cannot be processed.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "bevor",
+    "German": "Bevor ich zum Termin komme, möchte ich wissen, welche Unterlagen ich brauche.",
+    "English": "Before I come to the appointment, I want to know which documents I need.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "insofern",
+    "German": "Der Kurs ist gut, insofern er regelmäßig stattfindet.",
+    "English": "The course is good, as long as it takes place regularly.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "falls",
+    "German": "Falls Sie Fragen haben, können Sie mich jederzeit kontaktieren.",
+    "English": "If you have questions, you can contact me anytime.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "später",
+    "German": "Ich habe gerade einen Termin. Später melde ich mich bei Ihnen.",
+    "English": "I have an appointment now. Later, I will contact you.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "deshalb",
+    "German": "Ich habe Ihre Nachricht erhalten, deshalb möchte ich einen Termin vereinbaren.",
+    "English": "I received your message, therefore I want to schedule an appointment.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "trotzdem",
+    "German": "Ich habe wenig Zeit. Trotzdem möchte ich an Ihrem Kurs teilnehmen.",
+    "English": "I have little time. However, I would like to participate in your course.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "außerdem",
+    "German": "Ich interessiere mich für Ihren Kurs und außerdem möchte ich weitere Informationen erhalten.",
+    "English": "I am interested in your course and additionally I would like more information.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "weil",
+    "German": "Ich kann leider nicht teilnehmen, weil ich einen wichtigen Termin habe.",
+    "English": "Unfortunately, I cannot participate because I have an important appointment.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "danach",
+    "German": "Ich komme zum Termin und danach sende ich Ihnen die Dokumente.",
+    "English": "I will come to the appointment and after that I will send you the documents.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "dass",
+    "German": "Ich möchte Ihnen sagen, dass ich an dem Kurs teilnehmen möchte.",
+    "English": "I would like to tell you that I want to participate in the course.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "dann",
+    "German": "Ich möchte morgen kommen. Dann bespreche ich alles mit Ihnen.",
+    "English": "I want to come tomorrow. Then I will discuss everything with you.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "damit",
+    "German": "Ich sende Ihnen alle Dokumente, damit Sie alles prüfen können.",
+    "English": "I am sending you all documents so that you can check everything.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "schließlich",
+    "German": "Ich sende Ihnen alle Unterlagen und schließlich bitte ich um eine Bestätigung.",
+    "English": "I send you all documents and finally I ask for a confirmation.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "andernfalls",
+    "German": "Man sollte regelmäßig lernen, andernfalls vergisst man schnell.",
+    "English": "One should study regularly, otherwise one forgets quickly.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "nachdem",
+    "German": "Nachdem ich Ihre E-Mail gelesen habe, möchte ich einen Termin bestätigen.",
+    "English": "After reading your email, I would like to confirm an appointment.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "obwohl",
+    "German": "Obwohl ich schon viele Termine habe, möchte ich am Kurs teilnehmen.",
+    "English": "Although I already have many appointments, I want to join the course.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "sobald",
+    "German": "Sobald die Menschen Zeit finden, machen sie Urlaub.",
+    "English": "As soon as people find time, they go on holiday.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "somit",
+    "German": "Viele Arbeitgeber verlangen Sprachkenntnisse, somit ist Deutschlernen sehr wichtig.",
+    "English": "Many employers require language skills, therefore learning German is very important.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "folglich",
+    "German": "Viele Menschen bewegen sich wenig, folglich steigen gesundheitliche Probleme.",
+    "English": "Many people move very little, therefore health problems increase.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "ansonsten",
+    "German": "Viele Menschen haben keine Zeit für Hobbys, ansonsten wären sie entspannter.",
+    "English": "Many people have no time for hobbies, otherwise they would be more relaxed.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "hingegen",
+    "German": "Viele Menschen lernen gern allein, hingegen arbeite ich lieber in Gruppen.",
+    "English": "Many people like studying alone, whereas I prefer working in groups.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "um…zu",
+    "German": "Viele Menschen machen Sport, um gesund zu bleiben.",
+    "English": "Many people do sports in order to stay healthy.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "weder…noch",
+    "German": "Viele Menschen machen weder Sport noch achten sie auf Ernährung.",
+    "English": "Many people neither exercise nor pay attention to nutrition.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "sowohl…als auch",
+    "German": "Viele Menschen möchten sowohl arbeiten als auch reisen.",
+    "English": "Many people want both to work and to travel.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "wohingegen",
+    "German": "Viele Menschen mögen Sport, wohingegen andere lieber zu Hause bleiben.",
+    "English": "Many people like sports, whereas others prefer staying at home.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "damit",
+    "German": "Viele Menschen sparen Geld, damit sie später reisen können.",
+    "English": "Many people save money so that they can travel later.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "seitdem",
+    "German": "Viele Menschen verbessern ihr Deutsch, seitdem sie regelmäßig sprechen.",
+    "English": "Many people improve their German since they speak regularly.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "dennoch",
+    "German": "Viele Menschen wissen, dass Rauchen ungesund ist, dennoch rauchen sie weiter.",
+    "English": "Many people know that smoking is unhealthy, yet they continue to smoke.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "aber",
+    "German": "Vielen Dank für Ihre Einladung, aber ich muss leider absagen.",
+    "English": "Thank you for your invitation, but unfortunately I must decline.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "während",
+    "German": "Während ich auf Ihre Antwort warte, bereite ich Dokumente vor.",
+    "English": "While I wait for your reply, I prepare documents.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "wenn",
+    "German": "Wenn Sie möchten, kann ich Ihnen weitere Informationen schicken.",
+    "English": "If you want, I can send you more information.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "falls",
+    "German": "Falls es möglich ist, möchte ich morgen kommen.",
+    "English": "If possible, I would like to come tomorrow.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "dass",
+    "German": "Ich bin der Meinung, dass regelmäßige Bewegung gesund ist.",
+    "English": "I believe that regular exercise is healthy.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "weil",
+    "German": "Ich finde Online-Unterricht besser, weil er flexibler ist.",
+    "English": "I think online lessons are better because they are more flexible.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "aber",
+    "German": "Ich finde Sport wichtig, aber viele Menschen haben keine Zeit dafür.",
+    "English": "I think sport is important, but many people don’t have time for it.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "damit",
+    "German": "Ich finde, man sollte Pausen machen, damit man konzentriert bleibt.",
+    "English": "I think people should take breaks so that they stay focused.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "bevor",
+    "German": "Menschen sollen sich informieren, bevor sie entscheiden.",
+    "English": "People should get information before they make decisions.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "nachdem",
+    "German": "Nachdem viele Menschen Sport gemacht haben, fühlen sie sich besser.",
+    "English": "After many people have exercised, they feel better.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "obwohl",
+    "German": "Obwohl viele Menschen wenig Zeit haben, sollten sie Sport machen.",
+    "English": "Although many people have little time, they should do sports.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "danach",
+    "German": "Viele Leute arbeiten hart. Danach wollen sie Zeit für Familie.",
+    "English": "Many people work hard. After that, they want time for family.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "außerdem",
+    "German": "Viele Leute haben wenig Zeit, und außerdem sind sie oft gestresst.",
+    "English": "Many people have little time, and in addition they are often stressed.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "dann",
+    "German": "Viele Menschen arbeiten lange. Dann brauchen sie Ruhe.",
+    "English": "Many people work long hours. Then they need rest.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "aber",
+    "German": "Viele Menschen haben Stress, aber später finden sie eine Lösung.",
+    "English": "Many people are stressed, but later they find a solution.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "deshalb",
+    "German": "Viele Menschen haben Stress, deshalb sollten sie Pausen machen.",
+    "English": "Many people are stressed, therefore they should take breaks.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "schließlich",
+    "German": "Viele Menschen probieren viele Methoden und schließlich finden sie eine gute Lösung.",
+    "English": "Many people try many methods and finally they find a good solution.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "trotzdem",
+    "German": "Viele Menschen wissen, dass Sport wichtig ist. Trotzdem machen sie keinen Sport.",
+    "English": "Many people know that sport is important. However, they do not exercise.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "während",
+    "German": "Während viele Leute im Büro arbeiten, arbeite ich lieber von zu Hause.",
+    "English": "While many people work in the office, I prefer working from home.",
+    "theme": "connectors"
+  },
+  {
+    "Article": "wenn",
+    "German": "Wenn Menschen regelmäßig Sport machen, bleiben sie gesund.",
+    "English": "If people exercise regularly, they stay healthy.",
+    "theme": "connectors"
   }
+
 ];
 
 // Group words by theme
