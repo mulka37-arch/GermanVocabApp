@@ -12,8 +12,2371 @@ let speechRate = 0.8;
 let currentWords = [];
 
 const wordbankData = [
-
-    {
+  {
+    "Article": null,
+    "German": "Vielen Dank im Voraus für Ihre Hilfe.",
+    "English": "Thank you in advance for your help.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für Ihre Zeit und Unterstützung.",
+    "English": "I thank you for your time and support.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf Ihre Rückmeldung.",
+    "English": "I look forward to your reply.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich wäre Ihnen für eine schnelle Antwort sehr dankbar.",
+    "English": "I would be very grateful for a quick response.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte lassen Sie mich wissen wenn, Sie weitere Informationen benötigen.",
+    "English": "Please let me know if you need more information.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe auf eine positive Rückmeldung.",
+    "English": "I hope for a positive response.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank dass Sie sich um mein Anliegen kümmern",
+    "English": "Thank you for taking care of my request.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Über eine baldige Antwort würde ich mich freuen.",
+    "English": "I would appreciate an answer soon.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen im Voraus für Ihr Verständnis.",
+    "English": "Thank you in advance for your understanding.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Unterstützung.",
+    "English": "Thank you for your support.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich bald von Ihnen zu hören.",
+    "English": "I look forward to hearing from you soon.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Aufmerksamkeit.",
+    "English": "Thank you for your attention.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Für eine schnelle Bearbeitung danke ich Ihnen.",
+    "English": "Thank you for processing this quickly.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte um Rückmeldung sobald es möglich ist.",
+    "English": "Please respond as soon as possible.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Mühe.",
+    "English": "Thank you for your effort.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe dass wir eine passende Lösung finden können.",
+    "English": "I hope we can find a suitable solution.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Sollten Sie Fragen haben stehe ich Ihnen gern zur Verfügung.",
+    "English": "If you have any questions, I am available.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank dass Sie sich die Zeit genommen haben.",
+    "English": "Thank you for taking the time.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf Ihre Antwort und verbleibe.",
+    "English": "I look forward to your response and remain.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihr Verständnis und Ihre Geduld.",
+    "English": "Thank you for your understanding and patience.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte bestätigen Sie mir dies kurz per E-Mail.",
+    "English": "Please confirm this briefly by email.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bedanke mich herzlich für Ihre Unterstützung.",
+    "English": "I sincerely thank you for your support.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich würde mich freuen wenn Sie mir bald antworten könnten.",
+    "English": "I would be pleased if you could reply soon.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für die Bearbeitung meiner Anfrage.",
+    "English": "Thank you for processing my request.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Mit Dank und freundlichen Grüßen.",
+    "English": "With thanks and kind regards.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich schreibe Ihnen wegen meiner Anmeldung.",
+    "English": "I am writing to you regarding my registration.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte mich über Ihren Kurs informieren.",
+    "English": "I would like to inquire about your course.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte weitere Informationen schicken?",
+    "English": "Could you please send me more information?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe eine Frage zu Ihrem Angebot.",
+    "English": "I have a question about your offer.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich benötige genauere Details zum Ablauf.",
+    "English": "I need more details about the process.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte wissen ob es noch freie Plätze gibt.",
+    "English": "I would like to know if there are still available places.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es alternative Termine?",
+    "English": "Are there alternative appointments?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Wie lange dauert der Kurs?",
+    "English": "How long does the course last?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Wie hoch sind die Kosten?",
+    "English": "How much are the fees?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte die aktuellen Preise senden?",
+    "English": "Could you please send me the current prices?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich interessiere mich für die angebotene Dienstleistung.",
+    "English": "I am interested in the service offered.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte informieren Sie mich über verfügbare Zeiten.",
+    "English": "Please inform me about available times.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie am Nachmittag oder Abend Termine?",
+    "English": "Do you have appointments in the afternoon or evening?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte den Termin gern ändern.",
+    "English": "I would like to change the appointment.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich muss leider meinen Termin absagen.",
+    "English": "Unfortunately, I have to cancel my appointment.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Meine Arbeitszeiten haben sich geändert.",
+    "English": "My working hours have changed.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Wann wäre ein neuer Termin möglich?",
+    "English": "When would a new appointment be possible?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte einen neuen Termin vereinbaren.",
+    "English": "I would like to schedule a new appointment.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte Sie um eine Terminbestätigung.",
+    "English": "I request confirmation of the appointment.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte mitteilen ob das möglich ist?",
+    "English": "Could you please let me know if that is possible?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es freie Plätze am Wochenende?",
+    "English": "Are there available spaces on the weekend?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich wäre dankbar für eine schnelle Rückmeldung.",
+    "English": "I would be grateful for a quick answer.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte informieren Sie mich über die nächsten Schritte.",
+    "English": "Please inform me of the next steps.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich benötige Ihre Rückmeldung um weiterzumachen.",
+    "English": "I need your response to proceed.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie mir bitte den Ablauf erklären?",
+    "English": "Can you please explain the procedure?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe ein Problem mit meiner Anmeldung.",
+    "English": "I have a problem with my registration.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Leider funktioniert etwas nicht richtig.",
+    "English": "Unfortunately something is not working correctly.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin mit dem Service unzufrieden.",
+    "English": "I am not satisfied with the service.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte um eine Lösung.",
+    "English": "I request a solution.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie das bitte überprüfen?",
+    "English": "Could you please check that?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte eine Beschwerde einreichen.",
+    "English": "I would like to file a complaint.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte um eine Rückerstattung.",
+    "English": "I request a refund.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es eine Möglichkeit zum Umtausch?",
+    "English": "Is there a possibility to exchange it?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe dass Sie mir helfen können.",
+    "English": "I hope you can help me.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte eine Rückmeldung geben?",
+    "English": "Could you please give me feedback?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Im Anhang finden Sie die benötigten Dokumente.",
+    "English": "You will find the required documents attached.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte teilen Sie mir mit ob weitere Unterlagen nötig sind.",
+    "English": "Please let me know if more documents are required.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir eine Bestätigung senden?",
+    "English": "Could you send me a confirmation?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich sende Ihnen die Rechnung per E-Mail.",
+    "English": "I am sending you the invoice by email.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe die Dokumente bereits eingereicht.",
+    "English": "I have already submitted the documents.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte überprüfen Sie die Daten.",
+    "English": "Please check the data.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich warte auf Ihre Bestätigung.",
+    "English": "I am waiting for your confirmation.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte bestätigen Sie den Eingang meiner Unterlagen.",
+    "English": "Please confirm receipt of my documents.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf die Zusammenarbeit.",
+    "English": "I look forward to working together.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bedanke mich für Ihre schnelle Antwort.",
+    "English": "Thank you for your quick answer.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin Ihnen sehr dankbar für Ihre Unterstützung.",
+    "English": "I am very grateful for your support.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Es wäre sehr freundlich wenn Sie mir dabei helfen könnten.",
+    "English": "It would be very kind if you could help me.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte halten Sie mich auf dem Laufenden.",
+    "English": "Please keep me updated.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich melde mich wieder sobald ich neue Informationen habe.",
+    "English": "I will contact you again as soon as I have new information.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe dass wir bald eine Lösung finden.",
+    "English": "I hope we find a solution soon.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für Ihr Verständnis.",
+    "English": "Thank you for your understanding.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich über eine positive Entscheidung.",
+    "English": "I look forward to a positive decision.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte informieren Sie mich sobald es Neuigkeiten gibt.",
+    "English": "Please inform me as soon as there is news.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe auf eine schnelle Bearbeitung.",
+    "English": "I hope for quick processing.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen nochmals herzlich.",
+    "English": "Thank you once again sincerely.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte antworten Sie mir so schnell wie möglich.",
+    "English": "Please reply to me as soon as possible.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich wäre Ihnen dankbar für eine kurze Rückmeldung.",
+    "English": "I would appreciate a short response.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe dass alles klappt.",
+    "English": "I hope everything works out.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich über weitere Informationen.",
+    "English": "I look forward to more information.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bedanke mich für Ihre Kooperation.",
+    "English": "Thank you for your cooperation.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich warte auf Ihre Antwort.",
+    "English": "I am waiting for your reply.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte entschuldigen Sie die Umstände.",
+    "English": "Please excuse the inconvenience.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Geduld.",
+    "English": "Thank you for your patience.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin zuversichtlich dass wir eine Lösung finden.",
+    "English": "I am confident we will find a solution.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich über eine Rückmeldung.",
+    "English": "I look forward to feedback.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte senden Sie mir eine schriftliche Bestätigung.",
+    "English": "Please send me a written confirmation.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für die Bearbeitung.",
+    "English": "Thank you for processing it.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich darauf von Ihnen zu hören.",
+    "English": "I look forward to hearing from you.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für Ihr Vertrauen.",
+    "English": "Thank you for your trust.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe auf eine baldige Antwort.",
+    "English": "I hope for a response soon.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gerne warte ich auf Ihre Rückmeldung.",
+    "English": "Gladly, I will wait for your reply.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte kontaktieren Sie mich wenn Sie Zeit haben.",
+    "English": "Please contact me when you have time.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Nochmals vielen Dank für Ihre Hilfe.",
+    "English": "Thank you again for your help.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin Ihnen sehr dankbar.",
+    "English": "I am very grateful to you.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Mit freundlichen Grüßen",
+    "English": "Kind regards.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe es geht Ihnen gut.",
+    "English": "I hope you are doing well.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe Sie hatten ein schönes Wochenende.",
+    "English": "I hope you had a nice weekend.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich wende mich heute mit einer Anfrage an Sie.",
+    "English": "I am contacting you today with a request.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich schreibe Ihnen aufgrund Ihrer Anzeige.",
+    "English": "I am writing to you because of your advertisement.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte mich kurz vorstellen.",
+    "English": "I would like to briefly introduce myself.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Mein Name ist ___ und ich wohne in __.",
+    "English": "My name is ___ and I live in __.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin Teilnehmer Ihres Kurses und habe eine Frage.",
+    "English": "I am a participant in your course and I have a question.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe Ihre Kontaktinformationen online gefunden.",
+    "English": "I found your contact information online.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich schreibe weil ich Unterstützung benötige.",
+    "English": "I am writing because I need assistance.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe Sie können mir helfen.",
+    "English": "I hope you can help me.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich interessiere mich für Ihr Angebot.",
+    "English": "I am interested in your offer.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte Informationen über die Kurszeiten.",
+    "English": "I would like information about the course times.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte mich für den Deutschkurs anmelden.",
+    "English": "I would like to register for the German course.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte nach verfügbaren Plätzen fragen.",
+    "English": "I would like to ask about available spots.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe eine Frage zu den Teilnahmebedingungen.",
+    "English": "I have a question about the participation requirements.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte meine persönlichen Daten aktualisieren.",
+    "English": "I would like to update my personal information.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche Hilfe beim Anmeldeformular.",
+    "English": "I need help with the registration form.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte meine Buchung bestätigen.",
+    "English": "I would like to confirm my booking.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte meine Anmeldung stornieren.",
+    "English": "I would like to cancel my registration.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte wissen welche Unterlagen nötig sind.",
+    "English": "I want to know which documents are required.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte die verfügbaren Termine senden?",
+    "English": "Could you please send me the available dates?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es einen Termin nächste Woche?",
+    "English": "Is there an appointment next week?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte den Termin verschieben.",
+    "English": "I would like to reschedule the appointment.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Der vorgeschlagene Termin passt mir nicht.",
+    "English": "The suggested appointment does not work for me.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann leider an diesem Datum nicht teilnehmen.",
+    "English": "Unfortunately, I cannot attend on that date.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie mir einen alternativen Termin anbieten?",
+    "English": "Can you offer me an alternative appointment?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Können wir den Termin telefonisch oder online durchführen?",
+    "English": "Can we hold the appointment by phone or online?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte einen Termin für ein Gespräch vereinbaren.",
+    "English": "I would like to schedule an appointment for a discussion.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte um Bestätigung des neuen Termins.",
+    "English": "I request confirmation of the new appointment.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es Wartezeiten für einen Termin?",
+    "English": "Are there waiting times for an appointment?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie bitte genauer erklären wie das funktioniert?",
+    "English": "Could you please explain in more detail how this works?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe eine Frage zum Ablauf.",
+    "English": "I have a question about the procedure.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin mir nicht sicher ob ich alles richtig verstanden habe.",
+    "English": "I am not sure if I understood everything correctly.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte ein Beispiel geben?",
+    "English": "Could you please give me an example?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie eine Anleitung oder ein Infoblatt?",
+    "English": "Do you have instructions or an information sheet?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Was bedeutet dieser Schritt genau?",
+    "English": "What exactly does this step mean?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche mehr Informationen bevor ich weitermache.",
+    "English": "I need more information before I continue.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte erklären Sie mir wie ich weiter vorgehen soll.",
+    "English": "Please explain to me how I should proceed.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte sicherstellen dass ich alles korrekt mache.",
+    "English": "I want to make sure I am doing everything correctly.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie das bitte schriftlich bestätigen?",
+    "English": "Could you please confirm that in writing?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin unzufrieden mit der aktuellen Situation.",
+    "English": "I am dissatisfied with the current situation.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Leider gab es ein Missverständnis.",
+    "English": "Unfortunately there was a misunderstanding.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Die Informationen waren unklar.",
+    "English": "The information was unclear.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe bisher keine Rückmeldung erhalten.",
+    "English": "I have not received a response so far.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Der Kurs entspricht nicht meinen Erwartungen.",
+    "English": "The course does not meet my expectations.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Die Qualität des Produkts ist schlecht.",
+    "English": "The quality of the product is poor.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe einen Fehler in der Rechnung gefunden.",
+    "English": "I found an error in the invoice.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte eine offizielle Beschwerde einreichen.",
+    "English": "I would like to file an official complaint.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte um eine schnelle Lösung.",
+    "English": "I request a fast solution.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte erklären was passiert ist?",
+    "English": "Could you please explain what happened?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich über eine mögliche Zusammenarbeit.",
+    "English": "I look forward to a possible collaboration.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich glaube dass wir gemeinsam eine Lösung finden können.",
+    "English": "I believe we can find a solution together.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin flexibel und offen für Vorschläge.",
+    "English": "I am flexible and open to suggestions.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnte man ein persönliches Gespräch vereinbaren?",
+    "English": "Could we arrange a personal meeting?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich über neue Möglichkeiten.",
+    "English": "I am happy about new opportunities.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für die angenehme Kommunikation.",
+    "English": "Thank you for the pleasant communication.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe auf eine langfristige Zusammenarbeit.",
+    "English": "I hope for a long-term cooperation.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin an zukünftigen Angeboten interessiert.",
+    "English": "I am interested in future offers.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich würde gerne mehr über Ihre Organisation erfahren.",
+    "English": "I would like to learn more about your organization.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich schätze Ihre Unterstützung sehr.",
+    "English": "I appreciate your support very much.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Im Anhang finden Sie meine Dokumente.",
+    "English": "You will find my documents attached.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich sende Ihnen meine Bewerbung per E-Mail.",
+    "English": "I am sending you my application by email.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte bestätigen Sie den Erhalt der Unterlagen.",
+    "English": "Please confirm receipt of the documents.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe alle benötigten Dokumente hinzugefügt.",
+    "English": "I have attached all required documents.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Fehlt noch etwas für meine Anmeldung?",
+    "English": "Is there anything missing for my registration?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe eine aktualisierte Version beigefügt.",
+    "English": "I have attached an updated version.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte informieren Sie mich falls etwas fehlt.",
+    "English": "Please inform me if something is missing.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe die Rechnung beigefügt.",
+    "English": "I have attached the invoice.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte sagen ob alles vollständig ist?",
+    "English": "Could you please tell me if everything is complete?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe alle Dateien erfolgreich hochgeladen.",
+    "English": "I uploaded all files successfully.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte nachfragen ob es Neuigkeiten gibt.",
+    "English": "I would like to ask if there are any updates.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie meine letzte Nachricht erhalten?",
+    "English": "Did you receive my last message?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich warte noch auf Ihre Rückmeldung.",
+    "English": "I am still waiting for your response.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte kurz Bescheid geben?",
+    "English": "Could you please let me know briefly?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe ich störe Sie nicht.",
+    "English": "I hope I am not bothering you.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich wollte höflich nachfragen.",
+    "English": "I just wanted to ask politely.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich würde mich freuen wenn Sie sich melden.",
+    "English": "I would be happy if you contacted me.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe dass meine Nachricht angekommen ist.",
+    "English": "I hope my message arrived.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es schon eine Entscheidung?",
+    "English": "Is there already a decision?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte eine kurze Rückmeldung geben?",
+    "English": "Could you please give me a short reply?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte helfen?",
+    "English": "Could you please help me?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Dürfte ich Sie um Unterstützung bitten?",
+    "English": "May I ask you for assistance?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Wäre es möglich einen Termin zu bekommen?",
+    "English": "Would it be possible to get an appointment?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte um Informationen bitten.",
+    "English": "I would like to request information.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie mir bitte sagen wie ich weitermachen soll?",
+    "English": "Can you please tell me how I should continue?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hätte gern eine kurze Erklärung.",
+    "English": "I would like a short explanation.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte das Formular schicken?",
+    "English": "Could you please send me the form?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte eine Liste der Dokumente senden?",
+    "English": "Could you please send me a list of the documents?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Wäre es möglich den Termin zu ändern?",
+    "English": "Would it be possible to change the appointment?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hätte gern eine schriftliche Bestätigung.",
+    "English": "I would like a written confirmation.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Es tut mir leid falls ich Umstände mache.",
+    "English": "I'm sorry if I cause inconvenience.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte mich für die Verzögerung entschuldigen.",
+    "English": "I would like to apologize for the delay.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe auf Ihr Verständnis.",
+    "English": "I hope for your understanding.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Geduld mit dieser Angelegenheit.",
+    "English": "Thank you for your patience with this matter.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich schätze Ihre Zeit sehr.",
+    "English": "I value your time very much.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank im Voraus für Ihre Rückmeldung.",
+    "English": "Thank you in advance for your response.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte höflich nachfragen.",
+    "English": "I would like to ask politely.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe die Anfrage ist nicht zu kurzfristig.",
+    "English": "I hope the request is not too short notice.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte lassen Sie mich wissen ob das möglich ist.",
+    "English": "Please let me know if that is possible.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Mit besten Grüßen",
+    "English": "Best regards.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Hiermit möchte ich mich für die ausgeschriebene Stelle bewerben.",
+    "English": "I would like to apply for the advertised position.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin sehr interessiert an dieser Möglichkeit.",
+    "English": "I am very interested in this opportunity.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich sende Ihnen meine vollständigen Bewerbungsunterlagen.",
+    "English": "I am sending you my complete application documents.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte Informationen zum Bewerbungsprozess geben?",
+    "English": "Could you please give me information about the application process?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf ein persönliches Gespräch.",
+    "English": "I look forward to a personal interview.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich wäre dankbar für eine Rückmeldung zu meiner Bewerbung.",
+    "English": "I would appreciate feedback on my application.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte meine Bewerbung zurückziehen.",
+    "English": "I would like to withdraw my application.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe auf eine positive Entscheidung.",
+    "English": "I hope for a positive decision.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte informieren Sie mich über den weiteren Ablauf.",
+    "English": "Please inform me about the next steps.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für die Berücksichtigung meiner Bewerbung.",
+    "English": "Thank you for considering my application.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe ein Problem mit einer Zahlung.",
+    "English": "I have an issue with a payment.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Der Betrag wurde doppelt abgebucht.",
+    "English": "The amount was charged twice.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte um eine Rückerstattung.",
+    "English": "I request a refund.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie bitte den Betrag überprüfen?",
+    "English": "Could you please check the amount?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe eine falsche Rechnung erhalten.",
+    "English": "I received an incorrect invoice.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte den Vertrag kündigen.",
+    "English": "I would like to cancel the contract.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es eine Kündigungsfrist?",
+    "English": "Is there a cancellation period?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte bestätigen Sie die Kündigung schriftlich.",
+    "English": "Please confirm the cancellation in writing.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich warte seit zwei Wochen auf eine Antwort.",
+    "English": "I have been waiting for an answer for two weeks.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte Sie erneut um eine Rückmeldung.",
+    "English": "I kindly request a response again.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe eine Frage zu meiner Reservierung.",
+    "English": "I have a question about my reservation.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es eine Möglichkeit das Datum zu ändern?",
+    "English": "Is there a possibility to change the date?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte meine Buchung verlängern.",
+    "English": "I would like to extend my booking.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es freie Zimmer zu diesem Zeitraum?",
+    "English": "Are there available rooms during that time?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte senden Sie mir eine Bestätigung meiner Buchung.",
+    "English": "Please send me a confirmation of my booking.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich benötige eine Rechnung für die Firma.",
+    "English": "I need an invoice for the company.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich komme später an als geplant.",
+    "English": "I will arrive later than planned.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte einen Sitzplatz reservieren.",
+    "English": "I would like to reserve a seat.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte die Stornierungsbedingungen schicken?",
+    "English": "Could you please send me the cancellation policies?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für die Organisation.",
+    "English": "Thank you for the organization.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich suche eine Wohnung und habe Ihre Anzeige gesehen.",
+    "English": "I am looking for an apartment and saw your advertisement.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hätte gern einen Besichtigungstermin.",
+    "English": "I would like a viewing appointment.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Wie hoch ist die monatliche Miete?",
+    "English": "How much is the monthly rent?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Welche Unterlagen benötigen Sie für die Bewerbung?",
+    "English": "Which documents do you need for the rental application?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es zusätzliche Nebenkosten?",
+    "English": "Are there additional utility costs?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin noch interessiert und würde gern weitermachen.",
+    "English": "I am still interested and would like to proceed.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte den Mietvertrag schicken?",
+    "English": "Could you please send me the rental contract?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte meinen Mietvertrag kündigen.",
+    "English": "I would like to end/terminate my rental contract.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte bestätigen Sie den Eingang meines Kündigungsschreibens.",
+    "English": "Please confirm receipt of my cancellation letter.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Unterstützung während der Mietzeit.",
+    "English": "Thank you for your support during the rental period.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe eine Frage zur Prüfungsanmeldung.",
+    "English": "I have a question about the exam registration.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte mich für die Prüfung anmelden.",
+    "English": "I would like to register for the exam.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es verfügbare Termine im nächsten Monat?",
+    "English": "Are there available dates next month?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "German Sentence",
+    "English": "English Meaning",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank im Voraus für Ihre Hilfe.",
+    "English": "Thank you in advance for your help.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für Ihre Zeit und Unterstützung.",
+    "English": "I thank you for your time and support.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf Ihre Rückmeldung.",
+    "English": "I look forward to your reply.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich wäre Ihnen für eine schnelle Antwort sehr dankbar.",
+    "English": "I would be very grateful for a quick response.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte lassen Sie mich wissen wenn Sie weitere Informationen benötigen.",
+    "English": "Please let me know if you need more information.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe auf eine positive Rückmeldung.",
+    "English": "I hope for a positive response.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank dass Sie sich um mein Anliegen kümmern.",
+    "English": "Thank you for taking care of my request.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Über eine baldige Antwort würde ich mich freuen.",
+    "English": "I would appreciate an answer soon.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen im Voraus für Ihr Verständnis.",
+    "English": "Thank you in advance for your understanding.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Unterstützung.",
+    "English": "Thank you for your support.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich bald von Ihnen zu hören.",
+    "English": "I look forward to hearing from you soon.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Aufmerksamkeit.",
+    "English": "Thank you for your attention.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Für eine schnelle Bearbeitung danke ich Ihnen.",
+    "English": "Thank you for processing this quickly.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte um Rückmeldung sobald es möglich ist.",
+    "English": "Please respond as soon as possible.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Mühe.",
+    "English": "Thank you for your effort.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe dass wir eine passende Lösung finden können.",
+    "English": "I hope we can find a suitable solution.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Sollten Sie Fragen haben stehe ich Ihnen gern zur Verfügung.",
+    "English": "If you have any questions, I am available.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank dass Sie sich die Zeit genommen haben.",
+    "English": "Thank you for taking the time.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf Ihre Antwort und verbleibe.",
+    "English": "I look forward to your response and remain.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihr Verständnis und Ihre Geduld.",
+    "English": "Thank you for your understanding and patience.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte bestätigen Sie mir dies kurz per E-Mail.",
+    "English": "Please confirm this briefly by email.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bedanke mich herzlich für Ihre Unterstützung.",
+    "English": "I sincerely thank you for your support.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich würde mich freuen wenn Sie mir bald antworten könnten.",
+    "English": "I would be pleased if you could reply soon.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für die Bearbeitung meiner Anfrage.",
+    "English": "Thank you for processing my request.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Mit Dank und freundlichen Grüßen.",
+    "English": "With thanks and kind regards.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich schreibe Ihnen wegen meiner Anmeldung.",
+    "English": "I am writing to you regarding my registration.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte mich über Ihren Kurs informieren.",
+    "English": "I would like to inquire about your course.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte weitere Informationen schicken?",
+    "English": "Could you please send me more information?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe eine Frage zu Ihrem Angebot.",
+    "English": "I have a question about your offer.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich benötige genauere Details zum Ablauf.",
+    "English": "I need more details about the process.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte wissen ob es noch freie Plätze gibt.",
+    "English": "I would like to know if there are still available places.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es alternative Termine?",
+    "English": "Are there alternative appointments?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Wie lange dauert der Kurs?",
+    "English": "How long does the course last?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Wie hoch sind die Kosten?",
+    "English": "How much are the fees?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte die aktuellen Preise senden?",
+    "English": "Could you please send me the current prices?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich interessiere mich für die angebotene Dienstleistung.",
+    "English": "I am interested in the service offered.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte informieren Sie mich über verfügbare Zeiten.",
+    "English": "Please inform me about available times.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie am Nachmittag oder Abend Termine?",
+    "English": "Do you have appointments in the afternoon or evening?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte den Termin gern ändern.",
+    "English": "I would like to change the appointment.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich muss leider meinen Termin absagen.",
+    "English": "Unfortunately, I have to cancel my appointment.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Meine Arbeitszeiten haben sich geändert.",
+    "English": "My working hours have changed.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Wann wäre ein neuer Termin möglich?",
+    "English": "When would a new appointment be possible?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte einen neuen Termin vereinbaren.",
+    "English": "I would like to schedule a new appointment.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte Sie um eine Terminbestätigung.",
+    "English": "I request confirmation of the appointment.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte mitteilen ob das möglich ist?",
+    "English": "Could you please let me know if that is possible?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es freie Plätze am Wochenende?",
+    "English": "Are there available spaces on the weekend?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich wäre dankbar für eine schnelle Rückmeldung.",
+    "English": "I would be grateful for a quick answer.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte informieren Sie mich über die nächsten Schritte.",
+    "English": "Please inform me of the next steps.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich benötige Ihre Rückmeldung um weiterzumachen.",
+    "English": "I need your response to proceed.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie mir bitte den Ablauf erklären?",
+    "English": "Can you please explain the procedure?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe ein Problem mit meiner Anmeldung.",
+    "English": "I have a problem with my registration.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Leider funktioniert etwas nicht richtig.",
+    "English": "Unfortunately something is not working correctly.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin mit dem Service unzufrieden.",
+    "English": "I am not satisfied with the service.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte um eine Lösung.",
+    "English": "I request a solution.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie das bitte überprüfen?",
+    "English": "Could you please check that?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte eine Beschwerde einreichen.",
+    "English": "I would like to file a complaint.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte um eine Rückerstattung.",
+    "English": "I request a refund.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es eine Möglichkeit zum Umtausch?",
+    "English": "Is there a possibility to exchange it?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe dass Sie mir helfen können.",
+    "English": "I hope you can help me.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte eine Rückmeldung geben?",
+    "English": "Could you please give me feedback?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Im Anhang finden Sie die benötigten Dokumente.",
+    "English": "You will find the required documents attached.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte teilen Sie mir mit ob weitere Unterlagen nötig sind.",
+    "English": "Please let me know if more documents are required.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir eine Bestätigung senden?",
+    "English": "Could you send me a confirmation?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich sende Ihnen die Rechnung per E-Mail.",
+    "English": "I am sending you the invoice by email.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe die Dokumente bereits eingereicht.",
+    "English": "I have already submitted the documents.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte überprüfen Sie die Daten.",
+    "English": "Please check the data.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich warte auf Ihre Bestätigung.",
+    "English": "I am waiting for your confirmation.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte bestätigen Sie den Eingang meiner Unterlagen.",
+    "English": "Please confirm receipt of my documents.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich auf die Zusammenarbeit.",
+    "English": "I look forward to working together.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bedanke mich für Ihre schnelle Antwort.",
+    "English": "Thank you for your quick answer.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin Ihnen sehr dankbar für Ihre Unterstützung.",
+    "English": "I am very grateful for your support.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Es wäre sehr freundlich wenn Sie mir dabei helfen könnten.",
+    "English": "It would be very kind if you could help me.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte halten Sie mich auf dem Laufenden.",
+    "English": "Please keep me updated.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich melde mich wieder sobald ich neue Informationen habe.",
+    "English": "I will contact you again as soon as I have new information.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe dass wir bald eine Lösung finden.",
+    "English": "I hope we find a solution soon.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für Ihr Verständnis.",
+    "English": "Thank you for your understanding.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich über eine positive Entscheidung.",
+    "English": "I look forward to a positive decision.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte informieren Sie mich sobald es Neuigkeiten gibt.",
+    "English": "Please inform me as soon as there is news.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe auf eine schnelle Bearbeitung.",
+    "English": "I hope for quick processing.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen nochmals herzlich.",
+    "English": "Thank you once again sincerely.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte antworten Sie mir so schnell wie möglich.",
+    "English": "Please reply to me as soon as possible.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich wäre Ihnen dankbar für eine kurze Rückmeldung.",
+    "English": "I would appreciate a short response.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe dass alles klappt.",
+    "English": "I hope everything works out.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich über weitere Informationen.",
+    "English": "I look forward to more information.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bedanke mich für Ihre Kooperation.",
+    "English": "Thank you for your cooperation.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich warte auf Ihre Antwort.",
+    "English": "I am waiting for your reply.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte entschuldigen Sie die Umstände.",
+    "English": "Please excuse the inconvenience.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Vielen Dank für Ihre Geduld.",
+    "English": "Thank you for your patience.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin zuversichtlich dass wir eine Lösung finden.",
+    "English": "I am confident we will find a solution.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich über eine Rückmeldung.",
+    "English": "I look forward to feedback.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte senden Sie mir eine schriftliche Bestätigung.",
+    "English": "Please send me a written confirmation.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für die Bearbeitung.",
+    "English": "Thank you for processing it.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich freue mich darauf von Ihnen zu hören.",
+    "English": "I look forward to hearing from you.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich danke Ihnen für Ihr Vertrauen.",
+    "English": "Thank you for your trust.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe auf eine baldige Antwort.",
+    "English": "I hope for a response soon.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gerne warte ich auf Ihre Rückmeldung.",
+    "English": "Gladly, I will wait for your reply.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte kontaktieren Sie mich wenn Sie Zeit haben.",
+    "English": "Please contact me when you have time.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Nochmals vielen Dank für Ihre Hilfe.",
+    "English": "Thank you again for your help.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin Ihnen sehr dankbar.",
+    "English": "I am very grateful to you.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Mit freundlichen Grüßen",
+    "English": "Kind regards.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe es geht Ihnen gut.",
+    "English": "I hope you are doing well.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe Sie hatten ein schönes Wochenende.",
+    "English": "I hope you had a nice weekend.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich wende mich heute mit einer Anfrage an Sie.",
+    "English": "I am contacting you today with a request.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich schreibe Ihnen aufgrund Ihrer Anzeige.",
+    "English": "I am writing to you because of your advertisement.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte mich kurz vorstellen.",
+    "English": "I would like to briefly introduce myself.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Mein Name ist ___ und ich wohne in __.",
+    "English": "My name is ___ and I live in __.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin Teilnehmer Ihres Kurses und habe eine Frage.",
+    "English": "I am a participant in your course and I have a question.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe Ihre Kontaktinformationen online gefunden.",
+    "English": "I found your contact information online.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich schreibe weil ich Unterstützung benötige.",
+    "English": "I am writing because I need assistance.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich hoffe Sie können mir helfen.",
+    "English": "I hope you can help me.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich interessiere mich für Ihr Angebot.",
+    "English": "I am interested in your offer.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte Informationen über die Kurszeiten.",
+    "English": "I would like information about the course times.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte mich für den Deutschkurs anmelden.",
+    "English": "I would like to register for the German course.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte nach verfügbaren Plätzen fragen.",
+    "English": "I would like to ask about available spots.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe eine Frage zu den Teilnahmebedingungen.",
+    "English": "I have a question about the participation requirements.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte meine persönlichen Daten aktualisieren.",
+    "English": "I would like to update my personal information.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche Hilfe beim Anmeldeformular.",
+    "English": "I need help with the registration form.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte meine Buchung bestätigen.",
+    "English": "I would like to confirm my booking.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte meine Anmeldung stornieren.",
+    "English": "I would like to cancel my registration.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte wissen welche Unterlagen nötig sind.",
+    "English": "I want to know which documents are required.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte die verfügbaren Termine senden?",
+    "English": "Could you please send me the available dates?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es einen Termin nächste Woche?",
+    "English": "Is there an appointment next week?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte den Termin verschieben.",
+    "English": "I would like to reschedule the appointment.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Der vorgeschlagene Termin passt mir nicht.",
+    "English": "The suggested appointment does not work for me.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich kann leider an diesem Datum nicht teilnehmen.",
+    "English": "Unfortunately, I cannot attend on that date.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Können Sie mir einen alternativen Termin anbieten?",
+    "English": "Can you offer me an alternative appointment?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Können wir den Termin telefonisch oder online durchführen?",
+    "English": "Can we hold the appointment by phone or online?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte einen Termin für ein Gespräch vereinbaren.",
+    "English": "I would like to schedule an appointment for a discussion.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte um Bestätigung des neuen Termins.",
+    "English": "I request confirmation of the new appointment.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Gibt es Wartezeiten für einen Termin?",
+    "English": "Are there waiting times for an appointment?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie bitte genauer erklären wie das funktioniert?",
+    "English": "Could you please explain in more detail how this works?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe eine Frage zum Ablauf.",
+    "English": "I have a question about the procedure.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin mir nicht sicher ob ich alles richtig verstanden habe.",
+    "English": "I am not sure if I understood everything correctly.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte ein Beispiel geben?",
+    "English": "Could you please give me an example?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Haben Sie eine Anleitung oder ein Infoblatt?",
+    "English": "Do you have instructions or an information sheet?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Was bedeutet dieser Schritt genau?",
+    "English": "What exactly does this step mean?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich brauche mehr Informationen bevor ich weitermache.",
+    "English": "I need more information before I continue.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Bitte erklären Sie mir wie ich weiter vorgehen soll.",
+    "English": "Please explain to me how I should proceed.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte sicherstellen dass ich alles korrekt mache.",
+    "English": "I want to make sure I am doing everything correctly.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie das bitte schriftlich bestätigen?",
+    "English": "Could you please confirm that in writing?",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bin unzufrieden mit der aktuellen Situation.",
+    "English": "I am dissatisfied with the current situation.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Leider gab es ein Missverständnis.",
+    "English": "Unfortunately there was a misunderstanding.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Die Informationen waren unklar.",
+    "English": "The information was unclear.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe bisher keine Rückmeldung erhalten.",
+    "English": "I have not received a response so far.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Der Kurs entspricht nicht meinen Erwartungen.",
+    "English": "The course does not meet my expectations.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Die Qualität des Produkts ist schlecht.",
+    "English": "The quality of the product is poor.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich habe einen Fehler in der Rechnung gefunden.",
+    "English": "I found an error in the invoice.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich möchte eine offizielle Beschwerde einreichen.",
+    "English": "I would like to file an official complaint.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Ich bitte um eine schnelle Lösung.",
+    "English": "I request a fast solution.",
+    "theme": "template sentences"
+  },
+  {
+    "Article": null,
+    "German": "Könnten Sie mir bitte erklären was passiert ist?",
+    "English": "Could you please explain what happened?",
+    "theme": "template sentences"
+  },
+ {
         "Article": "die",
         "German": "25-Stunden-Stelle",
         "English": "25-hour job",
