@@ -12,6 +12,1627 @@ let speechRate = 0.8;
 let currentWords = [];
 
 const wordbankData = [
+ {
+    "Article": "Teil 1: Stellen Sie sich bitte vor. (Please introduce yourself.)",
+    "German": "Hallo, ich heiße Sadhashiva. Ich bin 39 Jahre alt, komme aus Indien und wohne in Bahrain.",
+    "English": "Hello, my name is Sadhashiva. I am 39 years old, I am from India and I live in Bahrain.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Wie heißen Sie? (What is your name?)",
+    "German": "Ich heiße Sadhashiva.",
+    "English": "My name is Sadhashiva.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Wo wohnen Sie? (Where do you live?)",
+    "German": "Ich wohne in Bahrain.",
+    "English": "I live in Bahrain.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Woher kommen Sie? (Where are you from?)",
+    "German": "Ich komme aus Indien.",
+    "English": "I'm from India.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Was sind Ihre Hobbys? (What are your hobbies?)",
+    "German": "Meine Hobbys sind Lesen und Spazierengehen.",
+    "English": "My hobbies are reading and walking.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Wie alt sind Sie? (How old are you?)",
+    "German": "Ich bin 39 Jahre alt.",
+    "English": "I am 39 years old.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Was machen Sie beruflich? (What do you do for work?)",
+    "German": "Ich arbeite als Apotheker.",
+    "English": "I work as a pharmacist.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Welche Sprachen sprechen Sie? (Which languages do you speak?)",
+    "German": "Ich spreche Englisch und ein bisschen Deutsch.",
+    "English": "I speak English and a little bit of German.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sind Sie verheiratet? (Are you married?)",
+    "German": "Ja / Nein.",
+    "English": "Yes / No.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Haben Sie Kinder? (Do you have children?)",
+    "German": "Nein, ich habe keine Kinder.",
+    "English": "No, I don't have any children.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Stellen Sie sich bitte vor. (Introduce yourself.)",
+    "German": "Hallo, ich bin Sadhashiva. Ich komme aus Indien und wohne in Bahrain. Ich lerne gerade Deutsch.",
+    "English": "Hello, I'm Sadhashiva. I am from India and live in Bahrain. I'm currently learning German.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Wie heißen Sie? (What is your name?)",
+    "German": "Ich heiße Sadhashiva Kumar.",
+    "English": "My name is Sadhashiva Kumar.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Wo wohnen Sie? (Where do you live?)",
+    "German": "Ich wohne in Riffa, in Bahrain.",
+    "English": "I live in Riffa, in Bahrain.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Woher kommen Sie? (Where are you from?)",
+    "German": "Ich komme ursprünglich aus Indien.",
+    "English": "I am originally from India.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Wie alt sind Sie? (How old are you?)",
+    "German": "Ich bin neununddreißig Jahre alt.",
+    "English": "I am thirty-nine years old.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Was sind Ihre Hobbys? (Your hobbies?)",
+    "German": "Ich koche gern und höre Podcasts.",
+    "English": "I like to cook and listen to podcasts.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Was machen Sie beruflich? (Your profession?)",
+    "German": "Ich arbeite in einer Apotheke als Apotheker.",
+    "English": "I work in a pharmacy as a pharmacist.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Welche Sprachen sprechen Sie?",
+    "German": "Ich spreche Englisch und ein bisschen Deutsch.",
+    "English": "I speak English and a little bit of German.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sind Sie verheiratet?",
+    "German": "Nein, ich bin nicht verheiratet.",
+    "English": "No, I'm not married.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Haben Sie Kinder?",
+    "German": "Nein, ich habe keine Kinder.",
+    "English": "No, I don't have any children.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Stellen Sie sich bitte vor. (Introduce yourself.)",
+    "German": "Guten Morgen, mein Name ist Sadhashiva. Ich bin 39 Jahre alt und arbeite als Apotheker.",
+    "English": "Good morning, my name is Sadhashiva. I am 39 years old and work as a pharmacist.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Wie heißen Sie? (What is your name?)",
+    "German": "Mein Name ist Sadhashiva.",
+    "English": "My name is Sadhashiva.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Wo wohnen Sie? (Where do you live?)",
+    "German": "Ich lebe in Bahrain, in einer kleinen Wohnung.",
+    "English": "I live in Bahrain, in a small apartment.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Woher kommen Sie? (Where are you from?)",
+    "German": "Ich komme aus Südindien.",
+    "English": "I'm from South India.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Wie alt sind Sie? (How old are you?)",
+    "German": "Ich bin 39 Jahre alt.",
+    "English": "I am 39 years old.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Was sind Ihre Hobbys? (Your hobbies?)",
+    "German": "Ich lese gern Bücher und gehe spazieren.",
+    "English": "I like to read books and go for walks.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Was machen Sie beruflich? (Your profession?)",
+    "German": "Ich bin Pharmazeut und berate Patienten.",
+    "English": "I am a pharmacist and advise patients.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Welche Sprachen sprechen Sie?",
+    "German": "Ich spreche Englisch, Hindi und lerne jetzt Deutsch.",
+    "English": "I speak English, Hindi and am now learning German.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sind Sie verheiratet?",
+    "German": "Nein, ich lebe allein.",
+    "English": "No, I live alone.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Haben Sie Kinder?",
+    "German": "Nein, ich habe keine Kinder, aber ich habe eine große Familie.",
+    "English": "No, I don't have children, but I have a big family.",
+    "theme": "A1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach der Uhrzeit. (Ask for the time.)",
+    "German": "Entschuldigung, wie spät ist es jetzt?",
+    "English": "Excuse me, what time is it now?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach dem Weg. (Ask for directions.)",
+    "German": "Wo ist bitte die nächste Bushaltestelle?",
+    "English": "Where is the nearest bus stop?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach dem Preis. (Ask the price.)",
+    "German": "Was kostet das bitte?",
+    "English": "How much does it cost?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach dem Beruf. (Ask about a job.)",
+    "German": "Was sind Sie von Beruf?",
+    "English": "What is your profession?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach dem Hobby. (Ask a hobby.)",
+    "German": "Was machen Sie gern in Ihrer Freizeit?",
+    "English": "What do you like to do in your free time?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach Telefonnummer.",
+    "German": "Wie ist Ihre Handynummer, bitte?",
+    "English": "What's your mobile number, please?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach Wohnort.",
+    "German": "Wo wohnen Sie genau?",
+    "English": "Where do you live exactly?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach dem Alter.",
+    "German": "Wie alt sind Sie, wenn ich fragen darf?",
+    "English": "How old are you, if I may ask?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach der Familie.",
+    "German": "Haben Sie eine große Familie?",
+    "English": "Do you have a large family?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Machen Sie eine Einladung.",
+    "German": "Möchten Sie heute Abend einen Kaffee mit mir trinken?",
+    "English": "Would you like to have a coffee with me tonight?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach der Uhrzeit. (Ask for the time.)",
+    "German": "Können Sie mir bitte sagen, wie viel Uhr es ist?",
+    "English": "Can you please tell me what time it is?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach dem Weg. (Ask for directions.)",
+    "German": "Entschuldigung, wie komme ich zum Bahnhof?",
+    "English": "Excuse me, how do I get to the train station?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach dem Preis. (Ask the price.)",
+    "German": "Wie teuer ist dieses Produkt?",
+    "English": "How much does this product cost?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach dem Beruf. (Ask about a job.)",
+    "German": "Was machen Sie beruflich?",
+    "English": "What is your job?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach dem Hobby. (Ask a hobby.)",
+    "German": "Haben Sie ein Hobby?",
+    "English": "Do you have a hobby?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach Telefonnummer.",
+    "German": "Können Sie mir Ihre Telefonnummer geben?",
+    "English": "Can you give me your phone number?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach Wohnort.",
+    "German": "In welcher Stadt leben Sie?",
+    "English": "What city do you live in?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach dem Alter.",
+    "German": "Wie viele Jahre sind Sie alt?",
+    "English": "How many years old are you?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach der Familie.",
+    "German": "Haben Sie Kinder oder Geschwister?",
+    "English": "Do you have children or siblings?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Machen Sie eine Einladung.",
+    "German": "Haben Sie Zeit? Wollen wir morgen zusammen essen gehen?",
+    "English": "Do you have time? Do we want to go out to dinner together tomorrow?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach der Uhrzeit. (Ask for the time.)",
+    "German": "Wie spät ist es, bitte?",
+    "English": "What time is it, please?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach dem Weg. (Ask for directions.)",
+    "German": "Entschuldigung, wo ist der Bahnhof?",
+    "English": "Excuse me, where is the train station?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach dem Preis. (Ask for the price.)",
+    "German": "Wie viel kostet das?",
+    "English": "How much does it cost?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach dem Beruf. (Ask about someone’s job.)",
+    "German": "Was machen Sie beruflich?",
+    "English": "What is your job?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach dem Hobby. (Ask about a hobby.)",
+    "German": "Was sind Ihre Hobbys?",
+    "English": "What are your hobbies?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach der Telefonnummer. (Ask for phone number.)",
+    "German": "Wie ist Ihre Telefonnummer?",
+    "English": "What is your phone number?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach dem Wohnort. (Ask where someone lives.)",
+    "German": "Wo wohnen Sie?",
+    "English": "Where do you live?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach dem Alter. (Ask age.)",
+    "German": "Wie alt sind Sie?",
+    "English": "How old are you?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Fragen Sie nach der Familie. (Ask about family.)",
+    "German": "Haben Sie Kinder?",
+    "English": "Do you have children?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Machen Sie eine Einladung. (Make an invitation.)",
+    "German": "Möchten Sie morgen Kaffee trinken?",
+    "English": "Would you like to drink coffee tomorrow?",
+    "theme": "A1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Familie. (Talk about your family.)",
+    "German": "Ich habe eine kleine Familie. Meine Eltern leben in Indien. Wir telefonieren oft.",
+    "English": "I have a small family. My parents live in India. We talk on the phone often.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Alltag. (Talk about your daily routine.)",
+    "German": "Ich stehe um 6 Uhr auf, arbeite als Apotheker und lerne abends Deutsch.",
+    "English": "I get up at 6 a.m., work as a pharmacist and learn German in the evening.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihr Hobby. (Talk about your hobby.)",
+    "German": "Ich höre gern Musik und gehe jeden Abend spazieren.",
+    "English": "I like to listen to music and go for a walk every evening.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Beschreiben Sie Ihre Wohnung. (Describe your home.)",
+    "German": "Ich wohne in einer kleinen Wohnung mit zwei Zimmern.",
+    "English": "I live in a small apartment with two rooms.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihr Lieblingsessen. (Talk about your favorite food.)",
+    "German": "Mein Lieblingsessen ist Biriyani. Es schmeckt sehr gut.",
+    "English": "My favorite food is Biriyani. It tastes very good.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Geburtstag. (Talk about your birthday.)",
+    "German": "Ich habe am 10. Juni Geburtstag. Ich feiere mit Freunden.",
+    "English": "My birthday is on June 10th. I celebrate with friends.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihr Land. (Talk about your country.)",
+    "German": "Indien ist ein großes Land. Es gibt viele Sprachen und Kulturen.",
+    "English": "India is a big country. There are many languages and cultures.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihr Wochenende. (Talk about your weekend.)",
+    "German": "Am Wochenende schlafe ich lange und lerne Deutsch.",
+    "English": "On weekends, I sleep late and learn German.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über das Wetter. (Talk about the weather.)",
+    "German": "Heute ist es warm und sonnig.",
+    "English": "Today it is warm and sunny.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Arbeit. (Talk about your work.)",
+    "German": "Ich arbeite in einer Apotheke. Ich helfe Kunden mit Medikamenten.",
+    "English": "I work in a pharmacy. I help customers with medicines.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Familie. (Talk about your family.)",
+    "German": "Meine Familie lebt in Indien. Ich habe einen Bruder und viele Cousins. Wir telefonieren fast jeden Tag.",
+    "English": "My family lives in India. I have a brother and many cousins. We talk on the phone almost every day.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Alltag. (Talk about your daily routine.)",
+    "German": "Ich stehe um 5 Uhr auf, mache Kaffee und gehe dann zur Arbeit. Abends lerne ich Deutsch und entspanne mich.",
+    "English": "I get up at 5 a.m., make coffee and then go to work. In the evenings I learn German and relax.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihr Hobby.",
+    "German": "Ich koche gern neue Rezepte. Das macht mir Spaß und hilft mir zu entspannen.",
+    "English": "I like to cook new recipes. I enjoy it and it helps me relax.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Beschreiben Sie Ihre Wohnung.",
+    "German": "Meine Wohnung ist klein aber gemütlich. Es gibt ein Schlafzimmer, ein Wohnzimmer und eine Küche.",
+    "English": "My apartment is small but cozy. There is a bedroom, a living room and a kitchen.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihr Lieblingsessen.",
+    "German": "Mein Lieblingsessen ist Masala Dosa. Ich esse es oft am Wochenende.",
+    "English": "My favorite food is Masala Dosa. I often eat it on weekends.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Geburtstag.",
+    "German": "Ich habe im Juni Geburtstag. Ich feiere meistens mit Freunden und esse Kuchen.",
+    "English": "My birthday is in June. I usually celebrate with friends and eat cake.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihr Land.",
+    "German": "Indien ist sehr groß und bunt. Es gibt viele verschiedene Sprachen und Gerichte.",
+    "English": "India is very big and colorful. There are many different languages and dishes.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihr Wochenende.",
+    "German": "Am Wochenende schlafe ich aus, mache Sport und lerne Deutsch.",
+    "English": "On weekends, I sleep in, do sports and learn German.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über das Wetter.",
+    "German": "Heute ist es warm und sonnig. Ich mag dieses Wetter.",
+    "English": "Today it is warm and sunny. I like this weather.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Arbeit.",
+    "German": "Ich arbeite als Apotheker. Ich helfe Patienten und erkläre Medikamente.",
+    "English": "I work as a pharmacist. I help patients and explain medications.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Familie. (Talk about your family.)",
+    "German": "Ich habe eine kleine Familie. Meine Eltern wohnen weit weg, aber wir sind immer in Kontakt.",
+    "English": "I have a small family. My parents live far away, but we are always in touch.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Alltag. (Talk about your daily routine.)",
+    "German": "Jeden Tag arbeite ich lange, aber abends mache ich Sport und lerne etwas Deutsch.",
+    "English": "Every day I work late, but in the evenings I do sports and learn some German.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihr Hobby.",
+    "German": "Mein Hobby ist Lesen. Ich lese jeden Abend 20 Minuten, das tut mir gut.",
+    "English": "My hobby is reading. I read for 20 minutes every evening, which is good for me.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Beschreiben Sie Ihre Wohnung.",
+    "German": "Ich wohne in einer ruhigen Wohnung. Sie hat zwei Zimmer und einen kleinen Balkon.",
+    "English": "I live in a quiet apartment. It has two rooms and a small balcony.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihr Lieblingsessen.",
+    "German": "Ich mag Biriyani sehr gern. Es ist würzig und schmeckt fantastisch.",
+    "English": "I like Biriyani very much. It's spicy and tastes fantastic.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Geburtstag.",
+    "German": "Mein Geburtstag ist im Sommer. Ich mache oft ein kleines Abendessen zu Hause.",
+    "English": "My birthday is in the summer. I often make a small dinner at home.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihr Land.",
+    "German": "Ich komme aus Indien. Es ist ein warmes Land mit vielen Traditionen.",
+    "English": "I'm from India. It is a warm country with many traditions.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihr Wochenende.",
+    "German": "Ich verbringe das Wochenende meistens ruhig. Ich koche gern und höre Musik.",
+    "English": "I usually spend the weekend quietly. I like to cook and listen to music.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über das Wetter.",
+    "German": "Es ist etwas windig, aber angenehm. Ich gehe gern spazieren, wenn das Wetter so ist.",
+    "English": "It's a bit windy, but pleasant. I like to go for a walk when the weather is like this.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Arbeit.",
+    "German": "Meine Arbeit ist interessant. Ich spreche jeden Tag mit vielen Kunden in der Apotheke.",
+    "English": "My work is interesting. I talk to many customers in the pharmacy every day.",
+    "theme": "A1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Erzählen Sie etwas über sich. (Tell something about yourself.)",
+    "German": "Ich heiße Sadhashiva, komme aus Indien und arbeite als Apotheker in Bahrain.",
+    "English": "My name is Sadhashiva, I am from India and I work as a pharmacist in Bahrain.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Ausbildung. (Talk about your education.)",
+    "German": "Ich habe Pharmazie studiert und arbeite seit vielen Jahren im Beruf.",
+    "English": "I studied pharmacy and have been working in the profession for many years.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Wohnort. (Talk about where you live.)",
+    "German": "Ich wohne in Bahrain, in einer ruhigen Gegend mit vielen Geschäften.",
+    "English": "I live in Bahrain, in a quiet area with lots of shops.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Familie.",
+    "German": "Meine Familie lebt in Indien. Wir telefonieren sehr oft.",
+    "English": "My family lives in India. We talk on the phone very often.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Warum lernen Sie Deutsch? (Why do you learn German?)",
+    "German": "Ich lerne Deutsch, weil ich in Deutschland arbeiten möchte.",
+    "English": "I am learning German because I want to work in Germany.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Was machen Sie in Ihrer Freizeit?",
+    "German": "Ich gehe spazieren und höre Podcasts.",
+    "English": "I go for walks and listen to podcasts.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Beschreiben Sie Ihren Arbeitstag.",
+    "German": "Ich helfe Kunden, erkläre Medikamente und arbeite mit Ärzten.",
+    "English": "I help clients, explain medications, and work with doctors.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Zukunftspläne.",
+    "German": "Ich möchte in Deutschland leben und arbeiten.",
+    "English": "I would like to live and work in Germany.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Lieblingsjahreszeit.",
+    "German": "Ich mag den Winter, weil das Wetter angenehm ist.",
+    "English": "I like winter because the weather is pleasant.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihr Wochenende.",
+    "German": "Ich schlafe aus, mache Sport und lerne Deutsch.",
+    "English": "I sleep in, do sports and learn German.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Erzählen Sie etwas über sich. (Tell something about yourself.)",
+    "German": "Ich bin Sadhashiva, 39 Jahre alt und lerne Deutsch, weil ich beruflich nach Deutschland möchte.",
+    "English": "I'm Sadhashiva, 39 years old and I'm learning German because I want to go to Germany for work.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Ausbildung. (Talk about your education.)",
+    "German": "Ich habe meinen Master in Pharmazie gemacht. Das war eine anspruchsvolle Ausbildung.",
+    "English": "I did my master's degree in pharmacy. That was a demanding training.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Wohnort. (Talk about where you live.)",
+    "German": "Mein Wohnort ist sehr praktisch. Alles ist in der Nähe.",
+    "English": "My place of residence is very convenient. Everything is nearby.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Familie.",
+    "German": "Ich habe eine große Familie. Wir haben guten Kontakt.",
+    "English": "I have a big family. We have good contact.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Warum lernen Sie Deutsch? (Why do you learn German?)",
+    "German": "Deutsch ist wichtig für meinen Beruf, deshalb lerne ich es intensiv.",
+    "English": "German is important for my job, so I'm learning it intensively.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Was machen Sie in Ihrer Freizeit?",
+    "German": "Ich koche gern und lese abends.",
+    "English": "I like to cook and read in the evenings.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Beschreiben Sie Ihren Arbeitstag.",
+    "German": "Meine Arbeit ist stressig, aber interessant. Ich spreche viel mit Patienten.",
+    "English": "My work is stressful but interesting. I talk to patients a lot.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Zukunftspläne.",
+    "German": "Mein Ziel ist es, besser Deutsch zu sprechen und B1 zu bestehen.",
+    "English": "My goal is to speak German better and pass B1.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Lieblingsjahreszeit.",
+    "German": "Der Frühling ist meine Lieblingsjahreszeit. Alles ist frisch.",
+    "English": "Spring is my favorite season. Everything is fresh.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihr Wochenende.",
+    "German": "Am Wochenende treffe ich Freunde und koche gern.",
+    "English": "On weekends, I meet friends and like to cook.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Erzählen Sie etwas über sich. (Tell something about yourself.)",
+    "German": "Mein Name ist Sadhashiva. Ich wohne in Bahrain und arbeite in einer Apotheke.",
+    "English": "My name is Sadhashiva. I live in Bahrain and work in a pharmacy.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Ausbildung. (Talk about your education.)",
+    "German": "Ich habe eine pharmazeutische Ausbildung abgeschlossen und arbeite seitdem im Gesundheitsbereich.",
+    "English": "I completed a pharmaceutical apprenticeship and have been working in the healthcare sector ever since.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Wohnort. (Talk about where you live.)",
+    "German": "Ich lebe in einer kleinen Wohnung in Riffa. Die Nachbarn sind freundlich.",
+    "English": "I live in a small apartment in Riffa. The neighbors are friendly.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Familie.",
+    "German": "Meine Eltern und mein Bruder wohnen in Indien. Ich besuche sie einmal im Jahr.",
+    "English": "My parents and brother live in India. I visit them once a year.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Warum lernen Sie Deutsch? (Why do you learn German?)",
+    "German": "Ich möchte die TELC B1 Prüfung bestehen, darum lerne ich jeden Tag.",
+    "English": "I want to pass the TELC B1 exam, so I study every day.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Was machen Sie in Ihrer Freizeit?",
+    "German": "Ich mache oft Sport oder lerne Sprachen.",
+    "English": "I often do sports or learn languages.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Beschreiben Sie Ihren Arbeitstag.",
+    "German": "Ich arbeite acht Stunden am Tag. Ich habe viele Aufgaben in der Apotheke.",
+    "English": "I work eight hours a day. I have many tasks in the pharmacy.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Zukunftspläne.",
+    "German": "In Zukunft möchte ich mehr reisen und beruflich wachsen.",
+    "English": "In the future, I would like to travel more and grow professionally.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Lieblingsjahreszeit.",
+    "German": "Ich liebe den Sommer. Ich kann draußen trainieren.",
+    "English": "I love summer. I can train outside.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihr Wochenende.",
+    "German": "Ich verbringe die Wochenenden ruhig. Ich erhole mich von der Arbeit.",
+    "English": "I spend the weekends quietly. I'm recovering from work.",
+    "theme": "A2-PART1-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Geschenk für einen Freund. (Plan a gift.)",
+    "German": "Ich schlage vor, wir kaufen ein Buch. Was denkst du?",
+    "English": "I suggest we buy a book. What do you think?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Treffen.",
+    "German": "Sollen wir uns am Samstag treffen? Um 6 Uhr?",
+    "English": "Should we meet on Saturday? At 6 o'clock?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Abendessen.",
+    "German": "Wollen wir heute Abend indisch essen?",
+    "English": "Do we want to eat Indian tonight?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie einen Ausflug.",
+    "German": "Ich möchte ans Meer. Willst du mitkommen?",
+    "English": "I want to go to the sea. Do you want to come along?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Party.",
+    "German": "Wir können Musik spielen und etwas kochen.",
+    "English": "We can play music and cook something.",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Reise.",
+    "German": "Ich möchte nach Dubai fliegen. Was meinst du?",
+    "English": "I want to fly to Dubai. What do you mean?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein gemeinsames Lernen.",
+    "German": "Lass uns zusammen Deutsch lernen. Wann hast du Zeit?",
+    "English": "Let's learn German together. When do you have time?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie Sport.",
+    "German": "Sollen wir heute Abend joggen gehen?",
+    "English": "Should we go jogging tonight?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Geschenk für Kollegen.",
+    "German": "Wir können eine Karte schreiben. Was sagst du?",
+    "English": "We can write a map. What are you saying?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie einen Filmabend.",
+    "German": "Wollen wir einen deutschen Film sehen?",
+    "English": "Do we want to see a German film?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Geschenk für einen Freund. (Plan a gift.)",
+    "German": "Vielleicht kaufen wir ein Parfüm? Hast du eine bessere Idee?",
+    "English": "Maybe we'll buy a perfume? Do you have a better idea?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Treffen.",
+    "German": "Hast du Zeit am Freitag? Wir können Kaffee trinken.",
+    "English": "Do you have time on Friday? We can drink coffee.",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Abendessen.",
+    "German": "Ich möchte Pizza essen. Möchtest du mitkommen?",
+    "English": "I want to eat pizza. Would you like to come along?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie einen Ausflug.",
+    "German": "Wie wäre es mit einem Museumsbesuch?",
+    "English": "How about a visit to a museum?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Party.",
+    "German": "Sollen wir Freunde einladen?",
+    "English": "Should we invite friends?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Reise.",
+    "German": "Sollen wir im Januar reisen?",
+    "English": "Should we travel in January?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein gemeinsames Lernen.",
+    "German": "Wir können TELC Übungen machen. Passt dir heute Abend?",
+    "English": "We can do TELC exercises. Does tonight suit you?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie Sport.",
+    "German": "Wie wäre es mit Fitnessstudio?",
+    "English": "How about a gym?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Geschenk für Kollegen.",
+    "German": "Vielleicht kaufen wir Blumen?",
+    "English": "Maybe we'll buy flowers?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie einen Filmabend.",
+    "German": "Welche Filme magst du? Wir können etwas wählen.",
+    "English": "What movies do you like? We can choose something.",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Geschenk für einen Freund. (Plan a gift.)",
+    "German": "Wie wäre es mit einem Gutschein? Wollen wir 20 Euro ausgeben?",
+    "English": "How about a voucher? Do we want to spend 20 euros?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Treffen.",
+    "German": "Treffen wir uns im Park? Welche Uhrzeit passt dir?",
+    "English": "Shall we meet in the park? What time suits you?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Abendessen.",
+    "German": "Sollen wir etwas kochen? Was möchtest du essen?",
+    "English": "Should we cook something? What do you want to eat?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie einen Ausflug.",
+    "German": "Sollen wir wandern gehen? Hast du Zeit?",
+    "English": "Should we go hiking? Do you have time?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Party.",
+    "German": "Wie viele Leute sollen wir einladen?",
+    "English": "How many people should we invite?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Reise.",
+    "German": "Wo möchtest du hinfahren? Wir können planen.",
+    "English": "Where do you want to go? We can plan.",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein gemeinsames Lernen.",
+    "German": "Sollen wir morgen 30 Minuten sprechen üben?",
+    "English": "Should we practice speaking for 30 minutes tomorrow?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie Sport.",
+    "German": "Wollen wir Yoga machen? Wann?",
+    "English": "Do we want to do yoga? When?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Geschenk für Kollegen.",
+    "German": "Sollen wir alle Geld geben und etwas Großes kaufen?",
+    "English": "Should we all give money and buy something big?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie einen Filmabend.",
+    "German": "Sollen wir um 20 Uhr beginnen? Popcorn?",
+    "English": "Should we start at 8 p.m.? Popcorn?",
+    "theme": "A2-PART2-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Arbeit.",
+    "German": "Ich arbeite als Apotheker. Ich helfe Menschen und berate sie.",
+    "English": "I work as a pharmacist. I help people and advise them.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über ein Hobby.",
+    "German": "Ich höre jeden Tag Podcasts und gehe spazieren.",
+    "English": "I listen to podcasts every day and go for walks.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Stadt.",
+    "German": "Bahrain ist klein, aber modern.",
+    "English": "Bahrain is small but modern.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über ein Fest.",
+    "German": "Ich feiere Diwali mit meiner Familie.",
+    "English": "I celebrate Diwali with my family.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über eine Reise.",
+    "German": "Ich bin nach Dubai gereist. Es war schön.",
+    "English": "I traveled to Dubai. It was beautiful.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Gesundheit.",
+    "German": "Gesundheit ist wichtig. Ich mache Sport.",
+    "English": "Health is important. I do sports.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Zukunft.",
+    "German": "Ich möchte B1 bestehen und in Deutschland arbeiten.",
+    "English": "I want to pass B1 and work in Germany.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Medien.",
+    "German": "Ich sehe YouTube, um Deutsch zu lernen.",
+    "English": "I watch YouTube to learn German.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Alltag.",
+    "German": "Ich arbeite viel und lerne abends.",
+    "English": "I work a lot and study in the evenings.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Sport.",
+    "German": "Ich mache dreimal pro Woche Sport.",
+    "English": "I exercise three times a week.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Arbeit.",
+    "German": "Meine Arbeit macht mir Spaß, aber sie ist anstrengend.",
+    "English": "I enjoy my work, but it is exhausting.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über ein Hobby.",
+    "German": "Kochen ist mein Hobby. Ich probiere viele Rezepte aus.",
+    "English": "Cooking is my hobby. I try many recipes.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Stadt.",
+    "German": "Meine Stadt hat viele Restaurants und Geschäfte.",
+    "English": "My town has many restaurants and shops.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über ein Fest.",
+    "German": "Eid ist ein schönes Fest hier in Bahrain.",
+    "English": "Eid is a beautiful celebration here in Bahrain.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über eine Reise.",
+    "German": "Ich reise gern nach Indien, um meine Familie zu sehen.",
+    "English": "I like to travel to India to see my family.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Gesundheit.",
+    "German": "Ich esse gesund und schlafe genug.",
+    "English": "I eat healthy and sleep enough.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Zukunft.",
+    "German": "Ich möchte mehr lernen und beruflich wachsen.",
+    "English": "I want to learn more and grow professionally.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Medien.",
+    "German": "Ich höre viele Podcasts.",
+    "English": "I listen to a lot of podcasts.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Alltag.",
+    "German": "Mein Alltag ist einfach: arbeiten, essen, lernen.",
+    "English": "My everyday life is simple: work, eat, learn.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Sport.",
+    "German": "Joggen hält mich fit.",
+    "English": "Jogging keeps me fit.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Arbeit.",
+    "German": "Ich arbeite viele Stunden, aber lerne viel im Gesundheitsbereich.",
+    "English": "I work many hours, but I learn a lot in the health sector.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über ein Hobby.",
+    "German": "Ich lese gern Bücher. Das hilft mir zu entspannen.",
+    "English": "I like to read books. That helps me relax.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Stadt.",
+    "German": "Es ist ruhig und sicher, deshalb wohne ich gern hier.",
+    "English": "It's quiet and safe, that's why I like living here.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über ein Fest.",
+    "German": "Ich mag Feiertage. Wir essen zusammen und sprechen viel.",
+    "English": "I like holidays. We eat together and talk a lot.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über eine Reise.",
+    "German": "Ich möchte Deutschland besuchen, wenn mein Deutsch besser wird.",
+    "English": "I would like to visit Germany when my German improves.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Gesundheit.",
+    "German": "Ich gehe regelmäßig spazieren und trinke viel Wasser.",
+    "English": "I go for regular walks and drink a lot of water.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Zukunft.",
+    "German": "In Zukunft will ich reisen und neue Dinge lernen.",
+    "English": "In the future, I want to travel and learn new things.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Medien.",
+    "German": "Ich lese Nachrichten auf dem Handy.",
+    "English": "I read the news on my mobile phone.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Alltag.",
+    "German": "Ich beginne den Tag früh und gehe spät schlafen.",
+    "English": "I start the day early and go to bed late.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Sport.",
+    "German": "Ich trainiere abends, weil ich dann Energie habe.",
+    "English": "I train in the evening because that's when I have energy.",
+    "theme": "A2-PART3-SPEAKING"
+  },
+  {
+    "Article": "Stellen Sie sich bitte vor. (Introduce yourself)",
+    "German": "Hallo, ich heiße Sadhashiva und ich bin 39 Jahre alt. Ich komme aus Indien, aber ich wohne seit einigen Jahren in Bahrain. Beruflich arbeite ich als Apotheker und ich interessiere mich sehr für Medizin. In meiner Freizeit lerne ich Deutsch, weil ich später in Deutschland arbeiten möchte. Außerdem gehe ich gern spazieren und höre Podcasts. Ich bin ein ruhiger und geduldiger Mensch. Ich freue mich, heute hier zu sein.",
+    "English": "Hi, my name is Sadhashiva and I am 39 years old. I'm from India, but I've been living in Bahrain for a few years. Professionally, I work as a pharmacist and I am very interested in medicine. In my free time, I am learning German because I want to work in Germany later. I also like to go for walks and listen to podcasts. I am a calm and patient person. I'm happy to be here today.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Beruf. (Talk about your job)",
+    "German": "Ich arbeite als Apotheker und mache diesen Beruf seit vielen Jahren. Ich berate Kunden, erkläre Medikamente und arbeite eng mit Ärzten zusammen. Mir gefällt meine Arbeit, weil ich jeden Tag etwas Neues lerne. Manchmal ist der Job stressig, aber es ist ein gutes Gefühl, Menschen zu helfen. Mein Beruf ist sehr wichtig für mich, und ich möchte mich weiterentwickeln.",
+    "English": "I work as a pharmacist and have been doing this profession for many years. I advise customers, explain medications and work closely with doctors. I like my work because I learn something new every day. Sometimes the job is stressful, but it's a good feeling to help people. My job is very important to me, and I want to develop further.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Warum lernen Sie Deutsch? (Why are you learning German?)",
+    "German": "Ich lerne Deutsch, weil ich in Zukunft in Deutschland arbeiten möchte. Für meinen Beruf ist die Sprache sehr wichtig. Außerdem interessiert mich die deutsche Kultur. Ich lerne jeden Tag ein bisschen und versuche, neue Wörter in Gesprächen zu benutzen. Mein Ziel ist es, die TELC B1 Prüfung zu bestehen.",
+    "English": "I'm learning German because I want to work in Germany in the future. Language is very important for my profession. I'm also interested in German culture. I learn a little bit every day and try to use new words in conversations. My goal is to pass the TELC B1 exam.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Familie. (Talk about your family)",
+    "German": "Meine Familie lebt in Indien. Ich habe einen Bruder und wir haben guten Kontakt. Obwohl ich weit weg wohne, telefonieren wir sehr oft. Familie ist mir sehr wichtig, weil sie mich unterstützt. Wir treffen uns einmal im Jahr und feiern zusammen.",
+    "English": "My family lives in India. I have a brother and we have good contact. Although I live far away, we talk on the phone very often. Family is very important to me because it supports me. We meet once a year and celebrate together.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Freizeit. (Talk about free time)",
+    "German": "In meiner Freizeit mache ich gern Spaziergänge und höre Podcasts. Manchmal lese ich Bücher oder übe Deutsch. Am Wochenende koche ich gern neue Gerichte. Freizeit ist für mich wichtig, um Stress abzubauen und neue Energie zu bekommen.",
+    "English": "In my free time, I like to go for walks and listen to podcasts. Sometimes I read books or practice German. On weekends, I like to cook new dishes. Free time is important for me to reduce stress and get new energy.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Beschreiben Sie Ihre Wohnung. (Describe your home)",
+    "German": "Ich wohne in einer kleinen, aber gemütlichen Wohnung. Sie hat zwei Zimmer, eine Küche und ein Badezimmer. Die Gegend ist ruhig und sicher. Ich wohne gern dort, weil alles in der Nähe ist.",
+    "English": "I live in a small but cozy apartment. It has two rooms, a kitchen and a bathroom. The area is quiet and safe. I like living there because everything is nearby.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Alltag. (Describe your daily routine)",
+    "German": "Mein Alltag beginnt sehr früh. Ich trinke Kaffee und gehe zur Arbeit. Dort arbeite ich mit Kunden und Kollegen. Am Abend lerne ich Deutsch und mache Sport. Ich gehe meistens spät schlafen.",
+    "English": "My everyday life starts very early. I drink coffee and go to work. There I work with customers and colleagues. In the evening I learn German and do sports. I usually go to bed late.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Pläne. (Future plans)",
+    "German": "Ich plane, bald die TELC B1 Prüfung zu machen. Danach möchte ich mich beruflich in Deutschland bewerben. Ich möchte neue Erfahrungen sammeln und meine Karriere verbessern.",
+    "English": "I plan to take the TELC B1 exam soon. After that, I would like to apply for a job in Germany. I want to gain new experiences and improve my career.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Hobbys. (Hobbies)",
+    "German": "Mein Hobby ist Kochen, vor allem indische Gerichte. Außerdem höre ich gern Musik und entspanne beim Lesen.",
+    "English": "My hobby is cooking, especially Indian dishes. I also like to listen to music and relax while reading.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Gesundheit. (Talk about health)",
+    "German": "Gesundheit ist für mich sehr wichtig. Ich versuche, gesund zu essen und regelmäßig Sport zu machen. Bewegung hilft mir, Stress abzubauen. Ich achte auch auf Schlaf und Entspannung.",
+    "English": "Health is very important to me. I try to eat healthy and exercise regularly. Exercise helps me to reduce stress. I also pay attention to sleep and relaxation.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Stellen Sie sich bitte vor. (Introduce yourself)",
+    "German": "Mein Name ist Sadhashiva. Ich komme ursprünglich aus Indien und lebe jetzt in Bahrain. Ich arbeite in einer Apotheke und habe viel Kontakt mit Patienten. Ich lerne seit mehreren Monaten Deutsch und finde die Sprache interessant aber schwierig. In meiner Freizeit lese ich Bücher und koche gern. Mein Ziel ist es, fließend Deutsch zu sprechen. Danke.",
+    "English": "My name is Sadhashiva. I am originally from India and now live in Bahrain. I work in a pharmacy and have a lot of contact with patients. I have been learning German for several months and find the language interesting but difficult. In my free time, I like to read books and cook. My goal is to speak German fluently. Thank you.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Beruf. (Talk about your job)",
+    "German": "Ich bin seit acht Jahren als Apotheker tätig. Meine Aufgaben sind sehr vielfältig: Beratung, Organisation, Dokumentation und Kontrolle von Rezepten. Besonders interessant finde ich neue Medikamente und medizinische Entwicklungen. Ich möchte später in Deutschland im gleichen Beruf arbeiten. Deshalb lerne ich Deutsch.",
+    "English": "I have been working as a pharmacist for eight years. My tasks are very diverse: consulting, organization, documentation and control of prescriptions. I find new drugs and medical developments particularly interesting. I would like to work in the same profession in Germany later on. That's why I'm learning German.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Warum lernen Sie Deutsch? (Why are you learning German?)",
+    "German": "Ich brauche Deutsch für meine berufliche Zukunft. In Deutschland gibt es viele Möglichkeiten für Apotheker. Außerdem möchte ich neue Leute kennenlernen und mich gut unterhalten können. Deutsch ist nicht leicht, aber ich bin motiviert.",
+    "English": "I need German for my professional future. There are many opportunities for pharmacists in Germany. I also want to meet new people and have a good time. German is not easy, but I am motivated.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Familie. (Talk about your family)",
+    "German": "Ich habe eine große Familie und wir sind sehr verbunden. Meine Eltern wohnen in Indien und ich besuche sie, wenn ich Urlaub habe. Wir sprechen oft über Videoanrufe. Es ist manchmal schwer, weit entfernt zu sein, aber wir bleiben nah.",
+    "English": "I have a big family and we are very close. My parents live in India and I visit them when I am on vacation. We often talk about video calls. It is sometimes hard to be far away, but we stay close.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Freizeit. (Talk about free time)",
+    "German": "Ich verbringe meine Freizeit mit Sport und Kochen. Außerdem schaue ich Lernvideos und wiederhole Wortschatz. Ich finde es wichtig, eine gute Balance zwischen Arbeit und Freizeit zu haben.",
+    "English": "I spend my free time playing sports and cooking. I also watch learning videos and review vocabulary. I think it's important to have a good balance between work and leisure.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Beschreiben Sie Ihre Wohnung. (Describe your home)",
+    "German": "Meine Wohnung ist modern und praktisch eingerichtet. Sie ist nicht groß, aber sie hat alles, was ich brauche. Besonders gefällt mir der Balkon.",
+    "English": "My apartment is modern and practically furnished. It's not big, but it has everything I need. I especially like the balcony.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Alltag. (Describe your daily routine)",
+    "German": "Ich habe einen festen Tagesablauf. Morgens arbeite ich, nachmittags erledige ich Aufgaben und abends mache ich Deutschübungen. Der Tag ist oft lang, aber produktiv.",
+    "English": "I have a fixed daily routine. In the morning I work, in the afternoon I do assignments and in the evening I do German exercises. The day is often long, but productive.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Pläne. (Future plans)",
+    "German": "Meine Zukunftspläne sind klar: besseres Deutsch, Umzug nach Deutschland und berufliche Weiterentwicklung.",
+    "English": "My plans for the future are clear: better German, moving to Germany and professional development.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Hobbys. (Hobbies)",
+    "German": "Ich probiere gern neue Rezepte und gehe regelmäßig spazieren. Diese Aktivitäten helfen mir, Stress abzubauen.",
+    "English": "I like to try new recipes and go for walks regularly. These activities help me to reduce stress.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Gesundheit. (Talk about health)",
+    "German": "Ich versuche, einen gesunden Lebensstil zu führen. Ich gehe oft zu Fuß und trinke genug Wasser. Das tut mir gut.",
+    "English": "I try to lead a healthy lifestyle. I often walk and drink enough water. That's good for me.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Stellen Sie sich bitte vor. (Introduce yourself)",
+    "German": "Ich bin Sadhashiva und ich komme aus Südindien. Im Moment wohne und arbeite ich in Bahrain. Ich bin verheiratet und habe eine kleine Familie. Ich lerne Deutsch, weil ich beruflich neue Möglichkeiten in Deutschland suche. Ich bin motiviert und lerne jeden Tag ein bisschen. Ich hoffe, dass ich mich heute gut ausdrücken kann.",
+    "English": "I'm Sadhashiva and I'm from South India. At the moment I live and work in Bahrain. I am married and have a small family. I am learning German because I am looking for new opportunities in Germany professionally. I'm motivated and learn a little bit every day. I hope that I can express myself well today.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Beruf. (Talk about your job)",
+    "German": "Mein Beruf ist Apotheker. Ich arbeite in einem Gesundheitszentrum und habe jeden Tag Kontakt mit vielen Menschen. Ich finde meinen Beruf spannend, weil ich Verantwortung habe und Patienten unterstützen kann. Manchmal ist der Arbeitsalltag hektisch, aber ich mag Herausforderungen.",
+    "English": "My profession is a pharmacist. I work in a health center and have contact with many people every day. I find my job exciting because I have responsibility and can support patients. Sometimes the working day is hectic, but I like challenges.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Warum lernen Sie Deutsch? (Why are you learning German?)",
+    "German": "Ich lerne Deutsch, weil ich später einen Job in Deutschland bekommen möchte. Außerdem möchte ich im Alltag gut kommunizieren können. Ich übe regelmäßig und merke kleine Fortschritte.",
+    "English": "I'm learning German because I want to get a job in Germany later. I also want to be able to communicate well in everyday life. I practice regularly and notice small progress.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Familie. (Talk about your family)",
+    "German": "Meine Familie ist klein, aber sehr eng verbunden. Ich habe Eltern und Geschwister in Indien. Wir unterstützen uns gegenseitig und bleiben immer in Kontakt. Ich freue mich, sie bald zu besuchen.",
+    "English": "My family is small, but very close. I have parents and siblings in India. We support each other and always stay in touch. I look forward to visiting them soon.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Freizeit. (Talk about free time)",
+    "German": "In meiner Freizeit lerne ich Deutsch und sehe Filme in Originalsprache. Zusätzlich treibe ich Sport, um fit zu bleiben. Freizeit hilft mir, mich zu entspannen und produktiver zu sein.",
+    "English": "In my free time, I learn German and watch films in the original language. In addition, I do sports to stay fit. Free time helps me relax and be more productive.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Beschreiben Sie Ihre Wohnung. (Describe your home)",
+    "German": "Ich lebe in einer Wohnung mit zwei Zimmern. Die Wohnung ist sauber und gut organisiert. Ich fühle mich dort wohl und es ist ein guter Ort zum Lernen.",
+    "English": "I live in an apartment with two rooms. The apartment is clean and well organized. I feel comfortable there and it's a good place to study.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Alltag. (Describe your daily routine)",
+    "German": "Mein Alltag ist ziemlich regelmäßig. Ich arbeite viel und nehme mir Zeit für Deutsch und Bewegung. Routine hilft mir, organisiert zu bleiben.",
+    "English": "My everyday life is pretty regular. I work a lot and take time for German and exercise. Routine helps me stay organized.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Pläne. (Future plans)",
+    "German": "Ich möchte reisen, arbeiten und mich weiterbilden. Deutsch spielt dabei eine wichtige Rolle.",
+    "English": "I want to travel, work and educate myself. German plays an important role in this.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Hobbys. (Hobbies)",
+    "German": "Ich lese gern, schaue Lernvideos und trainiere meinen Wortschatz durch Wiederholung.",
+    "English": "I like to read, watch learning videos and train my vocabulary through repetition.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Gesundheit. (Talk about health)",
+    "German": "Ich mache Sport, esse ausgewogen und versuche, positiv zu denken. Gesundheit bedeutet für mich Balance.",
+    "English": "I exercise, eat a balanced diet and try to think positively. For me, health means balance.",
+    "theme": "B1-PART1-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Party. (Plan a party)",
+    "German": "Ich schlage vor, dass wir die Party am Samstagabend machen, weil viele Leute dann frei haben. Vielleicht können wir sie bei mir zu Hause organisieren. Wir brauchen Musik, Getränke und ein paar Snacks. Wir können auch eine WhatsApp-Gruppe erstellen und alle einladen. Was meinst du? Hast du andere Ideen?",
+    "English": "I suggest that we do the party on Saturday night, because many people have time off. Maybe we can organize it at my home. We need music, drinks and some snacks. We can also create a WhatsApp group and invite everyone. What do you mean? Do you have any other ideas?",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Geschenk für einen Kollegen. (Gift planning)",
+    "German": "Ich finde, wir sollten etwas Persönliches kaufen. Vielleicht ein Buch oder einen Gutschein? Was denkst du? Wir könnten zusammen Geld sammeln und dann gemeinsam entscheiden. Wollen wir 20 Euro pro Person geben?",
+    "English": "I think we should buy something personal. Maybe a book or a voucher? What do you think? We could collect money together and then decide together. Do we want to give 20 euros per person?",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Treffen. (Plan a meeting)",
+    "German": "Sollen wir uns morgen nach der Arbeit treffen? Ich bin ab 18 Uhr frei. Wir können in ein Café gehen und eine Stunde sprechen. Passt dir das?",
+    "English": "Should we meet tomorrow after work? I'm free from 6 p.m. We can go to a café and talk for an hour. Does that suit you?",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Reise. (Plan a trip)",
+    "German": "Ich möchte nächstes Wochenende nach Dubai reisen. Willst du mitkommen? Wir könnten zwei Tage bleiben und Sehenswürdigkeiten besuchen. Wir können online günstige Hotels suchen.",
+    "English": "I want to travel to Dubai next weekend. Do you want to come along? We could stay for two days and visit sights. We can search for cheap hotels online.",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Abendessen. (Dinner planning)",
+    "German": "Sollen wir heute Abend essen gehen? Ich möchte indisches Essen probieren. Es gibt ein neues Restaurant in der Stadt. Passt dir 19 Uhr?",
+    "English": "Shall we go out for dinner tonight? I want to try Indian food. There is a new restaurant in town. Does 7 p.m. suit you?",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie einen Filmabend. (Movie night)",
+    "German": "Ich schlage vor, dass wir einen deutschen Film schauen, damit wir lernen können. Hast du einen Vorschlag? Wir könnten Popcorn machen.",
+    "English": "I suggest that we watch a German film so that we can learn. Do you have a suggestion? We could make popcorn.",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie Sport. (Plan to do sports)",
+    "German": "Wie wäre es, wenn wir heute Abend spazieren gehen oder langsam joggen? Das ist gut für die Gesundheit. Wollen wir 30 Minuten machen?",
+    "English": "How about going for a walk or a slow jog tonight? That's good for your health. Do we want to do 30 minutes?",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie gemeinsames Lernen. (Plan to study together)",
+    "German": "Ich schlage vor, dass wir jeden Tag 30 Minuten Deutsch üben. Wir können abwechselnd sprechen und schreiben. Wie klingt das?",
+    "English": "I suggest that we practice German for 30 minutes every day. We can alternate between speaking and writing. How does that sound?",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie einen Besuch. (Plan a visit)",
+    "German": "Kann ich dich am Samstag besuchen? Ich würde gern Kaffee mit dir trinken. Passt dir 17 Uhr?",
+    "English": "Can I visit you on Saturday? I'd love to have coffee with you. Does 5 p.m. suit you?",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Aktivität mit Freunden. (Group activity)",
+    "German": "Ich schlage vor, dass wir einen Spieleabend machen. Das macht Spaß und kostet nicht viel. Was denkst du?",
+    "English": "I suggest that we have a game night. It's fun and doesn't cost much. What do you think?",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Party. (Plan a party)",
+    "German": "Wie wäre es, wenn wir die Party im Park machen? Das Wetter ist gut und es gibt genug Platz. Wir könnten Picknickdecken mitbringen und jeder kann etwas zu essen mitbringen. Sollen wir etwa 10 Personen einladen? Passt dir Samstag?",
+    "English": "How about we do the party in the park? The weather is good and there is enough space. We could bring picnic blankets and everyone can bring some food. Should we invite about 10 people? Does Saturday suit you?",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Geschenk für einen Kollegen. (Gift planning)",
+    "German": "Wie wäre es mit Blumen und einer Karte? Das ist einfach und freundlich. Wir können eine nette Nachricht schreiben. Wenn du möchtest, kann ich die Karte kaufen.",
+    "English": "How about flowers and a card? It's simple and friendly. We can write a nice message. If you want, I can buy the card.",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Treffen. (Plan a meeting)",
+    "German": "Wie wäre es mit Samstagvormittag? Ich habe da Zeit. Wir könnten in der Nähe vom Bahnhof treffen, das ist praktisch.",
+    "English": "How about Saturday morning? I have time. We could meet near the train station, which is convenient.",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Reise. (Plan a trip)",
+    "German": "Wie wäre es, wenn wir im Januar reisen? Dann sind die Preise niedriger. Wohin möchtest du gerne fahren? Berge oder Meer?",
+    "English": "How about we travel in January? Then the prices are lower. Where would you like to go? Mountains or sea?",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Abendessen. (Dinner planning)",
+    "German": "Wie wäre es, wenn wir zu Hause kochen? Das ist billiger und gesünder. Wir könnten Pasta oder etwas Schnelles machen.",
+    "English": "How about cooking at home? It's cheaper and healthier. We could make pasta or something quick.",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie einen Filmabend. (Movie night)",
+    "German": "Wollen wir eine Serie statt einen Film schauen? Dann können wir mehrere Folgen sehen. Wann soll es anfangen?",
+    "English": "Do we want to watch a series instead of a movie? Then we can see several episodes. When should it start?",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie Sport. (Plan to do sports)",
+    "German": "Sollen wir am Wochenende ins Fitnessstudio gehen? Wir können ein Probetraining machen.",
+    "English": "Should we go to the gym on the weekend? We can do a trial training.",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie gemeinsames Lernen. (Plan to study together)",
+    "German": "Sollen wir am Abend lernen? Ich bin ab 20 Uhr frei. Wir können TELC-Übungen machen.",
+    "English": "Should we study in the evening? I'm free from 8 p.m. We can do TELC exercises.",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie einen Besuch. (Plan a visit)",
+    "German": "Sollen wir uns bei dir oder bei mir treffen? Ich habe beide Optionen offen.",
+    "English": "Shall we meet at your place or at my place? I have both options open.",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Aktivität mit Freunden. (Group activity)",
+    "German": "Wie wäre es mit einem Bowlingabend? Wir könnten zusammen hingehen.",
+    "English": "How about a bowling evening? We could go together.",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Party. (Plan a party)",
+    "German": "Ich denke, es wäre gut, die Party in einem Restaurant zu feiern. Dann müssen wir nichts vorbereiten und kein Chaos aufräumen. Sollen wir einen Tisch reservieren? Welche Uhrzeit findest du gut? Ich würde 19 Uhr vorschlagen.",
+    "English": "I think it would be good to have the party in a restaurant. Then we don't have to prepare anything and we don't have to clean up a mess. Should we book a table? What time do you like? I would suggest 7 pm.",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Geschenk für einen Kollegen. (Gift planning)",
+    "German": "Ich schlage vor, dass wir ein schönes Geschenkset kaufen, vielleicht Tee oder Kaffee. Das mögen viele Leute. Sollen wir heute nach der Arbeit zusammen einkaufen gehen?",
+    "English": "I suggest that we buy a nice gift set, maybe tea or coffee. Many people like that. Should we go shopping together after work today?",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Treffen. (Plan a meeting)",
+    "German": "Wann hast du Zeit? Ich bin flexibel. Vielleicht können wir uns am Wochenende treffen? Sag mir eine Uhrzeit, die dir passt.",
+    "English": "When do you have time? I'm flexible. Maybe we can meet at the weekend? Tell me a time that suits you.",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Reise. (Plan a trip)",
+    "German": "Ich bin unsicher. Sollen wir zuerst entscheiden: Auto, Bus oder Flug? Danach können wir das Ziel wählen. Was meinst du?",
+    "English": "I'm unsure. Should we decide first: car, bus or flight? After that, we can choose the destination. What do you mean?",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Abendessen. (Dinner planning)",
+    "German": "Ich bin offen. Willst du lieber Fleisch oder vegetarisch? Wenn du möchtest, kann ich vorher einen Tisch reservieren.",
+    "English": "I'm open. Do you prefer meat or vegetarian? If you wish, I can reserve a table in advance.",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie einen Filmabend. (Movie night)",
+    "German": "Wir können zuerst eine Liste mit Filmen machen und dann abstimmen. Passt dir Freitagabend?",
+    "English": "We can first make a list of films and then vote. Does Friday night suit you?",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie Sport. (Plan to do sports)",
+    "German": "Wir könnten auch Yoga ausprobieren. Das ist entspannend. Welche Zeit passt für dich?",
+    "English": "We could also try yoga. It's relaxing. What time suits you?",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie gemeinsames Lernen. (Plan to study together)",
+    "German": "Wie wäre es, wenn wir uns zweimal pro Woche treffen? Wir können Grammatik wiederholen und Hörverstehen üben.",
+    "English": "How about we meet twice a week? We can review grammar and practice listening comprehension.",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie einen Besuch. (Plan a visit)",
+    "German": "Wann hast du Zeit für einen Besuch? Ich möchte dir etwas zeigen.",
+    "English": "When do you have time to visit? I want to show you something.",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Aktivität mit Freunden. (Group activity)",
+    "German": "Wir könnten auch zusammen grillen. Das wäre eine gute Idee, wenn das Wetter gut ist.",
+    "English": "We could also have a barbecue together. That would be a good idea if the weather is good.",
+    "theme": "B1-PART2-SPEAKING"
+  },
+  {
+    "Article": "Stellen Sie sich bitte vor. (Introduce yourself)",
+    "German": "Hallo, ich heiße Sadhashiva und ich bin 39 Jahre alt. Ich komme aus Indien, aber ich lebe und arbeite seit einigen Jahren in Bahrain. Ich arbeite als Apotheker und interessiere mich für Gesundheit und Medizin. In meiner Freizeit lerne ich Deutsch, weil ich später in Deutschland arbeiten möchte. Außerdem gehe ich gern spazieren und höre Podcasts. Ich freue mich auf diese Prüfung und hoffe auf ein gutes Gespräch.",
+    "English": "Hi, my name is Sadhashiva and I am 39 years old. I'm from India, but I've been living and working in Bahrain for a few years. I work as a pharmacist and am interested in health and medicine. In my free time, I am learning German because I want to work in Germany later. I also like to go for walks and listen to podcasts. I am looking forward to this exam and hope for a good conversation.",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Beruf. (Your job)",
+    "German": "Ich arbeite als Apotheker und mache diesen Beruf seit vielen Jahren. Jeden Tag berate ich Patienten, erkläre Medikamente und arbeite mit Ärzten zusammen. Mir gefällt meine Arbeit, weil ich Menschen helfen kann und viel Verantwortung habe. Manchmal ist es stressig, aber meistens ist es sehr interessant. Ich möchte auch in Zukunft in diesem Bereich arbeiten, vielleicht in Deutschland.",
+    "English": "I work as a pharmacist and have been doing this profession for many years. Every day I advise patients, explain medications and work with doctors. I like my work because I can help people and have a lot of responsibility. Sometimes it's stressful, but most of the time it's very interesting. I would like to continue working in this field in the future, perhaps in Germany.",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Warum lernen Sie Deutsch? (Why German?)",
+    "German": "Ich lerne Deutsch, weil ich später in Deutschland arbeiten möchte. Für meinen Beruf ist die Sprache sehr wichtig und ich brauche sie im Alltag. Auch die Kultur interessiert mich und ich möchte mich mit Menschen gut unterhalten können. Deutsch ist eine schwierige Sprache, aber ich übe jeden Tag und mache Fortschritte. Mein Ziel ist es, die TELC B1 Prüfung zu bestehen.",
+    "English": "I'm learning German because I want to work in Germany later. Language is very important for my profession and I need it in everyday life. I'm also interested in culture and I want to be able to have a good conversation with people. German is a difficult language, but I practice every day and make progress. My goal is to pass the TELC B1 exam.",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Familie. (Family)",
+    "German": "Meine Familie lebt in Indien, und wir haben einen sehr guten Kontakt. Ich habe einen Bruder und viele Verwandte, und wir telefonieren regelmäßig. Natürlich vermisse ich sie manchmal, aber wir sehen uns meistens einmal im Jahr. Familie ist mir sehr wichtig, weil sie mir immer Unterstützung gibt. Wenn ich frei habe, verbringe ich gern Zeit mit ihnen.",
+    "English": "My family lives in India, and we have a very good contact. I have a brother and many relatives, and we talk on the phone regularly. Of course, I miss her sometimes, but we usually see each other once a year. Family is very important to me because it always gives me support. When I have time off, I like to spend time with them.",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Freizeit. (Free time)",
+    "German": "In meiner Freizeit mache ich gern Spaziergänge und höre Podcasts. Am Wochenende koche ich gern und probiere neue Rezepte. Außerdem lerne ich Deutsch, meistens am Abend. Freizeit ist wichtig für mich, damit ich entspannen und Energie sammeln kann.",
+    "English": "In my free time, I like to go for walks and listen to podcasts. On weekends, I like to cook and try new recipes. I also learn German, mostly in the evening. Free time is important for me so that I can relax and gather energy.",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Beschreiben Sie Ihre Wohnung. (Your home)",
+    "German": "Ich wohne in einer kleinen, aber gemütlichen Wohnung in Bahrain. Sie hat zwei Zimmer, eine Küche und ein Badezimmer. Die Gegend ist ruhig und sicher, und Geschäfte sind in der Nähe. Ich fühle mich dort wohl und es ist ein guter Ort zum Lernen.",
+    "English": "I live in a small but cozy apartment in Bahrain. It has two rooms, a kitchen and a bathroom. The area is quiet and safe, and shops are nearby. I feel comfortable there and it's a good place to study.",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihren Alltag. (Daily routine)",
+    "German": "Mein Alltag beginnt früh am Morgen, normalerweise gegen sechs Uhr. Ich trinke Kaffee und fahre dann zur Arbeit. Der Arbeitstag ist oft lang, aber abwechslungsreich. Am Abend lerne ich Deutsch oder gehe spazieren. Ich versuche, eine gute Balance zwischen Arbeit und Freizeit zu haben.",
+    "English": "My everyday life starts early in the morning, usually around six o'clock. I drink coffee and then drive to work. The working day is often long, but varied. In the evening I learn German or go for a walk. I try to have a good balance between work and leisure.",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Zukunftspläne. (Future plans)",
+    "German": "Ich plane, bald die TELC B1 Prüfung zu bestehen und danach meine beruflichen Möglichkeiten zu erweitern. Mein Ziel ist es, in Deutschland zu arbeiten und neue Erfahrungen zu sammeln. Ich möchte mich sprachlich und beruflich weiterentwickeln. Außerdem würde ich gern mehr reisen und neue Orte kennenlernen.",
+    "English": "I plan to pass the TELC B1 exam soon and then expand my professional opportunities. My goal is to work in Germany and gain new experiences. I want to develop linguistically and professionally. I would also like to travel more and get to know new places.",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Ihre Hobbys. (Hobbies)",
+    "German": "Meine Hobbys sind Kochen, Lesen und Spazierengehen. Kochen entspannt mich und macht mir Spaß, besonders neue Rezepte. Lesen hilft mir, neue Ideen zu bekommen und auch mein Deutsch zu verbessern. Ich genieße es, Zeit für meine Hobbys zu haben.",
+    "English": "My hobbies are cooking, reading and walking. Cooking relaxes me and is fun for me, especially new recipes. Reading helps me to get new ideas and also to improve my German. I enjoy having time for my hobbies.",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Sprechen Sie über Gesundheit. (Health)",
+    "German": "Gesundheit ist mir sehr wichtig. Ich versuche, gesund zu essen, viel Wasser zu trinken und regelmäßig spazieren zu gehen. Bewegung hilft mir, Stress abzubauen und fit zu bleiben. Außerdem achte ich darauf, genug zu schlafen. Ein gesunder Lebensstil ist besonders wichtig bei einem stressigen Beruf.",
+    "English": "Health is very important to me. I try to eat healthy, drink plenty of water, and go for regular walks. Exercise helps me to reduce stress and stay fit. I also make sure to get enough sleep. A healthy lifestyle is especially important in a stressful job.",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Party. (Plan a party)",
+    "German": "Ich schlage vor, dass wir die Party am Samstagabend machen, weil viele Leute dann frei haben. Vielleicht können wir die Feier bei mir zu Hause machen, dort haben wir genug Platz. Wir brauchen Essen, Getränke und gute Musik. Ich finde es eine gute Idee, eine WhatsApp-Gruppe zu machen, um alle einzuladen. Was denkst du — sollen wir 10 oder 15 Personen einladen? Wenn du möchtest, kann ich Getränke besorgen. Am Ende können wir alles teilen, damit es fair bleibt. Passt dir Samstag gut?",
+    "English": "I suggest that we do the party on Saturday night, because many people have time off. Maybe we can have the celebration at my home, we have enough space there. We need food, drinks and good music. I think it's a good idea to make a WhatsApp group to invite everyone. What do you think — should we invite 10 or 15 people? If you wish, I can get drinks. In the end, we can share everything so that it remains fair. Does Saturday suit you well?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Geschenk für einen Kollegen. (Plan a gift)",
+    "German": "Ich finde, wir sollten unserem Kollegen ein schönes und praktisches Geschenk kaufen. Vielleicht ein hochwertiges Notizbuch oder einen Gutschein? Wir könnten zusammen Geld sammeln, vielleicht 15 oder 20 Euro pro Person. Hast du eine bessere Idee oder kennst du seine Interessen? Wenn du möchtest, kann ich nach der Arbeit in ein Geschäft gehen und etwas aussuchen. Sollen wir das Geschenk am letzten Arbeitstag übergeben?",
+    "English": "I think we should buy our colleague a nice and practical gift. Maybe a high-quality notebook or a voucher? We could raise money together, maybe 15 or 20 euros per person. Do you have a better idea or do you know his interests? If you want, I can go to a store after work and pick something out. Should we give the gift on the last day of work?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Treffen. (Meeting)",
+    "German": "Sollen wir uns morgen nach der Arbeit treffen? Ich bin ab 18 Uhr frei. Wir könnten in ein Café gehen und etwa eine Stunde sprechen. Es wäre eine gute Gelegenheit, Deutsch zu üben. Wenn morgen nicht passt, können wir auch am Wochenende einen Termin finden. Was passt dir besser?",
+    "English": "Should we meet tomorrow after work? I'm free from 6 p.m. We could go to a café and talk for about an hour. It would be a good opportunity to practice German. If tomorrow doesn't fit, we can also find an appointment on the weekend. What suits you better?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Reise. (Plan a trip)",
+    "German": "Ich habe eine Idee: Wie wäre es, wenn wir nächstes Wochenende eine kleine Reise machen? Vielleicht nach Dubai oder zu einem Strand in der Nähe. Wir könnten zwei Nächte bleiben und uns entspannen. Es wäre schön, einmal wegzukommen und etwas Neues zu sehen. Wir können online Hotels vergleichen und etwas Günstiges finden. Hast du Zeit am Wochenende? Und welches Reiseziel gefällt dir besser?",
+    "English": "I have an idea: How about we go on a little trip next weekend? Maybe to Dubai or to a beach nearby. We could stay two nights and relax. It would be nice to get away and see something new. We can compare hotels online and find something cheap. Do you have time on the weekend? And which destination do you like better?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie ein Abendessen. (Dinner plan)",
+    "German": "Ich würde gern heute oder morgen Abend essen gehen. Es gibt ein neues Restaurant in der Stadt, das sehr gute Bewertungen hat. Möchtest du indisch oder italienisch essen? Wenn du willst, kann ich einen Tisch reservieren. Ich denke, 19 oder 20 Uhr wäre eine gute Zeit. Was meinst du?",
+    "English": "I'd like to go out for dinner tonight or tomorrow night. There is a new restaurant in town that has very good reviews. Do you want to eat Indian or Italian? If you want, I can reserve a table. I think 7 or 8 p.m. would be a good time. What do you mean?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie einen Filmabend. (Movie night)",
+    "German": "Sollen wir am Freitag einen Filmabend machen? Ich schlage vor, dass wir einen deutschen Film schauen, damit wir gleichzeitig lernen. Wir können Snacks kaufen und es gemütlich machen. Wenn du möchtest, erstelle ich eine Liste mit Filmen und wir wählen gemeinsam. Welche Uhrzeit passt dir am besten — 19 Uhr oder später?",
+    "English": "Should we have a movie night on Friday? I suggest that we watch a German film so that we learn at the same time. We can buy snacks and make it cozy. If you want, I'll make a list of movies and we'll choose together. What time suits you best — 7 p.m. or later?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie Sport. (Plan exercise)",
+    "German": "Wie wäre es, wenn wir zwei- bis dreimal pro Woche gemeinsam Sport machen? Wir könnten abwechselnd spazieren gehen, joggen oder Yoga machen. Bewegung tut gut und hilft beim Stressabbau. Wenn du willst, können wir eine feste Zeit bestimmen, zum Beispiel 18 Uhr. Was hältst du davon?",
+    "English": "How about doing sports together two to three times a week? We could alternate between walking, jogging or doing yoga. Exercise is good for you and helps to reduce stress. If you want, we can set a fixed time, for example 6 pm. What do you think of that?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie gemeinsames Lernen. (Study together)",
+    "German": "Ich schlage vor, dass wir gemeinsam Deutsch lernen, vielleicht zweimal pro Woche. Wir könnten Grammatik wiederholen, Dialoge üben und Hörverstehen machen. Es wäre motivierender, wenn wir zusammen lernen. Wann hast du normalerweise Zeit — abends oder am Wochenende? Wenn du möchtest, kann ich Material vorbereiten. Sollen wir nächste Woche anfangen?",
+    "English": "I suggest that we learn German together, maybe twice a week. We could review grammar, practice dialogues and do listening comprehension. It would be more motivating if we learned together. When do you usually have time — in the evenings or on weekends? If you want, I can prepare material. Should we start next week?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie einen Besuch. (Plan a visit)",
+    "German": "Kann ich dich am Samstag besuchen? Ich würde gern mit dir Kaffee trinken und ein bisschen sprechen. Wenn Samstag nicht passt, können wir einen anderen Tag finden. Sag mir einfach, wann es für dich gut ist.",
+    "English": "Can I visit you on Saturday? I'd like to have coffee with you and talk a bit. If Saturday doesn't fit, we can find another day. Just tell me when it's good for you.",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Planen Sie eine Aktivität mit Freunden. (Group activity)",
+    "German": "Ich denke, es wäre schön, mit Freunden etwas zu machen. Wie wäre es mit einem Spieleabend oder einem Treffen im Park? Jeder könnte etwas zu essen mitbringen. Es wäre gemütlich und nicht teuer. Wollen wir eine kleine Gruppe einladen — vielleicht vier oder fünf Personen? Wenn du möchtest, kann ich die Organisation übernehmen.",
+    "English": "I think it would be nice to do something with friends. How about a game night or a meeting in the park? Everyone could bring something to eat. It would be cozy and not expensive. Do we want to invite a small group —maybe four or five people? If you wish, I can take over the organization.",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Mein Beruf (My job)",
+    "German": "Heute möchte ich über meinen Beruf sprechen. Ich arbeite als Apotheker und habe diesen Beruf gewählt, weil ich gern Menschen helfe. In meinem Beruf berate ich Patienten, kontrolliere Rezepte und erkläre Medikamente. Die Arbeit ist interessant, aber manchmal stressig, weil ich Verantwortung tragen muss. Besonders gut gefällt mir, dass ich jeden Tag etwas Neues lerne. Ich habe auch Kontakt mit Ärzten und Kollegen, und wir arbeiten als Team. Meine Erfahrung in diesem Beruf ist sehr positiv, und ich bin dankbar dafür. In Zukunft möchte ich in Deutschland im gleichen Bereich arbeiten. Das war meine Präsentation. Haben Sie Fragen?",
+    "English": "Today I would like to talk about my profession. I work as a pharmacist and chose this profession because I like to help people. In my job, I advise patients, check prescriptions and explain medications. The work is interesting, but sometimes stressful because I have to bear responsibility. I especially like the fact that I learn something new every day. I also have contact with doctors and colleagues, and we work as a team. My experience in this profession has been very positive, and I am grateful for it. In the future, I would like to work in the same field in Germany. That was my presentation. Do you have any questions?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Mein Heimatland (My home country)",
+    "German": "Heute spreche ich über mein Heimatland Indien. Ich habe dieses Thema gewählt, weil ich stolz auf mein Land bin. Indien ist groß und kulturell sehr vielfältig. Es gibt viele Sprachen, Traditionen und Feste. Das Essen ist sehr abwechslungsreich und oft würzig. Besonders schön finde ich die Gastfreundschaft der Menschen. Ich vermisse manchmal mein Land, besonders meine Familie und Feiertage. Trotzdem finde ich es spannend, in einem anderen Land zu leben. Das war meine Präsentation zu meinem Heimatland. Gibt es Fragen?",
+    "English": "Today I am talking about my home country India. I chose this topic because I am proud of my country. India is large and culturally very diverse. There are many languages, traditions and festivals. The food is very varied and often spicy. I particularly like the hospitality of the people. I sometimes miss my country, especially my family and holidays. Nevertheless, I find it exciting to live in another country. That was my presentation about my home country. Do you have any questions?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Mein Alltag (My daily routine)",
+    "German": "Ich möchte über meinen Alltag sprechen. Ich habe dieses Thema gewählt, weil Routine mir hilft, organisiert zu bleiben. Mein Tag beginnt früh, meistens gegen sechs Uhr. Dann trinke ich Kaffee und gehe zur Arbeit. Dort spreche ich mit vielen Kunden und helfe bei medizinischen Fragen. Am Abend lerne ich Deutsch oder mache Sport. Am Wochenende versuche ich, mich auszuruhen. Ich finde meinen Alltag manchmal anstrengend, aber auch sinnvoll. Haben Sie Fragen zu meinem Alltag?",
+    "English": "I want to talk about my everyday life. I chose this topic because routine helps me stay organized. My day starts early, usually around six o'clock. Then I drink coffee and go to work. There I talk to many customers and help with medical questions. In the evening I learn German or do sports. On weekends, I try to rest. I sometimes find my everyday life exhausting, but also meaningful. Do you have any questions about my everyday life?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Meine Freizeit (My free time)",
+    "German": "Heute möchte ich über meine Freizeit sprechen. Ich finde Freizeit wichtig, weil sie mir hilft, Stress abzubauen. In meiner freien Zeit koche ich gern und probiere neue Rezepte. Außerdem gehe ich gern spazieren und höre Musik oder Podcasts. Am Wochenende lese ich manchmal Bücher oder schaue Dokumentationen. Seit einigen Monaten lerne ich auch Deutsch in meiner Freizeit. Das macht mir Spaß und hilft mir für meine Zukunft. Haben Sie Fragen zu diesem Thema?",
+    "English": "Today I would like to talk about my free time. I think free time is important because it helps me to reduce stress. In my free time, I like to cook and try new recipes. I also like to go for walks and listen to music or podcasts. On weekends, I sometimes read books or watch documentaries. For a few months now, I have also been learning German in my free time. That's fun for me and helps me for my future. Do you have any questions on this topic?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Gesundheit (Health)",
+    "German": "Ich spreche heute über Gesundheit, weil sie im Leben sehr wichtig ist. Gesundheit bedeutet für mich nicht nur keine Krankheit, sondern auch Wohlbefinden. Ich versuche, gesund zu essen und regelmäßig Wasser zu trinken. Außerdem gehe ich fast jeden Tag spazieren oder mache leichte Übungen. Schlaf ist auch sehr wichtig, deshalb versuche ich, genug zu schlafen. Natürlich gibt es Tage, an denen es nicht perfekt klappt, aber ich versuche mein Bestes. Ich denke, ein gesunder Lebensstil hilft uns, glücklicher und produktiver zu sein. Das war mein Beitrag. Haben Sie Fragen?",
+    "English": "I am talking about health today because it is very important in life. For me, health not only does not mean illness, but also well-being. I try to eat healthy and drink water regularly. I also go for a walk or do light exercises almost every day. Sleep is also very important, so I try to get enough sleep. Of course, there are days when it doesn't work out perfectly, but I try my best. I think a healthy lifestyle helps us to be happier and more productive. That was my contribution. Do you have any questions?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Reisen (Travel)",
+    "German": "Heute möchte ich über Reisen sprechen. Reisen ist mir wichtig, weil man neue Kulturen und Menschen kennenlernen kann. Ich reise gern innerhalb meines Landes und manchmal ins Ausland. Mein schönstes Reiseziel war Dubai, weil es modern und sehr interessant ist. Beim Reisen probiere ich auch gern neue Gerichte. In Zukunft möchte ich Europa entdecken, besonders Deutschland. Reisen macht Spaß und erweitert den Horizont. Das war meine Präsentation. Haben Sie eine Frage?",
+    "English": "Today I would like to talk about travel. Traveling is important to me because you can get to know new cultures and people. I like to travel within my country and sometimes abroad. My best travel destination was Dubai because it is modern and very interesting. When traveling, I also like to try new dishes. In the future, I would like to discover Europe, especially Germany. Traveling is fun and broadens your horizons. That was my presentation. Do you have a question?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Essen und Trinken (Food & drinks)",
+    "German": "Heute spreche ich über Essen und Trinken, weil es ein wichtiger Teil unseres Lebens ist. Ich esse gern indische Gerichte, besonders Biriyani, weil es sehr gut schmeckt. Ich koche auch gern, wenn ich Zeit habe. Trinken ist auch wichtig und ich versuche, viel Wasser zu trinken. Am Wochenende gehe ich manchmal essen und probiere neue Restaurants. Ich finde Ernährung wichtig für Gesundheit und Wohlbefinden. Gibt es Fragen dazu?",
+    "English": "Today, I'm talking about food and drink because it's an important part of our lives. I like to eat Indian dishes, especially biriyani, because it tastes very good. I also like to cook when I have time. Drinking is also important and I try to drink plenty of water. On weekends, I sometimes go out to eat and try new restaurants. I think nutrition is important for health and well-being. Are there any questions about this?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Technologie (Technology)",
+    "German": "Heute möchte ich über Technologie sprechen. Ich habe das Thema gewählt, weil Technologie heute ein großer Teil unseres Lebens ist. Technologien wie Smartphones, Computer und Apps helfen uns im Alltag. Zum Beispiel lerne ich Deutsch mit Online-Übungen und Videos. Natürlich hat Technologie auch Nachteile, zum Beispiel Ablenkung oder zu viel Bildschirmzeit. Trotzdem glaube ich, dass Technologie viele Vorteile bringt, wenn wir sie bewusst verwenden. Haben Sie Fragen zu diesem Thema?",
+    "English": "Today I want to talk about technology. I chose the topic because technology is a big part of our lives today. Technologies such as smartphones, computers and apps help us in everyday life. For example, I learn German with online exercises and videos. Of course, technology also has disadvantages, such as distraction or too much screen time. Nevertheless, I believe that technology brings many benefits if we use it consciously. Do you have any questions on this topic?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Feste und Feiertage (Festivals & holidays)",
+    "German": "Ich spreche heute über Feste und Feiertage. Feste sind wichtig, weil sie Menschen zusammenbringen und Freude machen. In Indien feiern wir viele Feste, zum Beispiel Diwali. Bei Diwali treffen sich Familien, essen zusammen und machen Dekorationen. Ich finde Feste schön, weil sie Erinnerungen schaffen. Auch hier feiere ich manchmal mit Freunden. Haben Sie eine Frage dazu?",
+    "English": "Today I am talking about festivals and holidays. Festivals are important because they bring people together and bring joy. In India, we celebrate many festivals, for example Diwali. At Diwali, families meet, eat together and make decorations. I think festivals are beautiful because they create memories. Here, too, I sometimes celebrate with friends. Do you have a question about this?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+  {
+    "Article": "Meine Zukunft (My future)",
+    "German": "Heute spreche ich über meine Zukunft. Ich habe klare Ziele und arbeite jeden Tag daran. Zuerst möchte ich die TELC B1 Prüfung bestehen. Danach möchte ich nach Deutschland gehen und dort beruflich weiterarbeiten. Ich möchte neue Erfahrungen sammeln und meine sprachlichen Fähigkeiten verbessern. Vielleicht mache ich später auch eine Weiterbildung oder ein Studium. Ich weiß, dass es Zeit braucht, aber ich bin motiviert. Das war meine Präsentation. Haben Sie Fragen?",
+    "English": "Today I'm talking about my future. I have clear goals and work on them every day. First of all, I want to pass the TELC B1 exam. After that, I would like to go to Germany and continue working there professionally. I want to gain new experiences and improve my language skills. Maybe I'll do further training or a degree later on. I know it takes time, but I'm motivated. That was my presentation. Do you have any questions?",
+    "theme": "B1-PART3-SPEAKING"
+  },
+
   {
     "Article": null,
     "German": "Vielen Dank im Voraus für Ihre Hilfe.",
