@@ -589,3 +589,189 @@ input[type="text"]:focus{
 ::-webkit-scrollbar-track{
   background:#edf2f7;
 }
+/* =========================================================
+   FINAL MOBILE RESPONSIVE PATCH
+========================================================= */
+
+@media (max-width: 768px) {
+
+  /* MAIN MODAL */
+  .modal-content {
+    width: 99%;
+    margin: 5px auto;
+    padding: 10px;
+    border-radius: 10px;
+  }
+
+  /* TABLE WRAPPER */
+  .table-wrapper {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+  }
+
+  /* MOBILE TABLE */
+  table {
+    width: 100%;
+    min-width: unset !important;
+    table-layout: auto;
+    font-size: 12px;
+  }
+
+  th,
+  td {
+    padding: 6px;
+    font-size: 12px;
+    white-space: normal;
+    word-break: break-word;
+  }
+
+  /* AUDIO BUTTONS */
+  .audio-btn {
+    padding: 4px 6px;
+    font-size: 11px;
+  }
+
+  /* CONTROL BARS */
+  .filter-bar,
+  .batch-bar,
+  .controls-bar,
+  .test-controls {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: white;
+    padding: 8px 0;
+  }
+
+  /* BUTTONS */
+  button {
+    font-size: 13px;
+    padding: 10px;
+  }
+
+  /* WORD DISPLAY */
+  .word-display {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  /* MATCHING TEST */
+  .matching-container {
+    grid-template-columns: 1fr;
+  }
+
+  .match-column {
+    min-height: auto;
+  }
+
+  /* TEST OPTION BUTTONS */
+  .option-btn {
+    font-size: 14px;
+    padding: 12px;
+  }
+
+  /* STATS */
+  .stats-box {
+    font-size: 12px;
+    gap: 8px;
+  }
+
+  /* TOP STICKY ACTION BAR */
+  .mobile-sticky-top {
+    position: sticky;
+    top: 0;
+    z-index: 200;
+    background: white;
+    padding: 8px 0;
+    border-bottom: 1px solid #ddd;
+  }
+
+}
+/* =========================================================
+   PLAY CONTROL STICKY PATCH
+========================================================= */
+
+.controls-bar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: #f4f6f9;
+  padding: 10px 0;
+}
+/* =========================================================
+   FINAL UX STABILIZATION PATCH
+========================================================= */
+
+/* TOP CONTROL BAR STICKY */
+.controls-bar{
+  position: sticky;
+  top: 0;
+  z-index: 500;
+  background: white;
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+/* KEEP BUTTONS VISIBLE */
+.controls-bar button{
+  flex-shrink: 0;
+}
+
+/* TABLE AREA SAFE SPACING */
+.table-wrapper{
+  margin-top: 10px;
+}
+
+/* PLAYING ROW */
+.playing{
+  scroll-margin-top: 120px;
+}
+
+/* TOP BACK BUTTON */
+#top-back-btn{
+  background:#264653;
+  color:white;
+}
+
+/* MOBILE FIXES */
+@media (max-width:768px){
+
+  /* CONTROL BAR MOBILE */
+  .controls-bar{
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background: white;
+    padding: 10px 5px;
+    gap: 8px;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* MOBILE BUTTONS */
+  .controls-bar button{
+    width: auto;
+    min-width: max-content;
+    font-size: 12px;
+    padding: 10px 12px;
+  }
+
+  /* MOBILE TABLE */
+  .table-wrapper{
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  table{
+    min-width: 700px;
+  }
+
+  /* PLAYING ROW CENTER */
+  .playing{
+    scroll-margin-top: 150px;
+  }
+
+}

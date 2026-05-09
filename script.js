@@ -72058,3 +72058,366 @@ document.head.appendChild(stickyStyle);
 console.log(
   "FINAL CONTINUATION PATCH LOADED"
 );
+// =========================================================
+// FINAL STABILIZATION PATCH
+// CLEAN VERSION FOR CURRENT ARCHITECTURE
+// =========================================================
+
+console.log("FINAL STABILIZATION PATCH ACTIVE");
+
+// =========================================================
+// GLOBAL SAFETY
+// =========================================================
+
+let answerLocked = false;
+let playObserver = null;
+
+// =========================================================
+// SAFE AUDIO
+// =========================================================
+
+function safeSpeak(text, lang = "de-DE") {
+
+  try {
+
+    speechSynthesis.cancel();
+
+    const utter =
+      new SpeechSynthesisUtterance(text);
+
+    utter.lang = lang;
+
+    utter.rate = speechRate || 0.8;
+
+    speechSynthesis.speak(utter);
+
+  }
+
+  catch(err) {
+
+    console.log("Speech Error:", err);
+
+  }
+
+}
+
+// =========================================================
+// SAFE STOP AUDIO
+// =========================================================
+
+const originalStopAudio = stopAudio;
+
+stopAudio = function(){
+
+  speechSynthesis.cancel();
+
+  isPlayingAll = false;
+
+  if(originalStopAudio){
+    originalStopAudio();
+  }
+
+};
+
+// =========================================================
+// SAFE PLAY ALL AUTO CENTER
+// =========================================================
+
+const originalPlayAll = playAllAudio;
+
+playAllAudio = function(startIndex = 0){
+
+  if(playObserver){
+    playObserver.disconnect();
+  }
+
+  originalPlayAll(startIndex);
+
+  setTimeout(() => {
+
+    const table =
+      document.getElementById(
+        "word-table-body"
+      );
+
+    if(!table) return;
+
+    playObserver =
+      new MutationObserver(() => {
+
+        const playing =
+          document.querySelector(".playing");
+
+        if(playing){
+
+          playing.scrollIntoView({
+            behavior: "smooth",
+            block: "center"
+          });
+
+        }
+
+      });
+
+    playObserver.observe(table,{
+      subtree:true,
+      attributes:true
+    });
+
+  },300);
+
+};
+
+// =========================================================
+// SAFE HOME / BACK
+// =========================================================
+
+const originalBackToThemes =
+  backToThemes;
+
+backToThemes = function(){
+
+  speechSynthesis.cancel();
+
+  isPlayingAll = false;
+
+  if(playObserver){
+    playObserver.disconnect();
+  }
+
+  originalBackToThemes();
+
+};
+
+// =========================================================
+// DOUBLE CLICK PROTECTION
+// =========================================================
+
+function lockAnswers(){
+
+  if(answerLocked) return true;
+
+  answerLocked = true;
+
+  setTimeout(() => {
+    answerLocked = false;
+  },1200);
+
+  return false;
+
+}
+
+// =========================================================
+// SAFE MEANINGS TEST
+// =========================================================
+
+if(typeof checkMeaningsAnswer !== "undefined"){
+
+  const oldMeanings =
+    checkMeaningsAnswer;
+
+  checkMeaningsAnswer = function(){
+
+    if(lockAnswers()) return;
+
+    oldMeanings.apply(this, arguments);
+
+  };
+
+}
+
+// =========================================================
+// SAFE ARTICLE TEST
+// =========================================================
+
+if(typeof checkArticleAnswer !== "undefined"){
+
+  const oldArticle =
+    checkArticleAnswer;
+
+  checkArticleAnswer = function(){
+
+    if(lockAnswers()) return;
+
+    oldArticle.apply(this, arguments);
+
+  };
+
+}
+
+// =========================================================
+// STRICT ARTICLE FILTER
+// =========================================================
+
+function isRealArticle(article){
+
+  if(!article) return false;
+
+  const a =
+    article.toLowerCase().trim();
+
+  return (
+    a === "der" ||
+    a === "die" ||
+    a === "das"
+  );
+
+}
+
+// =========================================================
+// PATCH ARTICLE TEST
+// =========================================================
+
+if(typeof startArticleTest !== "undefined"){
+
+  startArticleTest = function(){
+
+    currentTest = "article";
+
+    currentQuestion = 0;
+
+    score = 0;
+
+    currentTestWords =
+      filteredWords.filter(
+        w => isRealArticle(w.Article)
+      );
+
+    if(currentBatchSize > 0){
+
+      currentTestWords =
+        currentTestWords.slice(
+          0,
+          currentBatchSize
+        );
+
+    }
+
+    if(currentTestWords.length === 0){
+
+      document.getElementById(
+        "test-content"
+      ).innerHTML = `
+
+        <div class="question-box">
+
+          <h2>
+            No valid noun/article words found.
+          </h2>
+
+          <div class="test-controls">
+
+            <button onclick="backToThemes()">
+              🏠 Home
+            </button>
+
+          </div>
+
+        </div>
+      `;
+
+      return;
+
+    }
+
+    renderArticle();
+
+  };
+
+}
+
+// =========================================================
+// SAFE MATCHING AUDIO
+// =========================================================
+
+document.addEventListener("click",(e)=>{
+
+  const item =
+    e.target.closest(".match-item");
+
+  if(!item) return;
+
+  if(item.dataset.german){
+
+    safeSpeak(
+      item.dataset.german,
+      "de-DE"
+    );
+
+  }
+
+});
+
+// =========================================================
+// SAFE DICTATION FOCUS
+// =========================================================
+
+document.addEventListener("focusin",(e)=>{
+
+  if(
+    e.target &&
+    e.target.id === "spelling-input"
+  ){
+
+    e.target.setAttribute(
+      "autocomplete",
+      "off"
+    );
+
+  }
+
+});
+
+// =========================================================
+// MOBILE STICKY CONTROL FIX
+// =========================================================
+
+const finalStyle =
+document.createElement("style");
+
+finalStyle.innerHTML = `
+
+.controls-bar,
+.filter-bar,
+.batch-bar{
+
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: #ffffff;
+  padding: 10px 0;
+
+}
+
+#word-table-container{
+
+  max-height: 75vh;
+  overflow-y: auto;
+
+}
+
+`;
+
+document.head.appendChild(finalStyle);
+
+// =========================================================
+// CLEAN EXIT
+// =========================================================
+
+window.addEventListener("beforeunload",()=>{
+
+  speechSynthesis.cancel();
+
+  if(playObserver){
+    playObserver.disconnect();
+  }
+
+});
+
+// =========================================================
+// PATCH COMPLETE
+// =========================================================
+
+console.log(
+  "APP FULLY STABILIZED"
+);
